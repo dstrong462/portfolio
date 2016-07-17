@@ -69,6 +69,7 @@ Free to use under the MIT license.
 }
 
 .row {
+    position: relative;
     width: 100%;
     padding: 0;
     margin: 2% 0;
@@ -131,6 +132,11 @@ div.center {
     margin-right: auto;
 }
 
+/* Use 'pull-left' on an element to float it left */
+.pull-left {
+    float: left;
+}
+
 /* Use 'right' on a row to align its columns */
 .right .col {
     float: right;
@@ -146,6 +152,11 @@ div.center {
     text-align: right;
     margin-right: 0;
     margin-left: auto;
+}
+
+/* Use 'pull-right' on an element to float it right */
+.pull-right {
+    float: right;
 }
 
 /*  DEFAULT ELEMENT STYLING
@@ -357,6 +368,7 @@ li {
 /*  CLEARFIX
 ================================ */
 
+.clearfix,
 .main-container,
 .grid-container,
 .row {
