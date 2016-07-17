@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="153px" height="180px" viewBox="0 0 153 180" enable-background="new 0 0 153 180" xml:space="preserve">
+<g>
+	<path fill="none" stroke="#FFFFFF" stroke-width="3" stroke-miterlimit="10" d="M151.5,1.5v125.814
+		c0,13.81-12.163,24.186-25.971,24.186H1.5V27.315C1.5,13.509,11.723,1.5,25.53,1.5H151.5z"/>
+	<g>
+		<g>
+			<polygon fill="#FFFFFF" points="65.188,26.629 65.188,21.559 53.095,21.559 53.095,36.382 65.188,36.382 65.188,31.312 
+				58.166,31.312 58.166,26.629 			"/>
+			<polygon fill="#FFFFFF" points="82.352,21.559 70.259,21.559 70.259,26.764 75.305,31.312 70.259,31.312 70.259,36.382 
+				82.352,36.382 82.352,31.445 77.764,26.629 82.352,26.629 			"/>
+			<polygon fill="#FFFFFF" points="99.904,21.559 87.813,21.559 87.813,26.764 92.664,31.312 87.813,31.312 87.813,36.382 
+				99.904,36.382 99.904,31.445 95.123,26.629 99.904,26.629 			"/>
+		</g>
+		<path fill="#FFFFFF" d="M37.491,42l7.101,80.205l31.861,9.132l31.947-9.288L115.509,42H37.491z M102.066,117.866L76,124.85
+			v-10.135v0.09l-19.768-5.551L55.08,94h9.805l0.504,7.708L76,104.703v-0.151V88H54.599l-1.138-9.357L76,69.268V68H52.875l-0.866-10
+			H76v-8h32.391L102.066,117.866z"/>
+		<polygon opacity="0.8" fill="#FFFFFF" enable-background="new    " points="76.449,68.815 76.449,69.268 78.141,68.815 		"/>
+		<g>
+			<polygon opacity="0.8" fill="#FFFFFF" enable-background="new    " points="76,50 76,58 100.895,58 99.998,67.756 76.907,78 
+				99.17,78 96.256,108.654 76,114.723 76,124.85 102.066,117.866 108.391,50 			"/>
+			<polygon opacity="0.8" fill="#FFFFFF" enable-background="new    " points="88.493,88 76,88 76,104.561 87.127,101.145 			"/>
+		</g>
+		<g opacity="0.2">
+			<polygon fill="#E6E6E6" points="65.389,101.708 64.885,94 55.08,94 56.241,109.254 76,114.871 76,114.715 76,104.552 76,104.703 
+							"/>
+			<polygon fill="#E6E6E6" points="54.599,88 76,88 76,79.035 76,69.268 53.461,78.643 			"/>
+			<polygon fill="#E6E6E6" points="76.467,58 52.009,58 52.875,68 76,68 76,58 			"/>
+		</g>
+	</g>
+</g>
+</svg>
