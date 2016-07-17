@@ -175,8 +175,30 @@ body { background-color: #fafafa; }
 ===================================== */
 
 .timeline {
+    position: relative;
     background-color: #ececee;
     border-radius: 8px;
+}
+
+.timeline h5 {
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 25px;
+}
+
+.timeline p {
+    font-size: 1.33em;
+}
+
+.number {
+    color: #CFD78A;
+    font-size: 1.66em;
+    font-weight: bold;
+}
+
+.dotted-line {
+    height: 130px;
+    padding: 0;
+    margin: 0 auto;
 }
 
 /*  MEDIA QUERIES
