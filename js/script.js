@@ -2,21 +2,67 @@
 (function timeOfDay() {
     var intro = document.getElementById('intro');
     var h = new Date().getHours();
+    var urlClass = document.querySelectorAll('.url');
+    var tagClass = document.querySelectorAll('.tag');
+    var projectClass = document.querySelectorAll('.project');
+    var learning = document.getElementById('learning');
     // Sets default background image to daytime version
     document.getElementById('intro-svg').src = "img/intro.svg";
     // Changes the sky color depending on the time of day
     if (h >= 5 && h <= 10) {
         intro.className = "sunrise";
+        learning.style.backgroundColor = "#6BAFD2";
+        for (i = 0; i < urlClass.length; i++) {
+            urlClass[i].style.color = "#6BAFD2";
+        }
+        for (i = 0; i < tagClass.length; i++) {
+            tagClass[i].style.backgroundColor = "#DB8876";
+        }
+        for (i = 0; i < projectClass.length; i++) {
+            projectClass[i].style.borderColor = "#9A8DAF";
+        }
     }
     else if (h > 10 && h <= 15) {
         intro.className = "day";
+        learning.style.backgroundColor = "#ADC183";
+        for (i = 0; i < urlClass.length; i++) {
+            urlClass[i].style.color = "#90CFF2";
+        }
+        for (i = 0; i < tagClass.length; i++) {
+            tagClass[i].style.backgroundColor = "#ADC183";
+        }
+        for (i = 0; i < projectClass.length; i++) {
+            projectClass[i].style.borderColor = "#F7D47C";
+        }
     }
     else if (h > 15 && h <= 21) {
         intro.className = "sunset";
+        learning.style.backgroundColor = "#6F749E";
+        for (i = 0; i < urlClass.length; i++) {
+            urlClass[i].style.color = "#6F749E";
+        }
+        for (i = 0; i < tagClass.length; i++) {
+            tagClass[i].style.backgroundColor = "#D0A8B9";
+        }
+        for (i = 0; i < projectClass.length; i++) {
+            projectClass[i].style.borderColor = "#F8BBB1";
+        }
     }
     else if (h > 21 || h < 5) {
         intro.className = "night";
         document.getElementById('intro-svg').src = "img/intro-night.svg";
+        learning.style.backgroundColor = "#463D70";
+        for (i = 0; i < urlClass.length; i++) {
+            urlClass[i].style.color = "#FDE6B1";
+        }
+        for (i = 0; i < tagClass.length; i++) {
+            tagClass[i].style.backgroundColor = "#463D70";
+        }
+        for (i = 0; i < projectClass.length; i++) {
+            projectClass[i].style.borderColor = "#666";
+            projectClass[i].style.color = "#ececee";
+            projectClass[i].style.backgroundColor = "#353535";
+        }
     }
     else {
         intro.className = "day";
