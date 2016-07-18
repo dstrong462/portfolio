@@ -261,14 +261,14 @@ body { background-color: #fafafa; }
     .large-container {
         width: 95%;
         padding: 0;
-        margin: 0;
+        margin: 0 auto;
     }
     .project {
         border-radius: 0;
-        padding: 15px;
+        padding: 12px;
         margin-bottom: 150px;
     }
-    .project .col img { max-width: 50%; }
+    .project .col img { max-width: 65%; }
     .title {
         width: 95%;
         font-size: 2em;
