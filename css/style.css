@@ -47,7 +47,7 @@ body { background-color: #fafafa; }
 
 #intro {
     position: fixed;
-    top: 0;
+    top: inherit;
     right: 0;
     bottom: 0;
     left: 0;
@@ -60,7 +60,7 @@ body { background-color: #fafafa; }
 #intro-img {
     position: relative;
     display: inline-block;
-    top: 0;
+    top: inherit;
     left: 50%;
     transform: translateX(-50%);
     width: 100%;
@@ -75,13 +75,13 @@ body { background-color: #fafafa; }
 
 #intro-clouds {
     position: absolute;
-    top: 0;
+    top: inherit;
     left: 0;
 }
 
 #intro-clouds2 {
     position: absolute;
-    top: 0;
+    top: inherit;
     left: 0;
     z-index: 1;
 }
@@ -258,8 +258,28 @@ body { background-color: #fafafa; }
 ===================================== */ 
 
 @media (max-width: 480px) {
+    .large-container {
+        width: 100%;
+        padding: 0;
+        margin: 0;
+    }
     .project {
         border-radius: 0;
-        margin: 10px auto;
+        padding: 15px;
+        margin: 10px auto 75px auto;
+    }
+    .title {
+        width: 100%;
+        font-size: 2em;
+    }
+    .timeline {
+        border-radius: 0;
+    }
+    .timeline a img {
+        max-height: 60px;
+    }
+    .dotted-left,
+    .dotted-right {
+        display: none;
     }
 }
