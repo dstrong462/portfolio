@@ -371,6 +371,7 @@ li {
 .clearfix,
 .main-container,
 .grid-container,
+.large-container,
 .row {
     content: '';
     display: table;

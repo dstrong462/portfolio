@@ -167,14 +167,22 @@ body { background-color: #fafafa; }
 /*  SKILLS
 ===================================== */
 
-.skills .col {
-    padding: 0;
+input {
+    margin-bottom: 15px !important;
+}
+
+.skills {
+    width: 50%;
+    height: 100%;
+    text-align: center;
+    padding: 200px 100px;
+    margin: 0 auto;
 }
 
 .skills img {
-    min-width: 100px;
-    max-width: 170px;
-    margin: 0 auto;
+    display: inline-block;
+    width: 20%;
+    margin: 0 10px;
 }
 
 #total {
@@ -272,6 +280,13 @@ body { background-color: #fafafa; }
         width: 60%;
         min-width: 700px;
         margin: 0 auto 100px auto;
+    }
+    .skills {
+        height: 100%;
+        padding: 150px 100px;
+    }
+    .skills img {
+        width: 15%;
     }
     .title {
         width: 66%;
