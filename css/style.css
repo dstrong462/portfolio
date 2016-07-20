@@ -131,10 +131,15 @@ body { background-color: #fafafa; }
     border-radius: 8px;
     border: 3px solid #F7D47C;
     border-top: 20px solid #F7D47C;
-    padding: 30px;
-    margin-bottom: 50px;
+    padding: 10px 0 0 0;
+    margin-bottom: 60px;
     cursor: default;
     transition: .25s;
+}
+
+.project .col {
+    margin: left: 0;
+    margin-right: 0;
 }
 
 .project .col img {
@@ -309,7 +314,7 @@ input {
         margin-top: -25%;
     }
     .title {
-        width: 95%;
+        width: 90%;
         font-size: 2em;
     }
     .timeline {
@@ -324,7 +329,7 @@ input {
     }
     .dotted-middle {
         display: block;
-        max-width: 3px;
+        max-width: 4px;
         margin: 0 auto;
     }
 }

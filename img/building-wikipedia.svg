@@ -2,445 +2,720 @@
 <!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="100.69px" height="160.822px" viewBox="0 0 100.69 160.822" enable-background="new 0 0 100.69 160.822"
+	 width="100.689px" height="160.822px" viewBox="0 0 100.689 160.822" enable-background="new 0 0 100.689 160.822"
 	 xml:space="preserve">
-<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="16.4316" y1="114.8027" x2="16.1204" y2="96.974" gradientTransform="matrix(-1 0 0 1 75.4297 0)">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-892.1907" y1="744.9805" x2="-892.5019" y2="727.1512" gradientTransform="matrix(-1 0 0 1 -833.1919 -630.1777)">
 	<stop  offset="0" style="stop-color:#736056"/>
 	<stop  offset="1" style="stop-color:#5D4E43"/>
 </linearGradient>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_1_)" points="61.004,107.921 61.004,94.438 57.505,92.418 
-	57.505,105.901 "/>
-<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="11.9883" y1="106.7227" x2="12.9465" y2="97.6054" gradientTransform="matrix(-1 0 0 1 75.4297 0)">
+<polygon fill="url(#SVGID_1_)" points="61.004,107.921 61.004,94.438 57.505,92.418 57.505,105.901 "/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="-896.6335" y1="736.9014" x2="-895.6754" y2="727.7844" gradientTransform="matrix(-1 0 0 1 -833.1919 -630.1777)">
 	<stop  offset="0" style="stop-color:#736056"/>
 	<stop  offset="1" style="stop-color:#5D4E43"/>
 </linearGradient>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_2_)" points="61.004,107.921 61.004,94.438 64.503,92.418 
-	64.503,105.901 "/>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FFE6A8" points="47.303,25.845 61.004,33.755 74.706,25.845 61.004,17.934 
-	"/>
-<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="17.2588" y1="61.8984" x2="-2.9319" y2="64.3775" gradientTransform="matrix(-1 0 0 1 75.4297 0)">
+<polygon fill="url(#SVGID_2_)" points="61.004,107.921 61.004,94.438 64.503,92.418 64.503,105.901 "/>
+<polygon fill="#FFE6A8" points="47.303,25.845 61.004,33.755 74.706,25.845 61.004,17.934 "/>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="-891.3611" y1="692.0752" x2="-911.5513" y2="694.5543" gradientTransform="matrix(-1 0 0 1 -833.1919 -630.1777)">
 	<stop  offset="0" style="stop-color:#B17A64"/>
 	<stop  offset="1" style="stop-color:#895A45"/>
 </linearGradient>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_3_)" points="74.706,25.845 61.004,33.755 61.004,100.329 
-	74.707,92.418 "/>
-<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="6.1611" y1="27.478" x2="35.1241" y2="95.7105" gradientTransform="matrix(-1 0 0 1 75.4297 0)">
+<polygon fill="url(#SVGID_3_)" points="74.706,25.845 61.004,33.755 61.004,100.329 74.707,92.418 "/>
+<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="-902.4612" y1="657.6563" x2="-873.4982" y2="725.8887" gradientTransform="matrix(-1 0 0 1 -833.1919 -630.1777)">
 	<stop  offset="0" style="stop-color:#B17A64"/>
 	<stop  offset="1" style="stop-color:#895A45"/>
 </linearGradient>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_4_)" points="47.303,25.845 61.004,33.755 61.004,100.329 
-	47.302,92.418 "/>
-<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="9.8613" y1="11.374" x2="11.2011" y2="30.5341" gradientTransform="matrix(-1 0 0 1 75.4297 0)">
+<polygon fill="url(#SVGID_4_)" points="47.303,25.845 61.004,33.755 61.004,100.329 47.302,92.418 "/>
+<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="-898.7595" y1="641.5527" x2="-897.4199" y2="660.7103" gradientTransform="matrix(-1 0 0 1 -833.1919 -630.1777)">
 	<stop  offset="0" style="stop-color:#B17A64"/>
 	<stop  offset="1" style="stop-color:#FAB685"/>
 </linearGradient>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_5_)" points="68.408,29.48 74.706,25.845 61.004,17.934 
-	54.706,21.57 "/>
-<linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="26.4355" y1="66.918" x2="54.3067" y2="126.6878" gradientTransform="matrix(-1 0 0 1 75.4297 0)">
+<polygon fill="url(#SVGID_5_)" points="68.408,29.48 74.706,25.845 61.004,17.934 54.706,21.57 "/>
+<linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="-882.1863" y1="697.0938" x2="-854.3167" y2="756.86" gradientTransform="matrix(-1 0 0 1 -833.1919 -630.1777)">
 	<stop  offset="0" style="stop-color:#FAB685"/>
 	<stop  offset="1" style="stop-color:#B17A64"/>
 </linearGradient>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_6_)" points="68.408,29.48 61.004,33.755 61.004,48.571 "/>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#F1ECE5" points="0,23.297 40.354,0 90.907,28.961 50.555,52.259 "/>
-<linearGradient id="SVGID_7_" gradientUnits="userSpaceOnUse" x1="20.1787" y1="34.2959" x2="14.4928" y2="37.8488" gradientTransform="matrix(-1 0 0 1 75.4297 0)">
+<polygon fill="url(#SVGID_6_)" points="68.408,29.48 61.004,33.755 61.004,48.571 "/>
+<polygon fill="#F1ECE5" points="0,23.297 40.354,0 90.907,28.961 50.555,52.259 "/>
+<linearGradient id="SVGID_7_" gradientUnits="userSpaceOnUse" x1="-888.4431" y1="664.4736" x2="-894.1289" y2="668.0265" gradientTransform="matrix(-1 0 0 1 -833.1919 -630.1777)">
 	<stop  offset="0" style="stop-color:#B6A49C"/>
 	<stop  offset="1" style="stop-color:#9E8F88"/>
 </linearGradient>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_7_)" points="85.531,32.064 50.555,52.258 45.157,49.142 
-	80.134,28.947 "/>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#ECDDD1" points="6.576,23.297 40.354,3.797 84.332,28.961 50.555,48.462 
-	"/>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#A88F87" points="39.038,7.186 40.354,6.427 81.329,29.858 83.148,28.808 
-	83.873,29.226 50.555,48.462 49.831,48.044 80.015,30.617 "/>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#DCCEC0" points="6.576,23.297 40.354,3.797 40.354,6.427 8.855,24.612 "/>
-<linearGradient id="SVGID_8_" gradientUnits="userSpaceOnUse" x1="-59.6777" y1="-109.6533" x2="256.7398" y2="438.3981" gradientTransform="matrix(-1 0 0 1 75.4297 0)">
+<polygon fill="url(#SVGID_7_)" points="85.531,32.064 50.555,52.258 45.157,49.142 80.134,28.947 "/>
+<polygon fill="#ECDDD1" points="6.576,23.297 40.354,3.797 84.332,28.961 50.555,48.462 "/>
+<polygon fill="#A88F87" points="39.038,7.186 40.354,6.427 81.329,29.858 83.148,28.808 83.873,29.226 50.555,48.462 49.831,48.044 
+	80.015,30.617 "/>
+<polygon fill="#DCCEC0" points="6.576,23.297 40.354,3.797 40.354,6.427 8.855,24.612 "/>
+<linearGradient id="SVGID_8_" gradientUnits="userSpaceOnUse" x1="-968.2991" y1="520.5254" x2="-651.8817" y2="1068.5768" gradientTransform="matrix(-1 0 0 1 -833.1919 -630.1777)">
 	<stop  offset="0" style="stop-color:#B6A49C"/>
 	<stop  offset="1" style="stop-color:#9E8F88"/>
 </linearGradient>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_8_)" points="40.354,3.797 84.332,28.961 82.054,30.276 
-	40.354,6.427 39.038,7.186 "/>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#DCCEC0" points="53.996,160.822 94.348,137.525 94.348,34.645 
-	53.996,57.941 "/>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#C4A98F" points="53.996,160.822 94.348,137.525 94.348,108.841 
-	53.996,132.138 "/>
-<linearGradient id="SVGID_9_" gradientUnits="userSpaceOnUse" x1="-1.4897" y1="138.166" x2="9.476" y2="119.916" gradientTransform="matrix(-1 0 0 1 75.4297 0)">
+<polygon fill="url(#SVGID_8_)" points="40.354,3.797 84.332,28.961 82.054,30.276 40.354,6.427 39.038,7.186 "/>
+<polygon fill="#DCCEC0" points="53.996,160.822 94.348,137.524 94.348,34.645 53.996,57.941 "/>
+<polygon fill="#C4A98F" points="53.996,160.822 94.348,137.524 94.348,108.841 53.996,132.138 "/>
+<linearGradient id="SVGID_9_" gradientUnits="userSpaceOnUse" x1="-910.1111" y1="768.3418" x2="-899.1451" y2="750.0914" gradientTransform="matrix(-1 0 0 1 -833.1919 -630.1777)">
 	<stop  offset="0" style="stop-color:#8B7973"/>
 	<stop  offset="1" style="stop-color:#66544D"/>
 </linearGradient>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_9_)" points="94.348,115.41 94.348,108.841 53.996,132.138 
-	53.996,150.381 54.912,149.852 54.912,159.866 65.75,153.609 66.721,151.121 66.721,143.034 68.573,141.965 68.573,152.406 
-	77.368,147.329 77.368,136.888 80.652,134.991 80.652,145.005 91.489,138.747 92.46,136.26 92.46,121.216 92.031,121.367 "/>
+<polygon fill="url(#SVGID_9_)" points="94.348,115.41 94.348,108.841 53.996,132.138 53.996,150.381 54.912,149.853 54.912,159.866 
+	65.75,153.608 66.721,151.121 66.721,143.034 68.573,141.965 68.573,152.406 77.368,147.329 77.368,136.888 80.652,134.991 
+	80.652,145.005 91.489,138.747 92.46,136.26 92.46,121.216 92.031,121.367 "/>
 <g>
 	
-		<linearGradient id="SVGID_10_" gradientUnits="userSpaceOnUse" x1="3.5146" y1="117.9512" x2="6.0852" y2="115.3806" gradientTransform="matrix(-1 0 0 1 75.4297 0)">
+		<linearGradient id="SVGID_10_" gradientUnits="userSpaceOnUse" x1="-905.1062" y1="748.1279" x2="-902.5355" y2="745.5573" gradientTransform="matrix(-1 0 0 1 -833.1919 -630.1777)">
 		<stop  offset="0" style="stop-color:#8B7973"/>
 		<stop  offset="1" style="stop-color:#66544D"/>
 	</linearGradient>
-	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_10_)" points="94.348,108.841 94.348,106.349 53.996,129.646 
-		53.996,134.066 93.378,111.329 	"/>
-	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#F1ECE5" points="53.996,129.646 94.349,106.349 95.334,106.919 
-		54.982,130.216 	"/>
-	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#DCCEC0" points="54.982,132.708 95.334,109.411 95.334,106.919 
-		54.982,130.216 	"/>
+	<polygon fill="url(#SVGID_10_)" points="94.348,108.841 94.348,106.349 53.996,129.646 53.996,134.065 93.378,111.329 	"/>
+	<polygon fill="#F1ECE5" points="53.996,129.646 94.349,106.349 95.334,106.919 54.982,130.216 	"/>
+	<polygon fill="#DCCEC0" points="54.982,132.708 95.334,109.411 95.334,106.919 54.982,130.216 	"/>
 </g>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#B4A19B" points="94.348,37.137 94.348,34.645 53.995,57.941 53.995,62.361 
-	93.378,39.624 "/>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#F1ECE5" points="53.995,54.244 94.349,30.948 95.334,31.517 54.982,54.814 
-	"/>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#DCCEC0" points="54.982,61.004 95.334,37.706 95.334,31.517 54.982,54.814 
-	"/>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#F1ECE5" points="50.555,41.501 90.907,18.204 96.32,21.33 55.968,44.626 
-	"/>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#DCCEC0" points="55.968,55.384 96.32,32.086 96.32,21.33 55.968,44.626 "/>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#B4A19B" points="55.968,51.753 54.981,52.322 54.981,56.741 94.363,34.003 
-	94.761,32.986 55.968,55.384 "/>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#B6A49C" points="69.545,130.568 69.545,151.846 70.53,152.414 
-	70.53,131.138 "/>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#DCCEC0" points="70.53,131.138 77.812,126.935 77.813,145.933 
-	70.53,150.136 "/>
-<linearGradient id="SVGID_11_" gradientUnits="userSpaceOnUse" x1="-1.8447" y1="147.2168" x2="4.3035" y2="120.5858" gradientTransform="matrix(-1 0 0 1 75.4297 0)">
+<polygon fill="#B4A19B" points="94.348,37.137 94.348,34.645 53.995,57.941 53.995,62.361 93.378,39.624 "/>
+<polygon fill="#F1ECE5" points="53.995,54.244 94.349,30.948 95.334,31.517 54.982,54.814 "/>
+<polygon fill="#DCCEC0" points="54.982,61.004 95.334,37.706 95.334,31.517 54.982,54.814 "/>
+<polygon fill="#F1ECE5" points="50.555,41.501 90.907,18.204 96.32,21.33 55.968,44.626 "/>
+<polygon fill="#DCCEC0" points="55.968,55.384 96.32,32.086 96.32,21.33 55.968,44.626 "/>
+<polygon fill="#B4A19B" points="55.968,51.753 54.981,52.322 54.981,56.741 94.363,34.003 94.761,32.986 55.968,55.384 "/>
+<polygon fill="#B6A49C" points="69.545,130.567 69.545,151.847 70.53,152.414 70.53,131.138 "/>
+<polygon fill="#DCCEC0" points="70.53,131.138 77.812,126.935 77.813,145.933 70.53,150.136 "/>
+<linearGradient id="SVGID_11_" gradientUnits="userSpaceOnUse" x1="-910.4661" y1="777.3936" x2="-904.3181" y2="750.7632" gradientTransform="matrix(-1 0 0 1 -833.1919 -630.1777)">
 	<stop  offset="0" style="stop-color:#B6A49C"/>
 	<stop  offset="1" style="stop-color:#9E8F88"/>
 </linearGradient>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_11_)" points="70.849,130.954 70.849,130.925 77.813,126.903 
-	77.813,136.44 77.813,145.933 76.842,146.492 76.842,137 70.53,140.644 70.53,131.138 "/>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#533B40" points="71.518,133.287 75.945,130.73 75.945,142.828 
-	71.518,145.386 "/>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#6E565A" points="75.46,143.108 71.518,145.386 71.518,133.681 
-	75.46,131.404 "/>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#533B40" points="71.518,140.266 71.518,133.681 75.46,131.404 
-	75.46,137.988 "/>
-<linearGradient id="SVGID_12_" gradientUnits="userSpaceOnUse" x1="1.0151" y1="127.6182" x2="4.9855" y2="118.7005" gradientTransform="matrix(-1 0 0 1 75.4297 0)">
+<polygon fill="url(#SVGID_11_)" points="70.849,130.954 70.849,130.925 77.813,126.903 77.813,136.44 77.813,145.933 
+	76.842,146.492 76.842,137 70.53,140.644 70.53,131.138 "/>
+<polygon fill="#533B40" points="71.518,133.287 75.945,130.729 75.945,142.828 71.518,145.386 "/>
+<polygon fill="#6E565A" points="75.46,143.108 71.518,145.386 71.518,133.681 75.46,131.403 "/>
+<polygon fill="#533B40" points="71.518,140.267 71.518,133.681 75.46,131.403 75.46,137.987 "/>
+<linearGradient id="SVGID_12_" gradientUnits="userSpaceOnUse" x1="-907.6047" y1="757.7959" x2="-903.6362" y2="748.8825" gradientTransform="matrix(-1 0 0 1 -833.1919 -630.1777)">
 	<stop  offset="0" style="stop-color:#F1ECE5"/>
 	<stop  offset="1" style="stop-color:#C6B6A2"/>
 </linearGradient>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_12_)" points="69.545,130.568 78.8,125.227 79.785,125.795 
-	70.53,131.138 "/>
-<linearGradient id="SVGID_13_" gradientUnits="userSpaceOnUse" x1="-9.9087" y1="154.123" x2="2.7412" y2="122.8136" gradientTransform="matrix(-1 0 0 1 75.4297 0)">
+<polygon fill="url(#SVGID_12_)" points="69.545,130.567 78.8,125.228 79.785,125.795 70.53,131.138 "/>
+<linearGradient id="SVGID_13_" gradientUnits="userSpaceOnUse" x1="-918.5305" y1="784.3018" x2="-905.8806" y2="752.9924" gradientTransform="matrix(-1 0 0 1 -833.1919 -630.1777)">
 	<stop  offset="0" style="stop-color:#B6A49C"/>
 	<stop  offset="1" style="stop-color:#9E8F88"/>
 </linearGradient>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_13_)" points="77.812,128.072 77.813,145.933 78.8,146.502 
-	78.8,127.504 "/>
-<linearGradient id="SVGID_14_" gradientUnits="userSpaceOnUse" x1="1.2109" y1="147.4053" x2="4.6247" y2="140.4061" gradientTransform="matrix(-1 0 0 1 75.4297 0)">
+<polygon fill="url(#SVGID_13_)" points="77.812,128.072 77.813,145.933 78.8,146.502 78.8,127.504 "/>
+<linearGradient id="SVGID_14_" gradientUnits="userSpaceOnUse" x1="-907.4109" y1="777.5811" x2="-903.9938" y2="770.5751" gradientTransform="matrix(-1 0 0 1 -833.1919 -630.1777)">
 	<stop  offset="0" style="stop-color:#F1ECE5"/>
 	<stop  offset="1" style="stop-color:#C6B6A2"/>
 </linearGradient>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_14_)" points="71.518,150.706 70.53,150.136 77.813,145.933 
-	78.8,146.502 "/>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#B6A49C" points="76.826,146.502 77.813,145.933 78.8,146.502 "/>
-<linearGradient id="SVGID_15_" gradientUnits="userSpaceOnUse" x1="-2.1758" y1="143.2871" x2="0.9539" y2="128.5629" gradientTransform="matrix(-1 0 0 1 75.4297 0)">
+<polygon fill="url(#SVGID_14_)" points="71.518,150.706 70.53,150.136 77.813,145.933 78.8,146.502 "/>
+<polygon fill="#B6A49C" points="76.826,146.502 77.813,145.933 78.8,146.502 "/>
+<linearGradient id="SVGID_15_" gradientUnits="userSpaceOnUse" x1="-910.7971" y1="773.4648" x2="-907.6677" y2="758.7418" gradientTransform="matrix(-1 0 0 1 -833.1919 -630.1777)">
 	<stop  offset="0" style="stop-color:#B6A49C"/>
 	<stop  offset="1" style="stop-color:#9E8F88"/>
 </linearGradient>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_15_)" points="75.945,130.73 75.945,142.828 76.438,143.113 
-	76.438,130.444 "/>
-<linearGradient id="SVGID_16_" gradientUnits="userSpaceOnUse" x1="1.9976" y1="143.7783" x2="4.434" y2="138.7829" gradientTransform="matrix(-1 0 0 1 75.4297 0)">
+<polygon fill="url(#SVGID_15_)" points="75.945,130.729 75.945,142.828 76.438,143.112 76.438,130.444 "/>
+<linearGradient id="SVGID_16_" gradientUnits="userSpaceOnUse" x1="-906.6233" y1="773.9561" x2="-904.1855" y2="768.9578" gradientTransform="matrix(-1 0 0 1 -833.1919 -630.1777)">
 	<stop  offset="0" style="stop-color:#F1ECE5"/>
 	<stop  offset="1" style="stop-color:#C6B6A2"/>
 </linearGradient>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_16_)" points="71.516,145.954 71.023,145.67 75.945,142.828 
-	76.438,143.113 "/>
-<linearGradient id="SVGID_17_" gradientUnits="userSpaceOnUse" x1="-1.1069" y1="145.8975" x2="0.1387" y2="140.0372" gradientTransform="matrix(-1 0 0 1 75.4297 0)">
+<polygon fill="url(#SVGID_16_)" points="71.516,145.954 71.023,145.67 75.945,142.828 76.438,143.112 "/>
+<linearGradient id="SVGID_17_" gradientUnits="userSpaceOnUse" x1="-909.7283" y1="776.0752" x2="-908.4827" y2="770.2148" gradientTransform="matrix(-1 0 0 1 -833.1919 -630.1777)">
 	<stop  offset="0" style="stop-color:#B6A49C"/>
 	<stop  offset="1" style="stop-color:#9E8F88"/>
 </linearGradient>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_17_)" points="75.452,143.113 75.945,142.828 76.438,143.113 "/>
-<path fill-rule="evenodd" clip-rule="evenodd" fill="#DCCEC0" d="M70.53,132.277v-1.14l0,0l9.255-5.343v1.14v20.137l-9.255,5.343
-	V132.277L70.53,132.277z M71.518,150.706l7.282-4.204v-18.998l-7.282,4.204V150.706z"/>
-<linearGradient id="SVGID_18_" gradientUnits="userSpaceOnUse" x1="-13.5591" y1="108.9648" x2="25.5629" y2="176.7262" gradientTransform="matrix(-1 0 0 1 75.4297 0)">
+<polygon fill="url(#SVGID_17_)" points="75.452,143.112 75.945,142.828 76.438,143.112 "/>
+<path fill="#DCCEC0" d="M70.53,132.276v-1.141l0,0l9.256-5.343v1.142v20.137l-9.256,5.343V132.276L70.53,132.276z M71.518,150.706
+	l7.281-4.204v-18.998l-7.281,4.204V150.706z"/>
+<linearGradient id="SVGID_18_" gradientUnits="userSpaceOnUse" x1="-922.1794" y1="739.1445" x2="-883.0591" y2="806.903" gradientTransform="matrix(-1 0 0 1 -833.1919 -630.1777)">
 	<stop  offset="0" style="stop-color:#B6A49C"/>
 	<stop  offset="1" style="stop-color:#9E8F88"/>
 </linearGradient>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_18_)" points="70.53,132.277 70.53,140.047 71.518,139.478 
-	71.518,131.708 78.8,127.504 78.8,135.272 79.785,134.704 79.785,126.935 79.785,125.795 70.53,131.138 70.53,131.138 "/>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#816C6F" points="72.085,139.665 72.085,138.271 74.885,136.654 
-	74.885,138.049 "/>
-<linearGradient id="SVGID_19_" gradientUnits="userSpaceOnUse" x1="39.0615" y1="75.8301" x2="118.2566" y2="213" gradientTransform="matrix(-1 0 0 1 75.4297 0)">
+<polygon fill="url(#SVGID_18_)" points="70.53,132.276 70.53,140.047 71.518,139.478 71.518,131.708 78.8,127.504 78.8,135.272 
+	79.785,134.704 79.785,126.935 79.785,125.795 70.53,131.138 70.53,131.138 "/>
+<polygon fill="#816C6F" points="72.085,139.665 72.085,138.271 74.885,136.653 74.885,138.049 "/>
+<linearGradient id="SVGID_19_" gradientUnits="userSpaceOnUse" x1="-869.5598" y1="706.0078" x2="-790.3655" y2="843.1764" gradientTransform="matrix(-1 0 0 1 -833.1919 -630.1777)">
 	<stop  offset="0" style="stop-color:#B6A49C"/>
 	<stop  offset="1" style="stop-color:#9E8F88"/>
 </linearGradient>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_19_)" points="50.555,52.258 0,23.297 0,129.875 53.996,160.822 
-	53.996,132.138 54.982,132.708 54.982,130.216 53.996,129.646 53.996,60.435 54.982,61.004 54.982,54.814 55.968,55.384 
-	55.968,44.626 50.555,41.501 "/>
-<linearGradient id="SVGID_20_" gradientUnits="userSpaceOnUse" x1="-25.5059" y1="148.0117" x2="-0.2746" y2="128.9986" gradientTransform="matrix(-1 0 0 1 75.4297 0)">
+<polygon fill="url(#SVGID_19_)" points="50.555,52.258 0,23.297 0,129.875 53.996,160.822 53.996,132.138 54.982,132.708 
+	54.982,130.216 53.996,129.646 53.996,60.435 54.982,61.004 54.982,54.814 55.968,55.384 55.968,44.626 50.555,41.501 "/>
+<linearGradient id="SVGID_20_" gradientUnits="userSpaceOnUse" x1="-934.1287" y1="778.1895" x2="-908.897" y2="759.1761" gradientTransform="matrix(-1 0 0 1 -833.1919 -630.1777)">
 	<stop  offset="0" style="stop-color:#B6A49C"/>
 	<stop  offset="1" style="stop-color:#9E8F88"/>
 </linearGradient>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_20_)" points="81.622,124.57 81.622,142.518 82.609,143.087 
-	82.609,125.14 "/>
-<path fill-rule="evenodd" clip-rule="evenodd" fill="#6E565A" d="M91.474,121.073v14.757c0,0.117-0.062,0.225-0.164,0.285
-	l-7.686,4.633c-0.104,0.06-0.225,0.06-0.329,0c-0.104-0.062-0.164-0.164-0.164-0.285v-14.757c0-0.121,0.063-0.224,0.164-0.285
-	l7.686-4.633c0.102-0.062,0.225-0.061,0.329,0C91.414,120.848,91.474,120.954,91.474,121.073z"/>
-<path fill-rule="evenodd" clip-rule="evenodd" fill="#533B40" d="M91.474,121.073v1.726l-2.98,7.665l0,0l-5.362,3.096v-7.854
-	c0-0.121,0.063-0.224,0.164-0.285l7.686-4.633c0.102-0.062,0.225-0.061,0.329,0C91.414,120.848,91.474,120.954,91.474,121.073z"/>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#533B40" points="91.474,135.83 91.31,136.115 91.063,136.26 90.488,136.26 
-	90.488,122.543 83.405,126.632 83.131,125.706 83.143,125.62 87.605,123.045 90.488,121.379 90.488,121.078 90.98,120.788 
-	91.31,120.788 91.36,120.876 91.395,120.857 91.474,121.073 "/>
-<linearGradient id="SVGID_21_" gradientUnits="userSpaceOnUse" x1="-11.8228" y1="121.0957" x2="-3.4384" y2="102.2641" gradientTransform="matrix(-1 0 0 1 75.4297 0)">
+<polygon fill="url(#SVGID_20_)" points="81.622,124.569 81.622,142.519 82.609,143.087 82.609,125.14 "/>
+<path fill="#6E565A" d="M91.474,121.073v14.757c0,0.117-0.063,0.226-0.164,0.285l-7.687,4.633c-0.104,0.06-0.226,0.06-0.329,0
+	c-0.104-0.062-0.164-0.164-0.164-0.285v-14.757c0-0.121,0.063-0.225,0.164-0.285l7.687-4.633c0.103-0.063,0.226-0.061,0.329,0
+	S91.474,120.954,91.474,121.073z"/>
+<path fill="#533B40" d="M91.474,121.073v1.726l-2.979,7.665l0,0l-5.362,3.096v-7.854c0-0.121,0.063-0.225,0.164-0.285l7.687-4.633
+	c0.103-0.063,0.226-0.061,0.329,0C91.415,120.849,91.474,120.954,91.474,121.073z"/>
+<polygon fill="#533B40" points="91.474,135.83 91.31,136.115 91.063,136.26 90.488,136.26 90.488,122.543 83.405,126.632 
+	83.131,125.706 83.143,125.62 87.605,123.045 90.488,121.379 90.488,121.078 90.98,120.788 91.31,120.788 91.36,120.876 
+	91.395,120.856 91.474,121.073 "/>
+<linearGradient id="SVGID_21_" gradientUnits="userSpaceOnUse" x1="-920.4446" y1="751.2725" x2="-912.0656" y2="732.4532" gradientTransform="matrix(-1 0 0 1 -833.1919 -630.1777)">
 	<stop  offset="0" style="stop-color:#F1ECE5"/>
 	<stop  offset="1" style="stop-color:#C6B6A2"/>
 </linearGradient>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_21_)" points="81.622,124.571 92.46,118.314 93.447,118.884 
-	82.609,125.142 "/>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#B6A49C" points="91.474,121.162 91.474,135.691 92.46,136.26 
-	92.46,120.592 "/>
-<linearGradient id="SVGID_22_" gradientUnits="userSpaceOnUse" x1="-11.938" y1="136.6338" x2="-10.9728" y2="125.6019" gradientTransform="matrix(-1 0 0 1 75.4297 0)">
+<polygon fill="url(#SVGID_21_)" points="81.622,124.571 92.46,118.313 93.447,118.884 82.609,125.142 "/>
+<polygon fill="#B6A49C" points="91.474,121.162 91.474,135.69 92.46,136.26 92.46,120.592 "/>
+<linearGradient id="SVGID_22_" gradientUnits="userSpaceOnUse" x1="-920.5608" y1="766.8105" x2="-919.5956" y2="755.7787" gradientTransform="matrix(-1 0 0 1 -833.1919 -630.1777)">
 	<stop  offset="0" style="stop-color:#F1ECE5"/>
 	<stop  offset="1" style="stop-color:#C6B6A2"/>
 </linearGradient>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_22_)" points="83.595,141.379 82.609,140.81 91.474,135.691 
-	92.46,136.26 "/>
-<linearGradient id="SVGID_23_" gradientUnits="userSpaceOnUse" x1="-16.5137" y1="137.8984" x2="-15.0343" y2="132.7393" gradientTransform="matrix(-1 0 0 1 75.4297 0)">
+<polygon fill="url(#SVGID_22_)" points="83.595,141.379 82.609,140.81 91.474,135.69 92.46,136.26 "/>
+<linearGradient id="SVGID_23_" gradientUnits="userSpaceOnUse" x1="-925.1335" y1="768.0732" x2="-923.6567" y2="762.9234" gradientTransform="matrix(-1 0 0 1 -833.1919 -630.1777)">
 	<stop  offset="0" style="stop-color:#B6A49C"/>
 	<stop  offset="1" style="stop-color:#9E8F88"/>
 </linearGradient>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_23_)" points="90.488,136.26 91.474,135.691 92.46,136.26 "/>
-<path fill-rule="evenodd" clip-rule="evenodd" fill="#DCCEC0" d="M82.609,126.28v-1.139v-0.002l6.952-4.013l3.886-2.243v1.139
-	v16.808l-10.838,6.257V126.28L82.609,126.28z M83.595,141.379l8.865-5.119v-15.668l-0.188,0.109l-8.678,5.009V141.379z"/>
-<linearGradient id="SVGID_24_" gradientUnits="userSpaceOnUse" x1="-22.0527" y1="107.0273" x2="13.7525" y2="169.0438" gradientTransform="matrix(-1 0 0 1 75.4297 0)">
+<polygon fill="url(#SVGID_23_)" points="90.488,136.26 91.474,135.69 92.46,136.26 "/>
+<path fill="#DCCEC0" d="M82.609,126.28v-1.139v-0.002l6.952-4.015l3.886-2.243v1.141v16.808l-10.838,6.257V126.28L82.609,126.28z
+	 M83.595,141.379l8.864-5.119v-15.668l-0.188,0.109l-8.679,5.009L83.595,141.379L83.595,141.379z"/>
+<linearGradient id="SVGID_24_" gradientUnits="userSpaceOnUse" x1="-930.6736" y1="737.207" x2="-894.8699" y2="799.221" gradientTransform="matrix(-1 0 0 1 -833.1919 -630.1777)">
 	<stop  offset="0" style="stop-color:#B6A49C"/>
 	<stop  offset="1" style="stop-color:#9E8F88"/>
 </linearGradient>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_24_)" points="82.609,126.28 82.609,133.073 83.595,132.504 
-	83.595,125.71 92.272,120.701 92.46,120.592 92.46,123.376 93.447,120.84 93.447,120.022 93.447,118.884 89.562,121.127 
-	82.609,125.14 82.609,125.142 "/>
-<linearGradient id="SVGID_25_" gradientUnits="userSpaceOnUse" x1="0.2324" y1="162.8721" x2="25.4639" y2="143.8587" gradientTransform="matrix(-1 0 0 1 75.4297 0)">
+<polygon fill="url(#SVGID_24_)" points="82.609,126.28 82.609,133.073 83.595,132.504 83.595,125.71 92.272,120.701 92.46,120.592 
+	92.46,123.376 93.447,120.84 93.447,120.022 93.447,118.884 89.562,121.127 82.609,125.14 82.609,125.142 "/>
+<linearGradient id="SVGID_25_" gradientUnits="userSpaceOnUse" x1="-908.3899" y1="793.0508" x2="-883.1577" y2="774.0369" gradientTransform="matrix(-1 0 0 1 -833.1919 -630.1777)">
 	<stop  offset="0" style="stop-color:#B6A49C"/>
 	<stop  offset="1" style="stop-color:#9E8F88"/>
 </linearGradient>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_25_)" points="55.883,139.432 55.885,157.379 56.87,157.948 
-	56.87,140.002 "/>
-<path fill-rule="evenodd" clip-rule="evenodd" fill="#6E565A" d="M65.734,135.934v14.758c0,0.117-0.061,0.224-0.163,0.285
-	l-7.687,4.633c-0.102,0.061-0.225,0.061-0.328,0c-0.104-0.062-0.165-0.164-0.165-0.285v-14.758c0-0.12,0.065-0.223,0.165-0.284
-	l7.686-4.633c0.101-0.061,0.224-0.06,0.329,0C65.676,135.71,65.734,135.816,65.734,135.934z"/>
-<path fill-rule="evenodd" clip-rule="evenodd" fill="#533B40" d="M65.734,135.934v7.67l-8.343,4.816v-7.854
-	c0-0.12,0.065-0.223,0.165-0.284l7.686-4.633c0.101-0.061,0.224-0.06,0.329,0C65.676,135.71,65.734,135.816,65.734,135.934z"/>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#533B40" points="65.734,150.691 65.571,150.977 65.323,151.121 
-	64.749,151.121 64.749,137.404 57.667,141.493 57.392,140.566 57.403,140.481 61.866,137.906 64.749,136.241 64.749,135.938 
-	65.242,135.649 65.571,135.649 65.621,135.738 65.655,135.719 65.734,135.934 "/>
-<linearGradient id="SVGID_26_" gradientUnits="userSpaceOnUse" x1="13.915" y1="135.9561" x2="22.2977" y2="117.1282" gradientTransform="matrix(-1 0 0 1 75.4297 0)">
+<polygon fill="url(#SVGID_25_)" points="55.883,139.433 55.885,157.379 56.87,157.948 56.87,140.002 "/>
+<path fill="#6E565A" d="M65.734,135.935v14.758c0,0.117-0.062,0.225-0.163,0.285l-7.688,4.633c-0.102,0.062-0.225,0.062-0.327,0
+	c-0.104-0.063-0.165-0.164-0.165-0.284v-14.759c0-0.119,0.064-0.224,0.165-0.283l7.687-4.635c0.101-0.061,0.224-0.06,0.328,0
+	C65.676,135.71,65.734,135.815,65.734,135.935z"/>
+<path fill="#533B40" d="M65.734,135.935v7.67l-8.343,4.815v-7.854c0-0.119,0.064-0.223,0.165-0.282l7.687-4.634
+	c0.101-0.062,0.224-0.061,0.328,0S65.734,135.815,65.734,135.935z"/>
+<polygon fill="#533B40" points="65.734,150.69 65.571,150.978 65.323,151.121 64.749,151.121 64.749,137.403 57.667,141.493 
+	57.392,140.565 57.403,140.481 61.866,137.906 64.749,136.241 64.749,135.938 65.242,135.649 65.571,135.649 65.621,135.737 
+	65.655,135.719 65.734,135.935 "/>
+<linearGradient id="SVGID_26_" gradientUnits="userSpaceOnUse" x1="-894.7048" y1="766.1338" x2="-886.3221" y2="747.3059" gradientTransform="matrix(-1 0 0 1 -833.1919 -630.1777)">
 	<stop  offset="0" style="stop-color:#F1ECE5"/>
 	<stop  offset="1" style="stop-color:#C6B6A2"/>
 </linearGradient>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_26_)" points="55.883,139.432 66.723,133.176 67.708,133.744 
-	56.87,140.003 "/>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#B6A49C" points="65.734,136.022 65.734,150.552 66.721,151.121 
-	66.721,135.453 "/>
-<linearGradient id="SVGID_27_" gradientUnits="userSpaceOnUse" x1="13.8008" y1="151.4941" x2="14.7661" y2="140.4601" gradientTransform="matrix(-1 0 0 1 75.4297 0)">
+<polygon fill="url(#SVGID_26_)" points="55.883,139.433 66.723,133.176 67.708,133.744 56.87,140.003 "/>
+<polygon fill="#B6A49C" points="65.734,136.022 65.734,150.552 66.721,151.121 66.721,135.453 "/>
+<linearGradient id="SVGID_27_" gradientUnits="userSpaceOnUse" x1="-894.8215" y1="781.6719" x2="-893.8563" y2="770.639" gradientTransform="matrix(-1 0 0 1 -833.1919 -630.1777)">
 	<stop  offset="0" style="stop-color:#F1ECE5"/>
 	<stop  offset="1" style="stop-color:#C6B6A2"/>
 </linearGradient>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_27_)" points="57.855,156.24 56.87,155.671 65.734,150.552 
-	66.721,151.121 "/>
-<linearGradient id="SVGID_28_" gradientUnits="userSpaceOnUse" x1="9.2246" y1="152.7598" x2="10.7049" y2="147.5975" gradientTransform="matrix(-1 0 0 1 75.4297 0)">
+<polygon fill="url(#SVGID_27_)" points="57.855,156.24 56.87,155.671 65.734,150.552 66.721,151.121 "/>
+<linearGradient id="SVGID_28_" gradientUnits="userSpaceOnUse" x1="-899.3967" y1="782.9375" x2="-897.9164" y2="777.7752" gradientTransform="matrix(-1 0 0 1 -833.1919 -630.1777)">
 	<stop  offset="0" style="stop-color:#B6A49C"/>
 	<stop  offset="1" style="stop-color:#9E8F88"/>
 </linearGradient>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_28_)" points="64.749,151.121 65.734,150.552 66.721,151.121 "/>
-<path fill-rule="evenodd" clip-rule="evenodd" fill="#DCCEC0" d="M56.87,141.141v-1.138v-0.001l6.952-4.014l3.886-2.244v1.14v16.808
-	l-10.838,6.257V141.141L56.87,141.141z M57.855,156.24l8.865-5.119v-15.668l-0.188,0.108l-8.678,5.01V156.24z"/>
-<linearGradient id="SVGID_29_" gradientUnits="userSpaceOnUse" x1="-1.856" y1="114.8643" x2="42.8019" y2="192.2139" gradientTransform="matrix(-1 0 0 1 75.4297 0)">
+<polygon fill="url(#SVGID_28_)" points="64.749,151.121 65.734,150.552 66.721,151.121 "/>
+<path fill="#DCCEC0" d="M56.87,141.142v-1.139v-0.001l6.951-4.015l3.887-2.243v1.14v16.809L56.87,157.95V141.142L56.87,141.142z
+	 M57.855,156.24l8.865-5.119v-15.668l-0.188,0.108l-8.679,5.01L57.855,156.24L57.855,156.24z"/>
+<linearGradient id="SVGID_29_" gradientUnits="userSpaceOnUse" x1="-910.4773" y1="745.043" x2="-865.8182" y2="822.3947" gradientTransform="matrix(-1 0 0 1 -833.1919 -630.1777)">
 	<stop  offset="0" style="stop-color:#B6A49C"/>
 	<stop  offset="1" style="stop-color:#9E8F88"/>
 </linearGradient>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_29_)" points="56.87,141.141 56.87,147.934 57.855,147.364 
-	57.855,140.571 66.533,135.562 66.721,135.453 66.721,142.245 67.708,141.677 67.708,134.884 67.708,133.744 63.822,135.988 
-	56.87,140.002 56.87,140.003 "/>
-<linearGradient id="SVGID_30_" gradientUnits="userSpaceOnUse" x1="25.0088" y1="88.7871" x2="66.356" y2="163.3795" gradientTransform="matrix(-1 0 0 1 75.4297 0)">
+<polygon fill="url(#SVGID_29_)" points="56.87,141.142 56.87,147.935 57.855,147.364 57.855,140.571 66.533,135.562 66.721,135.453 
+	66.721,142.245 67.708,141.677 67.708,134.884 67.708,133.744 63.822,135.987 56.87,140.002 56.87,140.003 "/>
+<linearGradient id="SVGID_30_" gradientUnits="userSpaceOnUse" x1="-883.614" y1="718.9639" x2="-842.2657" y2="793.5584" gradientTransform="matrix(-1 0 0 1 -833.1919 -630.1777)">
 	<stop  offset="0" style="stop-color:#8B7973"/>
 	<stop  offset="1" style="stop-color:#66544D"/>
 </linearGradient>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_30_)" points="0.031,129.893 53.996,160.822 53.996,132.138 
-	0.031,101.209 "/>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#B78160" points="60.15,140.995 54.982,133.036 54.64,132.511 
-	53.996,132.138 53.996,138.331 60.15,141.891 "/>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#F7D47B" points="54.982,133.036 54.982,133.036 54.982,133.036 
-	54.982,132.708 95.334,109.411 95.367,109.392 95.522,109.631 95.522,109.631 100.69,117.589 60.15,140.995 "/>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#EFC872" points="60.15,140.995 100.69,117.589 100.69,118.485 
-	60.15,141.891 "/>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#B78160" points="54.64,132.511 54.982,132.708 95.334,109.411 
-	95.367,109.392 95.522,109.631 95.522,109.631 95.594,109.741 55.053,133.147 "/>
+<polygon fill="url(#SVGID_30_)" points="0.031,129.894 53.996,160.822 53.996,132.138 0.031,101.209 "/>
+<polygon fill="#B78160" points="60.15,140.995 54.982,133.036 54.64,132.511 53.996,132.138 53.996,138.331 60.15,141.892 "/>
+<polygon fill="#F7D47B" points="54.982,133.036 54.982,133.036 54.982,133.036 54.982,132.708 95.334,109.411 95.367,109.392 
+	95.522,109.631 95.522,109.631 100.69,117.589 60.15,140.995 "/>
+<polygon fill="#EFC872" points="60.15,140.995 100.69,117.589 100.69,118.485 60.15,141.892 "/>
+<polygon fill="#B78160" points="54.64,132.511 54.982,132.708 95.334,109.411 95.367,109.392 95.522,109.631 95.522,109.631 
+	95.594,109.741 55.053,133.147 "/>
 <g>
 	
-		<linearGradient id="SVGID_31_" gradientUnits="userSpaceOnUse" x1="1.0098" y1="116.2549" x2="2.199" y2="114.195" gradientTransform="matrix(-1 0 0 1 75.4297 0)">
+		<linearGradient id="SVGID_31_" gradientUnits="userSpaceOnUse" x1="-907.6125" y1="746.4355" x2="-906.4229" y2="744.3749" gradientTransform="matrix(-1 0 0 1 -833.1919 -630.1777)">
 		<stop  offset="0" style="stop-color:#B6A49C"/>
 		<stop  offset="1" style="stop-color:#9E8F88"/>
 	</linearGradient>
-	<path fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_31_)" d="M56.658,126.043l33.087-19.103l0.97-2.487v0.141v-1.14
-		l-33.086,19.103l-0.971,2.487C56.658,129.692,56.658,121.396,56.658,126.043z"/>
+	<path fill="url(#SVGID_31_)" d="M56.658,126.043l33.087-19.103l0.97-2.487v0.141v-1.14l-33.086,19.104l-0.971,2.486
+		C56.658,129.692,56.658,121.396,56.658,126.043z"/>
 	<g>
 		
-			<linearGradient id="SVGID_32_" gradientUnits="userSpaceOnUse" x1="-18.6353" y1="106.6191" x2="-9.9295" y2="81.3358" gradientTransform="matrix(-1 0 0 1 75.4297 0)">
+			<linearGradient id="SVGID_32_" gradientUnits="userSpaceOnUse" x1="-927.2571" y1="736.7969" x2="-918.5513" y2="711.5135" gradientTransform="matrix(-1 0 0 1 -833.1919 -630.1777)">
 			<stop  offset="0" style="stop-color:#8B7973"/>
 			<stop  offset="1" style="stop-color:#66544D"/>
 		</linearGradient>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_32_)" points="89.729,88.601 89.729,102.885 90.715,103.454 
-			90.715,88.03 		"/>
+		<polygon fill="url(#SVGID_32_)" points="89.729,88.601 89.729,102.885 90.715,103.454 90.715,88.03 		"/>
 		
-			<linearGradient id="SVGID_33_" gradientUnits="userSpaceOnUse" x1="-0.8213" y1="199.3506" x2="-32.2849" y2="-24.5248" gradientTransform="matrix(-1 0 0 1 75.4297 0)">
+			<linearGradient id="SVGID_33_" gradientUnits="userSpaceOnUse" x1="-909.4426" y1="829.5293" x2="-940.9063" y2="605.6539" gradientTransform="matrix(-1 0 0 1 -833.1919 -630.1777)">
 			<stop  offset="0" style="stop-color:#B6A49C"/>
 			<stop  offset="1" style="stop-color:#9E8F88"/>
 		</linearGradient>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_33_)" points="88.742,103.454 89.729,102.885 90.715,103.454 
-					"/>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#533B40" points="89.071,88.979 89.071,102.505 57.629,120.659 
-			57.629,107.133 		"/>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#6E565A" points="57.629,107.854 88.759,89.882 88.759,102.686 
-			57.629,120.659 		"/>
+		<polygon fill="url(#SVGID_33_)" points="88.742,103.454 89.729,102.885 90.715,103.454 		"/>
+		<polygon fill="#533B40" points="89.071,88.979 89.071,102.505 57.629,120.659 57.629,107.133 		"/>
+		<polygon fill="#6E565A" points="57.629,107.854 88.759,89.882 88.759,102.687 57.629,120.659 		"/>
 		
-			<linearGradient id="SVGID_34_" gradientUnits="userSpaceOnUse" x1="16.5049" y1="123.3408" x2="18.0801" y2="123.3408" gradientTransform="matrix(-1 0 0 1 75.4297 0)">
+			<linearGradient id="SVGID_34_" gradientUnits="userSpaceOnUse" x1="-892.116" y1="753.5186" x2="-890.5408" y2="753.5186" gradientTransform="matrix(-1 0 0 1 -833.1919 -630.1777)">
 			<stop  offset="0" style="stop-color:#B6A49C"/>
 			<stop  offset="1" style="stop-color:#9E8F88"/>
 		</linearGradient>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_34_)" points="57.629,122.557 57.629,123.557 58.614,124.125 
-			58.614,123.126 		"/>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#DCCEC0" points="58.614,124.125 91.701,105.022 91.701,104.023 
-			58.614,123.126 		"/>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#F1ECE5" points="57.629,122.557 57.629,121.418 88.759,103.444 
-			90.716,103.454 91.701,104.023 58.614,123.126 		"/>
-		<path fill-rule="evenodd" clip-rule="evenodd" fill="#E98F82" d="M89.729,102.885V88.601l-0.658,0.379v3.979l-4.747,2.74v-3.978
-			l-0.657,0.38v3.979l-4.747,2.739v-3.978l-0.658,0.38v3.978l-4.747,2.741v-3.979l-0.657,0.38v3.979l-4.749,2.74v-3.978
-			l-0.656,0.379v3.979l-4.748,2.741v-3.979l-0.657,0.38v3.979l-4.418,2.551v0.76l4.418-2.551v8.786
-			c0.22-0.125,0.439-0.252,0.657-0.379v-8.788l4.748-2.74v8.787c0.22-0.126,0.438-0.253,0.656-0.38v-8.786l4.749-2.741v8.787
-			c0.219-0.126,0.438-0.253,0.657-0.379v-8.788l4.747-2.741v8.788c0.219-0.127,0.438-0.254,0.658-0.38v-8.787l4.747-2.741v8.787
-			c0.219-0.127,0.438-0.254,0.657-0.379v-8.788l4.747-2.741v8.788l-31.442,18.154v0.759L89.729,102.885z"/>
-		<path fill-rule="evenodd" clip-rule="evenodd" fill="#83434B" d="M89.729,102.885l-0.971,0.56v-0.759l0.313-0.181v-8.788
-			l-0.313,0.182v-0.761l0.313-0.18v-3.979l0.658-0.379V102.885L89.729,102.885z M84.324,92.441l-0.657,0.38v-0.721l0.657-0.38
-			V92.441L84.324,92.441z M78.92,95.563l-0.658,0.379v-0.721l0.658-0.38V95.563L78.92,95.563z M73.515,98.683l-0.657,0.38v-0.722
-			l0.657-0.38V98.683L73.515,98.683z M68.108,101.804l-0.656,0.379v-0.722l0.656-0.379V101.804L68.108,101.804z M62.047,105.303
-			v-0.721l0.657-0.38v0.721L62.047,105.303z"/>
-	</g>
-</g>
-<g>
-	
-		<linearGradient id="SVGID_35_" gradientUnits="userSpaceOnUse" x1="1.0103" y1="95.8203" x2="2.1995" y2="93.7605" gradientTransform="matrix(-1 0 0 1 75.4297 0)">
-		<stop  offset="0" style="stop-color:#B6A49C"/>
-		<stop  offset="1" style="stop-color:#9E8F88"/>
-	</linearGradient>
-	<path fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_35_)" d="M56.658,105.608l33.087-19.103l0.97-2.487v0.141v-1.14
-		l-33.086,19.103l-0.971,2.487C56.658,109.258,56.658,100.961,56.658,105.608z"/>
-	<g>
-		
-			<linearGradient id="SVGID_36_" gradientUnits="userSpaceOnUse" x1="-18.6357" y1="86.1846" x2="-9.93" y2="60.9013" gradientTransform="matrix(-1 0 0 1 75.4297 0)">
-			<stop  offset="0" style="stop-color:#8B7973"/>
-			<stop  offset="1" style="stop-color:#66544D"/>
-		</linearGradient>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_36_)" points="89.729,68.165 89.729,82.449 90.715,83.02 
-			90.715,67.596 		"/>
-		
-			<linearGradient id="SVGID_37_" gradientUnits="userSpaceOnUse" x1="-0.8047" y1="179.0332" x2="-32.307" y2="-45.1173" gradientTransform="matrix(-1 0 0 1 75.4297 0)">
-			<stop  offset="0" style="stop-color:#B6A49C"/>
-			<stop  offset="1" style="stop-color:#9E8F88"/>
-		</linearGradient>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_37_)" points="88.742,83.02 89.729,82.449 90.715,83.02 		"/>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#533B40" points="89.071,68.544 89.071,82.07 57.629,100.225 
-			57.629,86.698 		"/>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#6E565A" points="57.629,87.419 88.759,69.447 88.759,82.251 
-			57.629,100.225 		"/>
-		
-			<linearGradient id="SVGID_38_" gradientUnits="userSpaceOnUse" x1="16.5049" y1="102.9063" x2="18.0801" y2="102.9063" gradientTransform="matrix(-1 0 0 1 75.4297 0)">
-			<stop  offset="0" style="stop-color:#B6A49C"/>
-			<stop  offset="1" style="stop-color:#9E8F88"/>
-		</linearGradient>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_38_)" points="57.629,102.122 57.629,103.121 58.614,103.69 
-			58.614,102.691 		"/>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#DCCEC0" points="58.614,103.69 91.701,84.588 91.701,83.589 
-			58.614,102.691 		"/>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#F1ECE5" points="57.629,102.122 57.629,100.983 88.759,83.011 
-			90.716,83.02 91.701,83.589 58.614,102.691 		"/>
-		<path fill-rule="evenodd" clip-rule="evenodd" fill="#E98F82" d="M89.729,82.449V68.165l-0.658,0.38v3.979l-4.747,2.74v-3.979
-			l-0.657,0.381v3.977l-4.747,2.741v-3.978l-0.658,0.38v3.978l-4.747,2.741v-3.979l-0.657,0.38v3.979l-4.749,2.741v-3.979
-			l-0.656,0.379v3.979l-4.748,2.741v-3.979l-0.657,0.381v3.979l-4.418,2.551v0.76l4.418-2.552v8.788
-			c0.22-0.127,0.439-0.253,0.657-0.38v-8.788l4.748-2.74v8.787c0.22-0.126,0.438-0.253,0.656-0.38v-8.786l4.749-2.741v8.788
-			c0.219-0.127,0.438-0.254,0.657-0.381v-8.787l4.747-2.741v8.788c0.219-0.127,0.438-0.254,0.658-0.381v-8.786l4.747-2.741v8.787
-			c0.219-0.127,0.438-0.253,0.657-0.38v-8.787l4.747-2.741v8.788l-31.442,18.154v0.759L89.729,82.449z"/>
-		<path fill-rule="evenodd" clip-rule="evenodd" fill="#83434B" d="M89.729,82.449l-0.971,0.562v-0.76l0.313-0.181v-8.788
-			l-0.313,0.181v-0.76l0.313-0.18v-3.979l0.658-0.38V82.449L89.729,82.449z M84.324,72.007l-0.657,0.38v-0.721l0.657-0.381V72.007
-			L84.324,72.007z M78.92,75.128l-0.658,0.379v-0.721l0.658-0.38V75.128L78.92,75.128z M73.515,78.247l-0.657,0.381v-0.722
-			l0.657-0.38V78.247L73.515,78.247z M68.108,81.368l-0.656,0.38v-0.722l0.656-0.379V81.368L68.108,81.368z M62.047,84.868v-0.721
-			l0.657-0.381v0.722L62.047,84.868z"/>
-	</g>
-</g>
-<g>
-	
-		<linearGradient id="SVGID_39_" gradientUnits="userSpaceOnUse" x1="1.0083" y1="75.3887" x2="2.1977" y2="73.3286" gradientTransform="matrix(-1 0 0 1 75.4297 0)">
-		<stop  offset="0" style="stop-color:#B6A49C"/>
-		<stop  offset="1" style="stop-color:#9E8F88"/>
-	</linearGradient>
-	<path fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_39_)" d="M56.658,85.174l33.087-19.103l0.97-2.487v0.14v-1.139
-		L57.629,81.688l-0.971,2.487C56.658,88.823,56.658,80.526,56.658,85.174z"/>
-	<g>
-		
-			<linearGradient id="SVGID_40_" gradientUnits="userSpaceOnUse" x1="-18.6353" y1="65.75" x2="-9.9298" y2="40.4675" gradientTransform="matrix(-1 0 0 1 75.4297 0)">
-			<stop  offset="0" style="stop-color:#8B7973"/>
-			<stop  offset="1" style="stop-color:#66544D"/>
-		</linearGradient>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_40_)" points="89.729,47.73 89.729,62.015 90.715,62.585 
-			90.715,47.162 		"/>
-		
-			<linearGradient id="SVGID_41_" gradientUnits="userSpaceOnUse" x1="-0.8047" y1="158.5986" x2="-32.307" y2="-65.5519" gradientTransform="matrix(-1 0 0 1 75.4297 0)">
-			<stop  offset="0" style="stop-color:#B6A49C"/>
-			<stop  offset="1" style="stop-color:#9E8F88"/>
-		</linearGradient>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_41_)" points="88.742,62.585 89.729,62.015 90.715,62.585 		
+		<polygon fill="url(#SVGID_34_)" points="57.629,122.558 57.629,123.558 58.614,124.125 58.614,123.126 		"/>
+		<polygon fill="#DCCEC0" points="58.614,124.125 91.701,105.022 91.701,104.022 58.614,123.126 		"/>
+		<polygon fill="#F1ECE5" points="57.629,122.558 57.629,121.418 88.759,103.444 90.716,103.454 91.701,104.022 58.614,123.126 		
 			"/>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#533B40" points="89.071,48.109 89.071,61.636 57.629,79.789 
-			57.629,66.264 		"/>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#6E565A" points="57.629,66.984 88.759,49.011 88.759,61.815 
-			57.629,79.789 		"/>
-		
-			<linearGradient id="SVGID_42_" gradientUnits="userSpaceOnUse" x1="16.5049" y1="82.4717" x2="18.0801" y2="82.4717" gradientTransform="matrix(-1 0 0 1 75.4297 0)">
-			<stop  offset="0" style="stop-color:#B6A49C"/>
-			<stop  offset="1" style="stop-color:#9E8F88"/>
-		</linearGradient>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_42_)" points="57.629,81.688 57.629,82.687 58.614,83.256 
-			58.614,82.257 		"/>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#DCCEC0" points="58.614,83.256 91.701,64.153 91.701,63.154 
-			58.614,82.257 		"/>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#F1ECE5" points="57.629,81.688 57.629,80.549 88.759,62.576 
-			90.716,62.585 91.701,63.154 58.614,82.257 		"/>
-		<path fill-rule="evenodd" clip-rule="evenodd" fill="#E98F82" d="M89.729,62.015V47.73l-0.658,0.381v3.978l-4.747,2.74v-3.979
-			l-0.657,0.38v3.978l-4.747,2.741v-3.978l-0.658,0.379v3.979l-4.747,2.741v-3.979l-0.657,0.38v3.979l-4.749,2.741v-3.979
-			l-0.656,0.38v3.978l-4.748,2.741v-3.979l-0.657,0.381v3.979l-4.418,2.551v0.76l4.418-2.552v8.788
-			c0.22-0.127,0.439-0.253,0.657-0.38V68.07l4.748-2.741v8.788c0.22-0.127,0.438-0.253,0.656-0.38V64.95l4.749-2.74v8.786
-			c0.219-0.125,0.438-0.252,0.657-0.379v-8.788l4.747-2.74v8.788c0.219-0.127,0.438-0.254,0.658-0.381V58.71l4.747-2.741v8.787
-			c0.219-0.127,0.438-0.253,0.657-0.38v-8.787l4.747-2.741v8.788L57.629,79.789v0.76L89.729,62.015z"/>
-		<path fill-rule="evenodd" clip-rule="evenodd" fill="#83434B" d="M89.729,62.015l-0.971,0.562v-0.761l0.313-0.18v-8.788
-			l-0.313,0.181v-0.76l0.313-0.18v-3.978l0.658-0.381V62.015L89.729,62.015z M84.324,51.572l-0.657,0.38V51.23l0.657-0.38V51.572
-			L84.324,51.572z M78.92,54.693l-0.658,0.379v-0.722l0.658-0.379V54.693L78.92,54.693z M73.515,57.813l-0.657,0.381v-0.722
-			l0.657-0.38V57.813L73.515,57.813z M68.108,60.934l-0.656,0.38v-0.721l0.656-0.38V60.934L68.108,60.934z M62.047,64.434v-0.721
-			l0.657-0.381v0.722L62.047,64.434z"/>
+		<path fill="#E98F82" d="M89.729,102.885V88.601l-0.658,0.379v3.979l-4.746,2.74v-3.978l-0.657,0.379v3.979l-4.747,2.738v-3.979
+			l-0.657,0.381v3.979l-4.747,2.74V97.96l-0.657,0.38v3.979l-4.749,2.74v-3.979l-0.655,0.379v3.979l-4.748,2.74V104.2l-0.657,0.38
+			v3.979l-4.418,2.551v0.76l4.418-2.551v8.785c0.221-0.125,0.438-0.252,0.657-0.379v-8.787l4.748-2.74v8.787
+			c0.22-0.127,0.438-0.254,0.655-0.381v-8.785l4.749-2.741v8.787c0.22-0.126,0.438-0.253,0.657-0.38V102.7l4.747-2.741v8.788
+			c0.219-0.127,0.438-0.254,0.657-0.38V99.58l4.747-2.741v8.787c0.22-0.127,0.438-0.254,0.657-0.379v-8.788l4.746-2.741v8.788
+			L57.629,120.66v0.759L89.729,102.885z"/>
+		<path fill="#83434B" d="M89.729,102.885l-0.972,0.56v-0.758l0.313-0.182v-8.788l-0.313,0.183v-0.762l0.313-0.18v-3.979
+			l0.658-0.379V102.885L89.729,102.885z M84.324,92.44l-0.657,0.381v-0.721l0.657-0.382V92.44L84.324,92.44z M78.92,95.563
+			l-0.657,0.379v-0.721l0.657-0.382V95.563L78.92,95.563z M73.515,98.683l-0.657,0.381v-0.723l0.657-0.38V98.683L73.515,98.683z
+			 M68.108,101.804l-0.655,0.379v-0.722l0.655-0.379V101.804L68.108,101.804z M62.047,105.303v-0.721l0.657-0.38v0.721
+			L62.047,105.303z"/>
 	</g>
 </g>
 <g>
-	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#A88F87" points="58.436,33.111 67.463,27.898 61.156,24.256 
-		50.076,24.256 41.048,29.469 47.354,33.111 	"/>
-	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#F1EEEB" points="52.128,18.389 58.436,22.031 67.463,16.818 
-		61.156,13.177 	"/>
-	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#DED5CB" points="67.463,16.818 58.436,22.031 58.436,33.111 
-		67.463,27.898 	"/>
 	
-		<linearGradient id="SVGID_43_" gradientUnits="userSpaceOnUse" x1="36.7559" y1="27.2026" x2="-34.4236" y2="20.9752" gradientTransform="matrix(-1 0 0 1 75.4297 0)">
+		<linearGradient id="SVGID_35_" gradientUnits="userSpaceOnUse" x1="-907.613" y1="726" x2="-906.4236" y2="723.9398" gradientTransform="matrix(-1 0 0 1 -833.1919 -630.1777)">
 		<stop  offset="0" style="stop-color:#B6A49C"/>
 		<stop  offset="1" style="stop-color:#9E8F88"/>
 	</linearGradient>
-	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_43_)" points="52.128,18.389 58.436,22.031 58.435,33.111 
-		52.127,29.469 	"/>
+	<path fill="url(#SVGID_35_)" d="M56.658,105.608l33.087-19.104l0.97-2.485v0.141v-1.141l-33.086,19.104l-0.971,2.486
+		C56.658,109.258,56.658,100.961,56.658,105.608z"/>
+	<g>
+		
+			<linearGradient id="SVGID_36_" gradientUnits="userSpaceOnUse" x1="-927.2561" y1="716.3613" x2="-918.5507" y2="691.0789" gradientTransform="matrix(-1 0 0 1 -833.1919 -630.1777)">
+			<stop  offset="0" style="stop-color:#8B7973"/>
+			<stop  offset="1" style="stop-color:#66544D"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_36_)" points="89.729,68.165 89.729,82.449 90.715,83.021 90.715,67.596 		"/>
+		
+			<linearGradient id="SVGID_37_" gradientUnits="userSpaceOnUse" x1="-909.4451" y1="809.0771" x2="-940.9037" y2="585.2375" gradientTransform="matrix(-1 0 0 1 -833.1919 -630.1777)">
+			<stop  offset="0" style="stop-color:#B6A49C"/>
+			<stop  offset="1" style="stop-color:#9E8F88"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_37_)" points="88.742,83.021 89.729,82.449 90.715,83.021 		"/>
+		<polygon fill="#533B40" points="89.071,68.544 89.071,82.069 57.629,100.226 57.629,86.698 		"/>
+		<polygon fill="#6E565A" points="57.629,87.419 88.759,69.447 88.759,82.251 57.629,100.226 		"/>
+		
+			<linearGradient id="SVGID_38_" gradientUnits="userSpaceOnUse" x1="-892.116" y1="733.084" x2="-890.5408" y2="733.084" gradientTransform="matrix(-1 0 0 1 -833.1919 -630.1777)">
+			<stop  offset="0" style="stop-color:#B6A49C"/>
+			<stop  offset="1" style="stop-color:#9E8F88"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_38_)" points="57.629,102.122 57.629,103.121 58.614,103.69 58.614,102.69 		"/>
+		<polygon fill="#DCCEC0" points="58.614,103.69 91.701,84.588 91.701,83.589 58.614,102.69 		"/>
+		<polygon fill="#F1ECE5" points="57.629,102.122 57.629,100.983 88.759,83.011 90.716,83.021 91.701,83.589 58.614,102.69 		"/>
+		<path fill="#E98F82" d="M89.729,82.449V68.165l-0.658,0.38v3.979l-4.746,2.74v-3.979l-0.657,0.381v3.977l-4.747,2.741v-3.978
+			l-0.657,0.38v3.978l-4.747,2.741v-3.979l-0.657,0.38v3.979l-4.749,2.741v-3.979l-0.655,0.379v3.979l-4.748,2.741v-3.979
+			l-0.657,0.381v3.979l-4.418,2.551v0.761l4.418-2.553v8.788c0.221-0.127,0.438-0.253,0.657-0.38v-8.788l4.748-2.739v8.786
+			c0.22-0.126,0.438-0.253,0.655-0.38v-8.786l4.749-2.741v8.789c0.22-0.127,0.438-0.254,0.657-0.382v-8.786l4.747-2.742v8.789
+			c0.219-0.127,0.438-0.254,0.657-0.381v-8.787l4.747-2.741v8.788c0.22-0.127,0.438-0.254,0.657-0.381v-8.787l4.746-2.741v8.788
+			L57.63,100.226v0.76L89.729,82.449z"/>
+		<path fill="#83434B" d="M89.729,82.449l-0.972,0.562v-0.76l0.313-0.182v-8.787l-0.313,0.181v-0.76l0.313-0.18v-3.979l0.658-0.38
+			V82.449L89.729,82.449z M84.324,72.007l-0.657,0.38v-0.721l0.657-0.381V72.007L84.324,72.007z M78.92,75.128l-0.657,0.379v-0.721
+			l0.657-0.38V75.128L78.92,75.128z M73.515,78.247l-0.657,0.381v-0.722l0.657-0.38V78.247L73.515,78.247z M68.108,81.368
+			l-0.655,0.38v-0.722l0.655-0.379V81.368L68.108,81.368z M62.047,84.868v-0.721l0.657-0.381v0.721L62.047,84.868z"/>
+	</g>
 </g>
 <g>
-	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#A88F87" points="36.594,30.044 49.786,22.428 37.873,15.55 32.86,15.55 
-		19.669,23.167 31.583,30.044 	"/>
-	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#F1EEEB" points="24.68,18.153 36.594,25.031 49.786,17.416 37.873,10.538 
-			"/>
-	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#DED5CB" points="49.786,17.416 36.594,25.031 36.594,30.044 
-		49.786,22.428 	"/>
 	
-		<linearGradient id="SVGID_44_" gradientUnits="userSpaceOnUse" x1="47.957" y1="24.376" x2="15.9189" y2="21.573" gradientTransform="matrix(-1 0 0 1 75.4297 0)">
+		<linearGradient id="SVGID_39_" gradientUnits="userSpaceOnUse" x1="-907.6125" y1="705.5664" x2="-906.423" y2="703.506" gradientTransform="matrix(-1 0 0 1 -833.1919 -630.1777)">
 		<stop  offset="0" style="stop-color:#B6A49C"/>
 		<stop  offset="1" style="stop-color:#9E8F88"/>
 	</linearGradient>
-	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_44_)" points="24.68,18.153 36.594,25.031 36.594,30.044 
-		24.68,23.167 	"/>
+	<path fill="url(#SVGID_39_)" d="M56.658,85.174l33.087-19.103l0.97-2.487v0.14v-1.139L57.629,81.688l-0.971,2.485
+		C56.658,88.823,56.658,80.526,56.658,85.174z"/>
+	<g>
+		
+			<linearGradient id="SVGID_40_" gradientUnits="userSpaceOnUse" x1="-927.2571" y1="695.9287" x2="-918.5518" y2="670.6471" gradientTransform="matrix(-1 0 0 1 -833.1919 -630.1777)">
+			<stop  offset="0" style="stop-color:#8B7973"/>
+			<stop  offset="1" style="stop-color:#66544D"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_40_)" points="89.729,47.73 89.729,62.015 90.715,62.585 90.715,47.162 		"/>
+		
+			<linearGradient id="SVGID_41_" gradientUnits="userSpaceOnUse" x1="-909.4265" y1="788.7764" x2="-940.9288" y2="564.6259" gradientTransform="matrix(-1 0 0 1 -833.1919 -630.1777)">
+			<stop  offset="0" style="stop-color:#B6A49C"/>
+			<stop  offset="1" style="stop-color:#9E8F88"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_41_)" points="88.742,62.585 89.729,62.015 90.715,62.585 		"/>
+		<polygon fill="#533B40" points="89.071,48.109 89.071,61.636 57.629,79.789 57.629,66.264 		"/>
+		<polygon fill="#6E565A" points="57.629,66.984 88.759,49.011 88.759,61.815 57.629,79.789 		"/>
+		
+			<linearGradient id="SVGID_42_" gradientUnits="userSpaceOnUse" x1="-892.116" y1="712.6494" x2="-890.5408" y2="712.6494" gradientTransform="matrix(-1 0 0 1 -833.1919 -630.1777)">
+			<stop  offset="0" style="stop-color:#B6A49C"/>
+			<stop  offset="1" style="stop-color:#9E8F88"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_42_)" points="57.629,81.688 57.629,82.687 58.614,83.256 58.614,82.257 		"/>
+		<polygon fill="#DCCEC0" points="58.614,83.256 91.701,64.153 91.701,63.154 58.614,82.257 		"/>
+		<polygon fill="#F1ECE5" points="57.629,81.688 57.629,80.549 88.759,62.576 90.716,62.585 91.701,63.154 58.614,82.257 		"/>
+		<path fill="#E98F82" d="M89.729,62.015V47.73l-0.658,0.381v3.978l-4.746,2.74V50.85l-0.657,0.38v3.978l-4.747,2.741v-3.978
+			l-0.657,0.379v3.979l-4.747,2.741v-3.979l-0.657,0.38v3.979l-4.749,2.741v-3.979l-0.655,0.38v3.978l-4.748,2.741v-3.979
+			l-0.657,0.381v3.979l-4.418,2.551v0.76l4.418-2.552v8.788c0.221-0.127,0.438-0.253,0.657-0.38V68.07l4.748-2.741v8.788
+			c0.22-0.127,0.438-0.253,0.655-0.38V64.95l4.749-2.74v8.786c0.22-0.125,0.438-0.252,0.657-0.379v-8.788l4.747-2.74v8.788
+			c0.219-0.127,0.438-0.254,0.657-0.381V58.71l4.747-2.741v8.787c0.22-0.127,0.438-0.253,0.657-0.38v-8.787l4.746-2.741v8.788
+			L57.629,79.789v0.76L89.729,62.015z"/>
+		<path fill="#83434B" d="M89.729,62.015l-0.972,0.562v-0.761l0.313-0.18v-8.788l-0.313,0.181v-0.76l0.313-0.18v-3.978l0.658-0.381
+			V62.015L89.729,62.015z M84.324,51.572l-0.657,0.38V51.23l0.657-0.38V51.572L84.324,51.572z M78.92,54.693l-0.657,0.379V54.35
+			l0.657-0.379V54.693L78.92,54.693z M73.515,57.813l-0.657,0.381v-0.722l0.657-0.38V57.813L73.515,57.813z M68.108,60.934
+			l-0.655,0.38v-0.721l0.655-0.38V60.934L68.108,60.934z M62.047,64.434v-0.721l0.657-0.381v0.722L62.047,64.434z"/>
+	</g>
+</g>
+<g>
+	<polygon fill="#A88F87" points="58.436,33.111 67.463,27.898 61.156,24.256 50.076,24.256 41.048,29.469 47.354,33.111 	"/>
+	<polygon fill="#F1EEEB" points="52.128,18.389 58.436,22.031 67.463,16.818 61.156,13.177 	"/>
+	<polygon fill="#DED5CB" points="67.463,16.818 58.436,22.031 58.436,33.111 67.463,27.898 	"/>
+	
+		<linearGradient id="SVGID_43_" gradientUnits="userSpaceOnUse" x1="-871.8645" y1="657.3809" x2="-943.044" y2="651.1535" gradientTransform="matrix(-1 0 0 1 -833.1919 -630.1777)">
+		<stop  offset="0" style="stop-color:#B6A49C"/>
+		<stop  offset="1" style="stop-color:#9E8F88"/>
+	</linearGradient>
+	<polygon fill="url(#SVGID_43_)" points="52.128,18.389 58.436,22.031 58.435,33.111 52.127,29.469 	"/>
+</g>
+<g>
+	<polygon fill="#A88F87" points="36.594,30.044 49.786,22.428 37.873,15.55 32.86,15.55 19.669,23.167 31.583,30.044 	"/>
+	<polygon fill="#F1EEEB" points="24.68,18.153 36.594,25.031 49.786,17.416 37.873,10.538 	"/>
+	<polygon fill="#DED5CB" points="49.786,17.416 36.594,25.031 36.594,30.044 49.786,22.428 	"/>
+	
+		<linearGradient id="SVGID_44_" gradientUnits="userSpaceOnUse" x1="-860.6638" y1="654.5527" x2="-892.7032" y2="651.7496" gradientTransform="matrix(-1 0 0 1 -833.1919 -630.1777)">
+		<stop  offset="0" style="stop-color:#B6A49C"/>
+		<stop  offset="1" style="stop-color:#9E8F88"/>
+	</linearGradient>
+	<polygon fill="url(#SVGID_44_)" points="24.68,18.153 36.594,25.031 36.594,30.044 24.68,23.167 	"/>
+</g>
+<g>
+	<path fill="#68E068" d="M41.277,127.626c0.964,0.557,1.819,2.006,2.277,3.688c0.108,0.039,0.22,0.086,0.335,0.153
+		c0.755,0.437,1.445,1.425,1.931,2.644c0.055,0.031,0.11,0.056,0.166,0.088c1.856,1.072,3.393,4.053,3.423,6.642
+		c0.029,2.429-1.265,3.664-2.959,2.933c-0.018,0.515-0.096,0.963-0.209,0.896c-0.016-0.009-0.032-0.027-0.049-0.059
+		c-0.034-0.06-0.076-0.102-0.122-0.127c-0.186-0.106-0.427,0.043-0.379,0.396c0.064,0.444-0.016,1.011-0.236,0.884
+		c-0.21-0.123,0.052-1.209-0.114-1.305c-0.295,0.049-0.241,4.488-0.118,5.174c0.071,0.413-0.064,0.936-0.166,0.877
+		c-0.063-0.037-0.113-0.304-0.087-0.976c0.05-1.373-0.024-4.337-0.061-5.521l-0.121-0.062c-0.424-0.245-0.829-0.679-1.181-1.231
+		c-0.417,0.301-0.926,0.325-1.483,0.004c-0.732-0.424-1.4-1.365-1.88-2.535c-0.038,0.074-0.075,0.133-0.124,0.16
+		c-0.053,0.025-0.096,0.024-0.131,0.004c-0.088-0.051-0.13-0.223-0.164-0.39c-0.036-0.172-0.068-0.341-0.138-0.381
+		c-0.216-0.015-0.064,1.235-0.291,1.104c-0.221-0.127-0.014-1.074-0.268-1.271c-0.124-0.072-0.152,0.079-0.172,0.235
+		c-0.018,0.158-0.025,0.32-0.096,0.281c-0.182-0.195-0.191-0.934-0.189-1.25c-0.099-0.065-0.198-0.14-0.298-0.221
+		c-0.622,2.436-0.102,8.5-0.145,9.406c-0.02,0.434-0.125,0.768-0.228,0.708c-0.132-0.076-0.259-0.808-0.187-2.818
+		c0.108-3.241-0.126-7.381-0.173-8.141c-0.864-1.263-1.468-3.195-1.489-5.039c-0.031-2.599,1.102-4.029,2.522-3.208
+		c0.062,0.035,0.121,0.07,0.177,0.109C39.16,127.772,40.125,126.961,41.277,127.626z"/>
+</g>
+<g>
+	<path fill="#C663C1" d="M19.345,115.809c2.544,1.47,4.715,4.22,5.463,6.717c0.133,0.069,0.259,0.133,0.392,0.208
+		c3.135,1.811,5.706,5.586,5.74,8.42c0.023,2.026-1.247,3.018-3.104,2.78c-0.082,0.763-0.451,4.933-0.07,8.758
+		c0.234,2.388-0.018,2.959-0.309,2.793c-0.224-0.131-0.47-0.705-0.529-1.221c-0.127-1.103,0.78-6.876-0.696-10.795
+		c-0.217-0.09-0.434-0.197-0.657-0.317c0.022,0.352,0.038,1.171-0.306,1.052c-0.229-0.12-0.254-0.313-0.298-0.521
+		c-0.048-0.208-0.112-0.433-0.34-0.565c-0.605-0.296-0.091,1.169-0.592,0.881c-0.494-0.287-0.197-1.394-0.631-1.751
+		c-0.212-0.128-0.272,0-0.346,0.113c-0.071,0.12-0.155,0.234-0.347,0.122c-0.076-0.045-0.17-0.123-0.29-0.253
+		c-0.109-0.114-0.2-0.256-0.28-0.406c-1.026,0.384-2.477,0.146-4.087-0.783c-1.224-0.707-2.354-1.71-3.29-2.834
+		c-0.767-0.06-1.644-0.347-2.585-0.891c-0.091-0.053-0.175-0.109-0.266-0.16c-0.026,1.254-0.072,4.426,0.09,6.052
+		c0.082,0.798-0.018,1.002-0.158,0.921c-0.222-0.128-0.544-0.976-0.397-1.301c0.24-0.524,0.182-5.384-0.376-5.932
+		c-0.038-0.036-0.067-0.061-0.094-0.076c-0.374-0.216,0.26,1.504-0.202,1.237c-0.495-0.286-0.684-1.058-0.569-1.435
+		c0.096-0.298-0.44-0.931-0.846-1.164c-0.103-0.06-0.196-0.094-0.27-0.09c-0.038,0-0.073-0.011-0.108-0.029
+		c-0.25-0.146-0.436-0.8-0.502-1.412c-3.729-2.424-6.66-6.277-6.692-8.934c-0.033-2.842,3.255-3.226,7.354-0.857
+		c0.12,0.069,0.24,0.139,0.362,0.218c1.029-0.433,2.518-0.218,4.188,0.746c0.247,0.144,0.494,0.303,0.73,0.465
+		C15.385,114.566,17.223,114.583,19.345,115.809z"/>
+</g>
+<g>
+	<path d="M9.59,124.439c-0.002,0.002-0.006,0.005-0.008,0.007C9.584,124.444,9.588,124.441,9.59,124.439z"/>
+	<path d="M9.582,124.446c-0.029,0.025-0.061,0.033-0.093,0.035C9.521,124.477,9.551,124.469,9.582,124.446z"/>
+	<path d="M9.354,124.435c-0.036-0.035-0.072-0.073-0.096-0.156C9.283,124.346,9.317,124.397,9.354,124.435z"/>
+	<path d="M9.443,124.481c-0.03-0.007-0.062-0.02-0.089-0.047C9.382,124.463,9.411,124.479,9.443,124.481z"/>
+	<path d="M9.489,124.483c-0.015,0.003-0.029,0-0.045-0.002C9.459,124.486,9.473,124.486,9.489,124.483z"/>
+	<path d="M9.59,124.439c0.086-0.064,0.167-0.167,0.204-0.281C9.715,124.243,9.647,124.337,9.59,124.439
+		C9.677,124.376,9.629,124.404,9.59,124.439z"/>
+	<path d="M9.807,124.166l0.023-0.051C9.786,124.139,9.778,124.154,9.807,124.166L9.807,124.166z"/>
+	<polygon points="9.853,124.087 9.864,124.045 9.83,124.115 	"/>
+	<polygon points="9.148,125.84 9.158,125.847 9.135,125.828 	"/>
+	<path d="M8.511,122.978c-0.151-1.661-0.417-3.307-0.608-4.961c-0.039,1.56,0.353,3.088,0.542,4.628
+		c0.11,0.892-0.154,2.581,0.691,3.184C8.456,125.164,8.591,123.849,8.511,122.978C8.36,121.316,8.592,123.858,8.511,122.978z"/>
+	<path d="M10.581,121.226c0.181-1.365,0.185-2.747,0.085-4.122C10.712,118.484,10.745,119.851,10.581,121.226
+		C10.763,119.86,10.708,120.159,10.581,121.226z"/>
+	<path d="M10.506,115.511c0.069,0.528,0.123,1.061,0.161,1.593C10.649,116.569,10.611,116.017,10.506,115.511z"/>
+	<path d="M8.78,119.459c0.179,1.604,0.364,3.209,0.479,4.819C9.13,122.663,8.971,121.069,8.78,119.459
+		C8.959,121.063,8.959,120.952,8.78,119.459z"/>
+	<path d="M9.899,123.954c-0.018,0.028-0.029,0.06-0.035,0.091c0.172-0.317,0.286-0.658,0.355-1.013
+		c-0.092,0.331-0.191,0.655-0.342,0.966C9.877,123.998,9.889,123.974,9.899,123.954C9.893,123.966,9.889,123.974,9.899,123.954z"/>
+	<path d="M10.577,121.261c0.001-0.012,0.002-0.023,0.003-0.035c-0.08,0.609-0.198,1.216-0.362,1.809
+		C10.386,122.453,10.499,121.858,10.577,121.261C10.578,121.251,10.493,121.897,10.577,121.261z"/>
+	<path d="M10.577,121.261C10.493,121.897,10.578,121.251,10.577,121.261L10.577,121.261z"/>
+	<path d="M14.46,117.807c0,0,0-0.023,0-0.038C14.46,117.776,14.46,117.783,14.46,117.807z"/>
+	<path d="M14.46,117.769C14.46,117.754,14.46,117.755,14.46,117.769L14.46,117.769z"/>
+	<path d="M14.46,117.807c-0.007-0.092-0.015-0.18-0.022-0.271c0.007,0.096,0.015,0.193,0.022,0.287V117.807
+		C14.459,117.689,14.46,117.807,14.46,117.807z"/>
+	<path d="M14.105,118.724c0.138,0.068,0.067-0.74,0.002-1.438C14.084,117.673,13.83,118.052,14.105,118.724z"/>
+	<path d="M14.09,117.071c0.006,0.07,0.011,0.138,0.019,0.214C14.113,117.216,14.104,117.144,14.09,117.071z"/>
+	<path d="M14.145,127.418l0.057-0.628C14.187,126.945,14.146,127.193,14.145,127.418z"/>
+	<path d="M14.691,120.137c0.792-0.587,0.627-2.276,0.223-3.514C15.135,117.549,15.522,119.402,14.691,120.137
+		C15.483,119.55,15.173,119.711,14.691,120.137z"/>
+	<path d="M14.372,115.473c0.191,0.247,0.383,0.665,0.542,1.15C14.795,116.123,14.617,115.668,14.372,115.473z"/>
+	<path d="M14.303,125.554C14.255,125.744,14.273,125.756,14.303,125.554L14.303,125.554z"/>
+	<path d="M14.201,126.787c-0.006-0.41,0.042-0.827,0.103-1.233C14.199,125.955,14.196,126.377,14.201,126.787z"/>
+	<path d="M14.309,118.821c0.17-0.29,0.182-0.671,0.15-0.999C14.462,118.154,14.441,118.514,14.309,118.821
+		C14.48,118.531,14.404,118.6,14.309,118.821z"/>
+	<path d="M17.607,126.158c-0.033,0.429-0.061,0.877-0.082,1.342l0.198-2.636C17.683,125.299,17.641,125.721,17.607,126.158
+		C17.574,126.587,17.641,125.721,17.607,126.158z"/>
+	<path d="M17.607,126.158C17.641,125.721,17.574,126.587,17.607,126.158L17.607,126.158z"/>
+	<path d="M16.607,128.864c0.108-0.588,0.175-1.183,0.219-1.78C16.776,127.61,16.621,128.288,16.607,128.864z"/>
+	<path d="M16.853,126.722c-0.009,0.12-0.019,0.241-0.027,0.362C16.843,126.963,16.852,126.842,16.853,126.722
+		C16.846,126.842,16.848,126.805,16.853,126.722z"/>
+	<path d="M17.509,127.682c0.009-0.081,0.015-0.143,0.017-0.182C17.521,127.562,17.515,127.621,17.509,127.682z"/>
+	<path d="M16.853,126.722c0.013-0.198,0.026-0.395,0.033-0.59C16.875,126.327,16.866,126.523,16.853,126.722z"/>
+	<path d="M16.887,126.132c0.046-0.801,0.081-1.597,0.071-2.403C16.933,124.524,16.921,125.329,16.887,126.132z"/>
+	<path d="M17.383,129.151c0.045-0.49,0.087-0.979,0.126-1.47C17.475,128.02,17.396,128.666,17.383,129.151z"/>
+	<path d="M18.328,121.79c-0.039-0.009-0.08-0.01-0.118-0.003C18.25,121.83,18.289,121.84,18.328,121.79z"/>
+	<path d="M23.154,122.825C23.154,122.825,23.153,122.71,23.154,122.825L23.154,122.825z"/>
+	<path d="M23.154,122.825c-0.007-0.09-0.016-0.181-0.023-0.271c0.008,0.098,0.016,0.193,0.024,0.289L23.154,122.825
+		C23.153,122.71,23.154,122.825,23.154,122.825z"/>
+	<path d="M23.003,123.84c0.169-0.29,0.181-0.669,0.152-0.997C23.155,123.173,23.134,123.534,23.003,123.84
+		C23.171,123.55,23.098,123.619,23.003,123.84z"/>
+	<path d="M22.997,130.573C22.948,130.762,22.967,130.775,22.997,130.573L22.997,130.573z"/>
+	<path d="M22.895,131.808c-0.005-0.413,0.041-0.828,0.103-1.234C22.892,130.975,22.89,131.396,22.895,131.808z"/>
+	<path d="M23.065,120.491c0.191,0.246,0.381,0.662,0.54,1.146C23.488,121.14,23.31,120.687,23.065,120.491z"/>
+	<path d="M23.384,125.156c0.794-0.589,0.627-2.283,0.223-3.519C23.828,122.562,24.216,124.423,23.384,125.156
+		C24.177,124.567,23.865,124.731,23.384,125.156z"/>
+	<path d="M22.839,132.436l0.056-0.628C22.88,131.964,22.839,132.212,22.839,132.436z"/>
+	<path d="M28.874,127.479l0.119,0.086c0.099-1.361-0.051-3.363-0.964-4.47c-0.935-1.528-1.343,0.263-1.333,1.1l0.019-0.047
+		c0.114,1.578,0.088,3.184,0.228,4.773C27.92,128.637,28.659,128.658,28.874,127.479C28.874,127.479,28.739,128.221,28.874,127.479z
+		 M27.689,127.897c-0.011-1.033-0.209-2.293,0.19-3.277C28.836,125.055,28.531,127.457,27.689,127.897
+		C27.683,127.373,28.531,127.457,27.689,127.897z M28.895,126.93c0.005-0.525-0.048-1.33-0.197-2.098
+		C28.878,125.539,28.942,126.265,28.895,126.93z M27.206,122.754c0.133-0.111,0.301-0.109,0.511,0.077
+		C27.558,122.742,27.382,122.681,27.206,122.754C27.34,122.645,27.242,122.74,27.206,122.754z M27.607,128.793
+		C27.585,128.795,27.573,128.796,27.607,128.793L27.607,128.793z"/>
+	<path d="M28.738,124.25C28.852,124.612,28.738,124.25,28.738,124.25L28.738,124.25z"/>
+	<path d="M27.769,122.549c1.311,1.345,2.616,7.314-0.828,6.372c0.119,0.413,0.928,0.235,1.196,0.14
+		c0.672-0.242,0.914-0.964,0.997-1.609C29.334,125.916,28.941,123.66,27.769,122.549C29.195,124.014,28.245,122.999,27.769,122.549z
+		"/>
+	<path d="M29.81,126.409c0.025,0.273,0.035,0.546,0.035,0.819C29.845,126.953,29.835,126.68,29.81,126.409z"/>
+	<path d="M29.723,125.665c-0.051-0.28,0.054,0.317-0.047-0.203c0.057,0.303,0.102,0.609,0.132,0.915
+		C29.786,126.141,29.756,125.884,29.723,125.665C29.705,125.576,29.735,125.75,29.723,125.665z"/>
+	<path d="M29.846,127.227c0,0.068,0,0.135-0.001,0.205C29.846,127.362,29.846,127.295,29.846,127.227z"/>
+	<path d="M29.81,126.409c0-0.012-0.002-0.023-0.002-0.032C29.808,126.386,29.81,126.397,29.81,126.409z"/>
+	<path d="M29.844,127.432c-0.007,0.289-0.024,0.575-0.067,0.856C29.821,128.007,29.837,127.721,29.844,127.432z"/>
+	<path d="M29.676,125.462c-0.061-0.324-0.133-0.646-0.217-0.954C29.549,124.822,29.614,125.142,29.676,125.462z"/>
+	<path d="M28.596,122.418C28.744,122.666,28.751,122.669,28.596,122.418L28.596,122.418z"/>
+	<path d="M29.116,123.482C29.186,123.667,29.187,123.662,29.116,123.482L29.116,123.482z"/>
+	<path d="M30.863,127.246c-0.015-0.035-0.099-0.656-0.071-0.448c-0.295-1.638-0.813-3.243-1.609-4.706
+		c-0.474-0.871-1.562-2.577-2.78-2.129c-1.356,0.256-1.541,2.27-1.489,4.009c-0.153-1.249-0.466-2.597-1.208-3.637
+		c-0.764-1.072-1.479-0.749-2.317,0.066c-1.291,1.254-0.155,3.96,0.445,5.299l-0.031-0.02c-0.733,0.448-0.392,2.689-0.383,3.348
+		c-0.127-0.999-0.454-1.954-0.839-2.879c-0.137-0.332-0.637-1.012-0.327-1.211c0.208-0.134,0.346-0.343,0.415-0.577
+		c0.342-1.159-0.472-2.765-1.296-3.547c-0.149-0.141-0.329-0.283-0.535-0.329c-0.005-0.409-0.028-0.819-0.078-1.225
+		c-0.102-0.841-0.298-1.751-0.823-2.437c-0.198-0.26-1.355-0.811-1.587-0.477c-0.403,0.579-0.153,1.892-0.153,2.528
+		c-0.005-0.051-0.052-0.734-0.125-0.784c-0.107-0.07-0.321-1.217-0.432-1.513c-0.265-0.703-0.642-1.416-1.249-1.879
+		c-0.592-0.453-0.704-0.052-1.111,0.301c-0.676,0.583-1.051,0.922-1.096,1.896c-0.305-1.436-0.623-2.989-1.263-4.319
+		c-0.153-0.318-0.403-0.94-0.789-1.046c-0.534-0.145-0.462,1.13-0.432,1.37c0.071,0.584,0.285,0.966,0.097,1.484
+		c-0.192,0.527-0.1,1.172-0.036,1.716c0.187,1.58,0.228,3.042,0.111,4.643c-0.245-1.718-0.354-3.455-0.443-5.188
+		c-0.075-1.446-0.17-3.012-1.068-4.219c-0.281-0.378-0.873-0.922-1.368-0.562c-0.469,0.363-0.413,1.078-0.416,1.603
+		c-0.006,1.674-0.273,3.389-0.573,5.029c-0.225-1.318-0.354-2.664-0.272-4.004c0.051-0.841-0.021-2.851-0.956-3.285
+		c-0.356-0.165-0.607,0.16-0.712,0.462c-0.31-0.177-0.663-0.23-0.79,0.171c-0.325,1.019-0.123,2.428-0.045,3.463
+		c0.099,1.343,0.385,2.634,0.693,3.94c0.316,1.342,0.42,2.715,0.723,4.059c0.208,0.925,0.434,2.423,1.35,2.954
+		c0.974,0.563,1.556-0.629,1.785-1.386c0.123,1.063,1.316,6.202,3.226,4.008c1.848-2.124,1.637-6.15,1.507-8.719
+		c0.003,0.083,0.008,0.168,0.013,0.251c-0.006-0.109-0.005-0.197-0.018-0.296c0.189,0.614,0.424,1.195,0.631,1.658l-0.033-0.019
+		c-0.815,0.499-0.374,3.156-0.364,3.873c0.023,1.685-0.21,3.543,1.003,4.927c0.29,0.328,0.867,0.553,1.266,0.268
+		c0.374-0.268,0.285-0.986,0.291-1.379c0.027-1.923,0.395-3.916-0.284-5.776c0.738-0.006,1.058-0.696,1.176-1.325
+		c0.005,1.674-0.003,3.352-0.112,5.022c-0.069,1.396-0.1,2.779,0.397,4.108c0.237,0.632,1.438,2.446,1.993,0.874
+		c0.171-0.482,0.025-1.001,0.092-1.495c0.162-0.804,0.175-1.625,0.207-2.441c0.396,0.798,0.573,1.691,0.991,2.487
+		c0.449,0.856,1.45,1.317,1.659-0.067c0.007,0.789,0.25,6.469,2.285,5.009c0.513-0.369,0.305-1.896,0.333-2.418
+		c0.083-1.578,0.225-3.219-0.327-4.735c1.114-0.011,1.263-1.437,1.276-2.269c0.249,3.236,0.18,6.592,1.39,9.662
+		c0.108,0.275,0.524,1.32,1.012,1.006c0.19-0.125,0.142-0.422,0.386-0.43c0.169-0.007,0.308-0.091,0.393-0.236
+		c0.466-0.805-0.098-2.008-0.111-2.862C30.879,133.344,31.065,128.813,30.863,127.246C30.865,127.253,30.984,128.196,30.863,127.246
+		z M6.145,124.248c0.166-0.035,0.204,0.053,0.123,0.263C6.207,124.403,6.094,124.438,6.145,124.248
+		C6.185,124.243,6.094,124.438,6.145,124.248z M7.607,122.346c-0.078,0.136-0.12,0.284-0.126,0.441
+		c-0.016-0.28,0.085-0.534,0.167-0.798C7.673,122.11,7.658,122.229,7.607,122.346C7.529,122.481,7.658,122.229,7.607,122.346z
+		 M7.835,119.672c0.175,1.073,0.326,2.145,0.433,3.228c0.089,0.887,0.056,1.834,0.399,2.675
+		C7.872,123.875,8.017,121.512,7.835,119.672C7.896,120.047,7.997,121.315,7.835,119.672z M8.713,125.666
+		c0.023,0.051,0.054,0.092,0.08,0.138C8.765,125.76,8.737,125.715,8.713,125.666z M9.309,126.251
+		c0.105,0.027,0.216,0.05,0.348,0.025C9.527,126.301,9.415,126.283,9.309,126.251z M9.072,126.125
+		c0.024,0.02,0.046,0.039,0.072,0.056C9.12,126.163,9.096,126.145,9.072,126.125z M9.734,127.359
+		c0.17,0.065,0.328,0.045,0.477-0.059C10.111,127.396,9.897,127.438,9.734,127.359C9.877,127.442,9.861,127.422,9.734,127.359z
+		 M9.732,127.233c0.098-0.168,0.268-0.065,0.475-0.21C10.185,127.25,9.969,127.354,9.732,127.233
+		C9.829,127.067,9.895,127.317,9.732,127.233z M10.646,126.99l-0.06,0.063l0.111-0.155L10.646,126.99L10.646,126.99z
+		 M10.584,126.832c-0.002-0.103,0.036-0.194,0.11-0.272C10.722,126.713,10.633,126.678,10.584,126.832
+		C10.582,126.729,10.61,126.751,10.584,126.832z M10.635,124.985c-0.774,1.376-1.843,1.452-2.164-0.274
+		c-0.375-2.018-0.343-4.139-0.659-6.178c-0.037,0.135-0.043,0.292-0.042,0.456c-0.004-0.049-0.008-0.099-0.014-0.146
+		c-0.19,1.028-0.328,2.065-0.646,3.064c-0.246,0.771-1.081,2.313-1.831,0.942c-0.356-0.65-0.356-1.429-0.446-2.149
+		c-0.126-1.007-0.333-1.99-0.517-2.989c-0.398-2.149-0.537-4.332-0.53-6.517c0.748,0.478-0.085,1.867,0.422,2.546
+		c-0.008-0.695,0.125-1.439,0.249-2.122c0.174-0.95,0.504-0.895,0.471,0.083c-0.042,1.214-0.145,2.331,0.017,3.557
+		c0.22,1.675,0.779,3.28,1.009,4.952c0.859-1.511,0.938-3.643,0.998-5.347c0.019-0.485-0.139-3.365,0.632-3.351
+		c1.378,0.029,1.039,4.239,1.096,4.987c0.105,1.362,0.244,2.721,0.411,4.075c0.14,1.122,0.048,2.296,0.394,3.386
+		c1.121-0.87,1.007-3.254,1.036-4.52c0.023-0.951,0.033-1.95-0.129-2.891c-0.061-0.348-0.385-1.404-0.074-1.688
+		c0.084,0.198,0.14,0.421,0.188,0.648c-0.023-0.169-0.038-0.34-0.062-0.51l0.101,0.152c0.071-0.14-0.262-2.741-0.222-2.722
+		c0.683,0.377,0.741,2.174,0.838,2.852c0.233,1.632,0.323,3.314,0.25,4.962c-0.027,0.59-0.542,6.507-2.25,5.603
+		c1.161,0.671,1.76-2.115,1.929-2.807c0.647-2.665,0.483-5.475,0.066-8.161C11.888,117.909,12.223,122.161,10.635,124.985
+		C10.201,125.755,11.52,123.411,10.635,124.985z M13.836,115.837c0.103,0.201,0.166,0.618-0.196,0.581
+		c0.2,0.172,0.395,0.385,0.449,0.653c-0.035-0.38-0.062-0.695-0.04-0.749c0.253,0.338,0.317,0.81,0.387,1.213
+		c-0.03-0.476-0.114-1.04-0.321-1.474c-0.086-0.183-0.448-0.995,0.078-0.691c0.063,0.014,0.12,0.058,0.175,0.103
+		c-0.006-0.009-0.012-0.022-0.019-0.029c0.757,0.439,0.875,1.688,1.003,2.482c-0.438,0.411,0.306,1.816-0.535,2.373
+		c-0.631,0.359-1.183-0.25-1.494-0.759c0.008,0.026,0.022,0.056,0.032,0.082C12.673,118.283,12.253,115.939,13.836,115.837
+		C13.938,116.037,12.253,115.939,13.836,115.837z M13.279,126.151c0.011-0.417,0.031-0.842,0.054-1.271
+		C13.32,125.304,13.3,125.728,13.279,126.151z M14.427,128.736c0.075,0.04,0.124,0.028,0.086,0.155
+		C14.438,128.867,14.408,128.815,14.427,128.736C14.455,128.751,14.408,128.815,14.427,128.736z M14.483,123.517
+		c-0.089,0.911-0.041,1.853-0.037,2.769c0.001,0.327,0.155,1.353-0.113,1.597c-0.149-0.051-0.189-0.245-0.188-0.467l-0.036,0.395
+		c-0.053-0.037-0.105-0.073-0.158-0.11c-0.07,0.511-0.473-0.06-0.526-0.257c0.164-0.882,0.137-1.786,0.125-2.678
+		c-0.065,0.877-0.02,1.769-0.197,2.636c-0.207-0.39-0.069-0.808-0.073-1.231l0.105,0.061c-0.158-1.558,0.091-3.155,0.028-4.719
+		c0.161,0.182,0.309,0.375,0.445,0.578c0.126-0.338,0.37-0.252,0.511,0C14.6,122.495,14.526,123.075,14.483,123.517
+		C14.404,124.33,14.519,123.135,14.483,123.517z M13.866,120.359c-0.072-0.071-0.147-0.163-0.221-0.267
+		c0.295,0.339,0.831,0.674,1.242,0.313C14.643,120.693,14.309,120.784,13.866,120.359C13.794,120.29,14.309,120.784,13.866,120.359z
+		 M14.838,121.515c-0.09,0.009-0.184-0.016-0.262-0.065C14.686,121.437,14.794,121.461,14.838,121.515z M14.725,128.945
+		c-0.005,0.012-0.243-0.142,0.022-0.34C14.785,128.72,14.764,128.827,14.725,128.945z M14.721,121.608
+		c0.076,0.011,0.122,0.042,0.12,0.118C14.763,121.718,14.716,121.686,14.721,121.608z M15.299,121.23
+		c0.023,0.104-0.031,0.111-0.116,0.19C15.175,121.334,15.217,121.271,15.299,121.23C15.299,121.23,15.217,121.271,15.299,121.23z
+		 M15.187,121.669c-0.025-0.102,0.014-0.166,0.116-0.181C15.322,121.574,15.284,121.634,15.187,121.669
+		C15.161,121.567,15.22,121.628,15.187,121.669z M15.389,118.863c-0.005,0.135-0.029,0.302-0.061,0.475
+		c0.036-0.255,0.052-0.499,0.061-0.675C15.39,118.731,15.39,118.798,15.389,118.863C15.384,118.999,15.39,118.798,15.389,118.863z
+		 M20.504,129.838c-0.048-0.189-0.007-0.347,0.125-0.462C20.659,129.679,20.615,129.824,20.504,129.838z M20.668,128.221
+		c-0.271,0.151-0.328-0.172-0.391-0.397c-0.073,0.094,0.039,1.183-0.274,0.87c-0.176-0.177-0.25-0.426-0.36-0.646
+		c-0.547-1.265-1.201-2.531-1.692-3.812c-0.04,1.144-0.086,2.285-0.229,3.421c-0.026,0.201-0.398,2.013-0.252,2.102
+		c-0.078-0.042-0.096-0.292-0.086-0.605c-0.014,0.154-0.026,0.312-0.041,0.468c-0.057-0.049-0.114-0.099-0.172-0.147
+		c0.084,0.914-0.574-0.132-0.563-0.606c-0.014,0.079-0.02,0.161-0.036,0.242c-0.228-0.739,0.015-1.68,0.056-2.441l0.105,0.062
+		c-0.019-1.644,0.191-3.279,0.072-4.925l-0.024,0.018c0.015-1.582,0.001-3.162-0.03-4.72c0.44,0.111,0.233,0.534,0.454,0.804
+		c0.27-1.497,0.645,0.554,0.692,1.022c0.057,0.567-0.078,1.135-0.067,1.703c0.006,0.253,0.021,0.602,0.232,0.784
+		c0.323,0.278,0.604-0.221,0.917-0.116c0.491,0.184-0.41,0.483-0.622,0.486c0.139-0.015,0.279-0.028,0.419-0.042
+		c0.284-0.271,0.449-0.248,0.497,0.068c0.441-0.18,0.51,0.382,0.496,0.671c-0.032,0.585-1.445,0.296-1.69,0.143
+		c0.105,0.168,0.2,0.327,0.294,0.503c-0.055-0.156-0.134-0.302-0.234-0.431c0.652,0.383,0.921,0.171,1.616,0.002
+		c-0.274,0.567-0.783,0.584-1.279,0.297c0.154,0.432,0.403,0.822,0.636,1.215c-0.016-0.34-0.36-0.771-0.503-1.119
+		C18.891,123.501,21.147,127.952,20.668,128.221C20.397,128.372,20.767,128.164,20.668,128.221z M16.626,126.619
+		c0.074-1.298,0.103-2.614,0.125-3.928C16.748,124.001,16.717,125.31,16.626,126.619z M20.737,129.126
+		c0.086-0.002,0.166-0.026,0.234-0.076l0.003,0.355C20.816,129.4,20.807,129.313,20.737,129.126
+		C20.822,129.124,20.807,129.313,20.737,129.126z M21.261,128.144C21.268,128.176,21.273,128.205,21.261,128.144L21.261,128.144z
+		 M22.528,120.854c0.104,0.203,0.166,0.617-0.196,0.582c0.83,0.711,0.113,1.434,0.467,2.305c0.074,0.062-0.062-2.383-0.055-2.399
+		c0.253,0.338,0.318,0.808,0.386,1.212c-0.029-0.474-0.113-1.04-0.32-1.473c-0.087-0.183-0.448-0.996,0.078-0.692
+		c0.064,0.013,0.12,0.058,0.175,0.103c-0.006-0.008-0.012-0.021-0.019-0.029c0.759,0.439,0.873,1.69,1.005,2.481
+		c-0.439,0.408,0.303,1.818-0.535,2.375c-0.633,0.355-1.183-0.246-1.494-0.759c0.007,0.029,0.023,0.062,0.035,0.094
+		C21.368,123.316,20.944,120.957,22.528,120.854C22.632,121.058,20.944,120.957,22.528,120.854z M21.97,131.171
+		c0.012-0.416,0.033-0.841,0.055-1.271C22.015,130.324,21.994,130.747,21.97,131.171z M23.12,133.754
+		c0.076,0.042,0.125,0.029,0.087,0.156C23.131,133.886,23.102,133.835,23.12,133.754C23.149,133.771,23.102,133.835,23.12,133.754z
+		 M23.176,128.535c-0.091,0.912-0.041,1.854-0.036,2.771c0.001,0.323,0.155,1.354-0.114,1.595c-0.149-0.05-0.189-0.245-0.187-0.466
+		l-0.036,0.395c-0.052-0.038-0.105-0.074-0.157-0.111c-0.02,0.215-0.107,0.268-0.265,0.159c-0.315-0.264-0.24-0.479-0.197-0.853
+		c0.089-0.743,0.069-1.493,0.06-2.24c-0.066,0.878-0.021,1.77-0.197,2.635c-0.207-0.39-0.07-0.808-0.075-1.23l0.105,0.062
+		c-0.155-1.56,0.097-3.155,0.028-4.722c0.163,0.182,0.312,0.376,0.446,0.58c0.126-0.34,0.37-0.251,0.512,0
+		C23.294,127.516,23.218,128.095,23.176,128.535C23.095,129.348,23.212,128.154,23.176,128.535z M22.56,125.378
+		c-0.074-0.07-0.147-0.162-0.222-0.266c0.296,0.341,0.833,0.676,1.244,0.313C23.338,125.712,23.006,125.803,22.56,125.378
+		C22.486,125.308,23.006,125.803,22.56,125.378z M23.532,126.533c-0.089,0.009-0.182-0.015-0.263-0.066
+		C23.379,126.456,23.488,126.479,23.532,126.533z M23.416,133.964c-0.002,0.008-0.244-0.14,0.023-0.339
+		C23.478,133.742,23.458,133.848,23.416,133.964z M23.415,126.629c0.077,0.009,0.124,0.042,0.119,0.116
+		C23.457,126.736,23.409,126.704,23.415,126.629z M23.993,126.249c0.022,0.104-0.029,0.113-0.116,0.19
+		C23.868,126.354,23.911,126.29,23.993,126.249C23.993,126.249,23.911,126.29,23.993,126.249z M23.88,126.688
+		c-0.024-0.101,0.014-0.164,0.117-0.18C24.015,126.594,23.976,126.653,23.88,126.688C23.856,126.587,23.913,126.647,23.88,126.688z
+		 M24.082,123.884c-0.005,0.136-0.028,0.304-0.062,0.478c0.037-0.256,0.052-0.502,0.062-0.681
+		C24.084,123.751,24.084,123.817,24.082,123.884C24.077,124.02,24.084,123.817,24.082,123.884z M27.874,131.429
+		c0.154-0.009,0.309-0.018,0.463-0.024c0.001,0.098,0.002,0.195,0.003,0.296C28.069,131.661,27.88,131.724,27.874,131.429
+		C28.03,131.425,27.88,131.724,27.874,131.429z M28.695,131.646c-0.058-0.17-0.048-0.322,0.126-0.345
+		C28.874,131.467,28.851,131.593,28.695,131.646C28.636,131.477,28.738,131.632,28.695,131.646z M28.569,130.45
+		c-0.401,0.162-1.134,0.296-1.291-0.192c0.794,0.123,1.525-0.078,2.044-0.739c-0.284,0.323-0.658,0.56-1.08,0.656
+		c-0.209,0.048-0.421,0.063-0.636,0.046c-0.523-0.038-0.163-0.336-0.563-0.324c0.105,1.258,0.165,2.526,0.333,3.778
+		c-0.593-0.065-0.373-0.993-0.598-1.336c0.009,0.187-0.094,1.784-0.129,1.766c-0.64-0.372-0.565-1.854-0.604-2.472
+		c-0.085-1.368-0.292-2.724-0.381-4.093c-0.12-1.826-0.568-3.866-0.008-5.654c0.224-0.713,0.823-1.384,1.643-1.075
+		c0.934,0.35,1.494,1.51,1.87,2.359C29.979,124.99,31.127,129.423,28.569,130.45C28.167,130.612,29.344,130.139,28.569,130.45z
+		 M30.383,129.567c-0.093,0.353-0.174,0.712-0.354,1.03c-0.081-0.414,0.231-0.778,0.379-1.15L30.383,129.567
+		C30.29,129.92,30.383,129.567,30.383,129.567z"/>
+	<path d="M34.843,129.121c-0.039-0.119-0.069-0.234-0.117-0.35C34.772,128.885,34.804,129.005,34.843,129.121z"/>
+	<path d="M34.725,128.771c-0.124-0.299-0.271-0.584-0.463-0.837C34.455,128.191,34.603,128.478,34.725,128.771z"/>
+	<path d="M35.036,129.875C35.128,130.347,35.016,129.721,35.036,129.875L35.036,129.875z"/>
+	<path d="M35.16,131.297c0.003-0.25-0.007-0.502-0.031-0.753C35.15,130.798,35.162,131.054,35.16,131.297z"/>
+	<path d="M35.029,129.846C35.08,130.13,35.039,129.926,35.029,129.846C35.038,129.892,35.03,129.856,35.029,129.846z"/>
+	<path d="M35.129,130.544c-0.015-0.188-0.046-0.375-0.077-0.562C35.084,130.169,35.112,130.356,35.129,130.544z"/>
+	<path d="M35.029,129.846c-0.045-0.247-0.11-0.486-0.187-0.722C34.918,129.361,34.994,129.599,35.029,129.846z"/>
+	<path d="M33.203,128.372c0.509-0.156,1.07,0.808,1.192,1.554C34.347,129.366,34.031,128.093,33.203,128.372
+		C33.712,128.216,33.65,128.223,33.203,128.372z"/>
+	<path d="M34.412,130.018c-0.004-0.029-0.011-0.063-0.015-0.094c0.029,0.349,0.038,0.699,0.024,1.05
+		C34.437,130.659,34.446,130.333,34.412,130.018C34.408,129.988,34.426,130.16,34.412,130.018z"/>
+	<path d="M33.243,128.736c-0.91,0.405-0.513,3.27-0.41,3.987c0.41-0.122,0.766,0.318,1.138-0.073
+		c0.394-0.411,0.427-1.146,0.448-1.677c-0.034,0.619-0.208,2.158-1.195,1.661c0.46-0.168,0.77-0.561,0.922-1.015
+		c0.099-0.291,0.077-1.04,0.217-1.095c-0.053-0.563-0.702-3.117-1.528-1.604c-0.513,0.942-0.285,2.348-0.138,3.361l0.012-0.051
+		l0.026,0.054c-0.046-0.506-0.396-3.496,0.559-3.645c0.571-0.188,0.805,0.63,0.892,1.027
+		C34.087,129.246,33.839,128.47,33.243,128.736C32.333,129.142,33.833,128.473,33.243,128.736z"/>
+	<path d="M33.203,128.372c-0.044,0.013-0.086,0.034-0.13,0.065C33.116,128.408,33.158,128.385,33.203,128.372z"/>
+	<path d="M32.641,129.208c0.124-0.419,0.273-0.656,0.432-0.771C32.889,128.559,32.729,128.795,32.641,129.208z"/>
+	<path d="M32.785,127.219c-0.062,0.012-0.122,0.032-0.179,0.075C32.663,127.258,32.723,127.235,32.785,127.219z"/>
+	<path d="M33.957,127.616c0.021,0.019,0.04,0.036,0.058,0.056C33.996,127.652,33.976,127.632,33.957,127.616z"/>
+	<path d="M33.957,127.616c-0.326-0.278-0.78-0.509-1.172-0.397C33.198,127.152,33.65,127.356,33.957,127.616
+		C33.631,127.337,33.665,127.371,33.957,127.616z"/>
+	<path d="M34.016,127.672c0.083,0.075,0.163,0.156,0.232,0.245C34.186,127.837,34.106,127.753,34.016,127.672z"/>
+	<path d="M38.827,128.08c-0.617-0.526-1.595-1.006-2.427-0.871c-1.223,0.194-0.829,1.826-0.563,2.615
+		c-0.297-1.014-2.161-5.133-3.854-3.443c-1.605,1.607-1.055,4.937-0.648,6.9c0.421,2.031,1.015,4.979,2.78,6.325
+		c2.019,1.541,2.592-0.799,2.843-2.184c0-0.046-0.002-0.091-0.007-0.138c-0.104-0.103-0.253-1.161-0.363-1.469
+		c-0.229-0.645-0.697-1.006-0.63-1.722c0.054-0.575,0.295-1.127,0.285-1.713c-0.015-0.854-0.159-1.708-0.396-2.528
+		c0.201,0.591,0.68,1.156,0.755,1.773c0.081,0.671-0.056,1.366-0.033,2.041c0.035,0.929,0.131,1.857,0.293,2.772
+		c0.114,0.646,0.437,1.244,0.489,1.904c0.023,0.283-0.112,0.503-0.115,0.784c-0.003,0.374,0.17,0.678,0.275,1.022
+		c0.212,0.694,0.423,1.071,0.949,1.568c0.437,0.41,0.519,0.937,1.1,1.259c0.576,0.317,1.327,0.444,1.959,0.222
+		c2.4-1.22,1.543-5.281,1.141-7.372C42.124,133.03,41.055,129.986,38.827,128.08C37.876,127.269,41.696,130.534,38.827,128.08z
+		 M35.646,133.186c-0.028,0.483-0.191,1.005-0.448,1.418C35.111,134.172,35.513,133.589,35.646,133.186
+		C35.617,133.669,35.614,133.281,35.646,133.186z M35.254,139.306c-0.043-0.421,0.193-0.205,0.458-0.438
+		C35.787,139.236,35.595,139.271,35.254,139.306C35.211,138.885,35.414,139.289,35.254,139.306z M36.188,138.569
+		c-0.036,0.072-0.075,0.141-0.117,0.21c-0.046-0.208,0.023-0.304,0.113-0.478L36.188,138.569
+		C36.152,138.641,36.188,138.569,36.188,138.569z M35.985,135.517c0.41,0.667-0.018,2.217-0.713,2.574
+		c-0.964,0.492-1.941-0.693-2.367-1.396c-1.272-2.092-1.608-4.836-1.348-7.235c0.086-0.813,0.259-2.035,1.087-2.449
+		c1.158-0.578,2.125,1.182,2.395,2.03c0.418,1.319,0.499,2.89-0.078,4.175c-0.149,0.358-1.19,1.547-1.431,0.716
+		c1.293,0.153,1.608-1.691,1.63-2.636c-0.049,0.673-0.152,1.419-0.518,2.001c-0.526,0.834-1.132,0.511-1.727,0.042
+		c0.14,0.803,0.244,1.659,0.675,2.368c0.541,0.883,1.367,0.733,1.48-0.314c0.554,0.271,0.061,0.771,0.237,1.192
+		C35.392,136.451,35.841,135.283,35.985,135.517C36.295,136.021,35.841,135.283,35.985,135.517z M34.008,135.162
+		c-0.073-0.046-0.107-0.11-0.101-0.191C34.005,135.013,34.043,135.043,34.008,135.162C33.935,135.116,34.008,135.162,34.008,135.162
+		z M39.164,141.896c0.189,0.044,0.34,0.144,0.384,0.308C39.411,142.135,39.231,142.014,39.164,141.896z M40,142.378
+		c-0.106-0.04-0.15-0.054-0.107-0.205C40.017,142.175,40.035,142.259,40,142.378C39.966,142.364,40.035,142.259,40,142.378z
+		 M41.648,141.855l0.003,0.317C41.18,142.773,41.098,142.184,41.648,141.855z M42.009,141.845c-0.041-0.176-0.009-0.345,0.099-0.486
+		C42.145,141.537,42.114,141.701,42.009,141.845C41.968,141.666,42.009,141.845,42.009,141.845z M41.319,141.066
+		c-0.509,0.401-2.436,0.642-2.576-0.364c0.88,0.478,2.473,0.793,2.886-0.445c-0.438,1.122-1.746,0.875-2.63,0.506
+		c-0.207-0.086-1.446-1.189-1.156-1.435c0.347-0.057,0.669,0.076,0.995,0.245c-0.075-0.045-0.137-0.068-0.214-0.119
+		c1.019,0.126,2.34,0.55,2.402-0.944c0.04,0.032,0.078,0.064,0.119,0.097c0.072-1.502-0.041-3.034-0.385-4.5
+		c0.288,1.186,1.407,6.841-1.399,5.733c3.231,1.569,1.591-5.393,1.144-6.646c0.099,0.289,0.177,0.587,0.25,0.883
+		c-0.213-0.899-0.563-1.712-0.988-2.528c0.024,0.051,0.05,0.101,0.076,0.149c-0.343-0.6-0.758-1.124-1.282-1.502
+		c0.045,0.164,0.166,0.336,0.301,0.512c-0.107-0.109-0.202-0.231-0.318-0.33c-0.403,2.493-0.454,5.082,0.063,7.562
+		c-0.321-0.188-0.405-0.052-0.493-0.571c-0.041-0.241-0.012-0.671-0.177-0.871c0.014,0.176,0.058,2.188,0.06,2.188
+		c-0.661-0.373-0.676-1.775-0.735-2.418c-0.112-1.228-0.238-2.474-0.228-3.708c0.005-0.685,0.057-1.375,0.223-2.04
+		c-0.125-0.582-0.394-0.335-0.783-0.712c-0.74-0.716-0.359-1.897,0.692-1.872c1.935,0.045,3.175,2.677,3.793,4.198
+		c0.664,1.576,1.039,3.271,1.175,4.974C42.23,138.334,42.422,140.193,41.319,141.066C40.811,141.466,42.076,140.467,41.319,141.066z
+		 M39.329,132.687c0.778,1.096,1.169,2.472,1.257,3.803c0.049,0.745,0.147,2.8-1.158,2.344
+		C39.024,136.931,38.973,134.602,39.329,132.687C40.333,134.1,39.15,133.651,39.329,132.687z M41.044,136.805
+		c0.002,0.046,0.006,0.091,0.008,0.136C41.05,136.896,41.046,136.849,41.044,136.805z"/>
+	<path d="M43.041,139.064C43.05,139.183,43.023,138.606,43.041,139.064L43.041,139.064z"/>
+	<path d="M38.839,139.573c0.186,0.107,0.363,0.205,0.523,0.268C39.185,139.755,39.01,139.66,38.839,139.573z"/>
+	<path d="M41.959,138.91c0.001-0.013,0.002-0.023,0.002-0.023c-0.019,0.253-0.06,0.503-0.124,0.747
+		c0.509-2.224-0.042-4.643-0.76-6.756C41.725,134.684,42.198,136.984,41.959,138.91C41.96,138.897,41.959,138.9,41.959,138.91z"/>
+	<path d="M41.837,139.634C41.794,139.856,41.821,139.767,41.837,139.634L41.837,139.634z"/>
+	<path d="M46.844,137.078C46.85,137.141,46.854,137.192,46.844,137.078L46.844,137.078z"/>
+	<path d="M44.719,145.087l0.054-0.647C44.76,144.601,44.717,144.859,44.719,145.087z"/>
+	<path d="M46.84,137.021c0.001,0.021,0.003,0.04,0.004,0.057C46.844,137.057,46.841,137.038,46.84,137.021z"/>
+	<path d="M46.837,136.984c0,0,0.002,0.018,0.003,0.037C46.839,137.008,46.837,137,46.837,136.984z"/>
+	<path d="M44.881,136.473c0.17-0.289,0.182-0.669,0.152-0.997C45.035,135.806,45.023,136.166,44.881,136.473
+		C45.051,136.184,44.983,136.252,44.881,136.473z"/>
+	<path d="M45.032,135.457c0,0,0-0.022,0-0.036C45.032,135.428,45.032,135.435,45.032,135.457z"/>
+	<path d="M45.032,135.457c-0.007-0.09-0.015-0.181-0.023-0.272c0.007,0.099,0.015,0.193,0.023,0.29V135.457
+		C45.031,135.342,45.032,135.457,45.032,135.457z"/>
+	<path d="M45.032,135.421C45.032,135.405,45.032,135.406,45.032,135.421L45.032,135.421z"/>
+	<path d="M44.773,144.439c-0.004-0.412,0.043-0.826,0.103-1.232C44.771,143.608,44.77,144.027,44.773,144.439z"/>
+	<path d="M44.876,143.207C44.826,143.396,44.847,143.407,44.876,143.207L44.876,143.207z"/>
+	<path d="M48.222,142.455c0.123,0.231,0.388,0.418,0.662,0.504C48.887,142.795,48.335,142.521,48.222,142.455
+		C48.344,142.687,48.42,142.569,48.222,142.455z"/>
+	<path d="M50.967,145.606c0,0.008,0.001,0.015,0.001,0.021C51.05,146.328,50.975,145.674,50.967,145.606z"/>
+	<path d="M50.968,145.628c-0.233-2.441-0.249-4.899-0.53-7.337c-0.14-1.209-0.341-3.858-1.79-4.322
+		c-1.229-0.392-1.236,2.05-1.322,2.741c-0.301,2.419-0.921,4.832-1.386,7.224c0.213-1.17,0.06-2.599-0.346-3.71
+		c2.403-0.023,0.932-5.41,0.458-6.441c-0.273-0.593-0.683-1.312-1.303-1.598c-0.455-0.209-0.944,0.473-1.234,0.753
+		c-1.396,1.344-0.468,3.88,0.2,5.392l-0.027-0.016c-0.479,0.272-0.398,1.269-0.4,1.727c-0.006,1.144,0.06,2.288,0.025,3.432
+		c-0.157,1.222,0.43,4.235,2.159,3.976c0.634,0.01,0.387-2.023,0.363-2.401c0.038,0.574,0.593,2.64,1.436,2.336
+		c1.015,1.23,1.187-0.826,1.401-1.493c0.861,0.606,0.604,2.109,1.444,2.852C51.117,149.632,51.014,146.028,50.968,145.628
+		C50.966,145.599,51.026,146.118,50.968,145.628z M45.76,139.32c-0.026-0.103,0.013-0.165,0.115-0.18
+		C45.895,139.225,45.856,139.286,45.76,139.32C45.734,139.218,45.791,139.278,45.76,139.32z M45.756,139.071
+		c-0.01-0.087,0.032-0.149,0.115-0.189C45.894,138.984,45.842,138.993,45.756,139.071C45.746,138.984,45.794,139.036,45.756,139.071
+		z M44.904,145.532c-0.144-0.048-0.183-0.231-0.186-0.445l-0.032,0.378c-0.055-0.038-0.109-0.076-0.165-0.115
+		c-0.083,0.606-0.501-0.333-0.461-0.625c0.109-0.762,0.074-1.535,0.067-2.305c-0.064,0.876-0.026,1.769-0.205,2.631
+		c-0.205-0.39-0.069-0.808-0.075-1.23l0.106,0.061c-0.083-0.826,0.088-1.65-0.018-2.481l-0.013,0.021l-0.034-0.049
+		c0.047,0.812,0.012,1.621-0.043,2.43c0.031-0.793,0.021-1.589,0.013-2.385c-0.007-0.738,0.168-1.536,0.122-2.256
+		c0.16,0.185,0.308,0.378,0.446,0.58c0.363-0.871,0.61,1.517,0.597,1.835c-0.032,0.783-0.011,1.574-0.009,2.358
+		C45.018,144.255,45.17,145.301,44.904,145.532C44.76,145.484,45.052,145.403,44.904,145.532z M45,146.388
+		c0.087,0.035,0.129,0.034,0.092,0.159C45.012,146.522,44.98,146.47,45,146.388C45.029,146.399,44.98,146.47,45,146.388z
+		 M45.296,146.596c-0.005,0.013-0.243-0.14,0.022-0.339C45.358,146.372,45.336,146.48,45.296,146.596z M45.148,139.101
+		c0.11-0.014,0.217,0.012,0.263,0.066C45.321,139.174,45.227,139.15,45.148,139.101z M45.293,139.26
+		c0.077,0.01,0.125,0.041,0.12,0.117C45.336,139.37,45.288,139.335,45.293,139.26z M45.321,138.23
+		c-1.335,0.554-1.919-2.145-1.923-2.934c-0.002-0.588,0.015-1.31,0.531-1.699c0.649-0.487,0.704,0.513,0.284,0.473
+		c0.827,0.712,0.107,1.435,0.465,2.305c0.076,0.061-0.061-2.385-0.055-2.4c0.251,0.341,0.317,0.808,0.387,1.213
+		c-0.007-0.113-0.558-2.227-0.42-2.269c0.5-0.154,1.043,1.945,1.097,2.215c0.167,0.822,0.28,2.034-0.424,2.656
+		c1.12-0.826,0.335-3.835-0.33-4.689c0.752,0.43,0.871,1.694,0.997,2.477c-0.439,0.413,0.308,1.818-0.534,2.375
+		c-0.635,0.354-1.183-0.246-1.494-0.76c0.14,0.544,0.92,1.337,1.505,0.916c0.514-0.37,0.523-1.229,0.553-1.794
+		C45.966,136.88,45.954,137.967,45.321,138.23C44.735,138.474,45.862,138.006,45.321,138.23z M45.839,144.622
+		c-0.004,0.071-0.003,0.143-0.004,0.214C45.834,144.765,45.833,144.693,45.839,144.622z M45.894,144.19
+		c-0.008,0.046-0.014,0.093-0.021,0.139C45.88,144.283,45.885,144.236,45.894,144.19z M46.76,146.386
+		c0.126-0.005,0.129,0.103,0.095,0.226C46.795,146.576,46.76,146.5,46.76,146.386C46.76,146.386,46.76,146.5,46.76,146.386z
+		 M50.213,145.867c-0.005,0.141-0.023,0.215-0.043,0.231c-0.271-0.477-0.176-1.131-0.226-1.655c-0.078-0.807-0.159-1.613-0.241-2.42
+		c0.107,1.323,0.229,2.647,0.336,3.97l-0.145-0.054c0.009,0.096,0.111,1.266-0.078,1.153c-0.605-0.418-0.362-1.814-0.558-2.366
+		c0.016,0.393,0.049,0.786,0.065,1.179c-0.098-0.388-0.059-0.866-0.306-1.205c-0.258-0.353-0.744-0.637-1.054-0.96
+		c-0.144,0.753-0.428,1.502-0.641,2.237c-0.49-0.352,0.119-0.913-0.217-1.297c-0.312,0.894-0.85,0.93-0.676-0.113
+		c0.218-1.211,0.493-2.408,0.733-3.613c0.135-0.677,0.865-6.264,1.341-6.232c1.453,0.1,1.087,3.681,1.162,4.53
+		c0.104,1.171,0.215,2.343,0.287,3.516C50.016,143.8,50.349,144.83,50.213,145.867C50.208,146.008,50.341,144.898,50.213,145.867z"
+		/>
+	<path d="M48.187,142.71c0.104,0.137,0.267,0.264,0.435,0.336C48.512,142.933,48.322,142.814,48.187,142.71
+		C48.291,142.847,48.187,142.71,48.187,142.71z"/>
+	<path d="M49.701,142.023c-0.133-1.618-0.264-3.239-0.365-4.861C49.424,138.786,49.559,140.405,49.701,142.023z"/>
+	<path d="M49.337,137.162C49.379,137.947,49.386,137.961,49.337,137.162L49.337,137.162z"/>
+	<path d="M48.839,139.281c-0.071,0.595-0.036,1.203,0.023,1.798c-0.048-0.393-0.101-0.787-0.127-1.183
+		c-0.033,0.176-0.025,0.365-0.016,0.552c-0.008-0.094-0.014-0.187-0.026-0.28c-0.112,0.443-0.232,0.882-0.328,1.33
+		c-0.169,0.793-0.22,0.949,0.548,1.337c-0.038-0.5-0.072-1.001-0.108-1.5l0.092,0.035c-0.028-0.237-0.013-0.121,0.046,0.353
+		c0.056,0.409,0.124,0.819,0.202,1.225C49.025,141.729,48.91,140.504,48.839,139.281C48.775,139.82,48.855,139.57,48.839,139.281z
+		 M48.912,140.206C48.921,140.307,48.935,140.477,48.912,140.206L48.912,140.206z"/>
 </g>
 </svg>
