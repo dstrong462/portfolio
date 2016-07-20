@@ -172,21 +172,24 @@ body { background-color: #fafafa; }
 /*  SKILLS
 ===================================== */
 
-input {
-    margin-bottom: 15px !important;
-}
-
 .skills-left {
-    float: right;
+    float: left;
     width: 70%;
     height: 100%;
-    text-align: center;
     padding: 50px;
+    margin: 0 auto;
+}
+
+.skills-left img {
+    width: 75%;
     margin: 0 auto;
 }
 
 .skills-right {
     float: right;
+    position: absolute;
+    top: 0;
+    right: 0;
     width: 30%;
     height: 100%;
     color: #fff;
@@ -205,6 +208,7 @@ input {
 
 .skills-right ul li {
     line-height: 35px;
+    /*border-bottom: 1px solid rgba(255,255,255,.25);*/
     padding: 0;
     margin: 0;
 }
@@ -215,7 +219,7 @@ input {
     height: 35px;
     vertical-align: middle;
     padding: 0;
-    margin: 0 15px 0 0;
+    margin: 0 16px 4px 0;
 }
 
 .skills-right p:first-of-type {
