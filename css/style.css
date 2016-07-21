@@ -380,6 +380,9 @@ body { background-color: #fafafa; }
 }
 
 @media (max-width: 480px) {
+    #intro-img {
+        margin-bottom: 100px;
+    }
     .project .col img {
         max-width: 70%;
         margin-top: -55%;
