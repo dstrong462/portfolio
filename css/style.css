@@ -40,28 +40,16 @@ body { background-color: #fafafa; }
 .mobile-nav {
     visibility: hidden;
     position: fixed;
-    top: -875px;
-    left: -873px;
-    width: 1800px;
-    height: 1800px;
-    border-radius: 50%;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 1px;
     background-color: rgba(0,0,0,0);
     overflow: hidden;
     padding: 0;
     margin: 0;
-    z-index: 5;
-    transform: scale(0.01);
-    transition: .5s ease;
-}
-
-.mobile-nav-container {
-    visibility: hidden;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    z-index: 10;
+    z-index: 50;
+    transition: .35s ease;
 }
 
 .mobile-nav-list {
@@ -97,8 +85,8 @@ body { background-color: #fafafa; }
 label[for="nav-toggle"] {
     visibility: hidden;
     position: fixed;
-    top: -2px;
-    left: -2px;
+    top: 0;
+    left: 0;
     z-index: 100;
     width: 120px;
     height: 70px;
@@ -106,6 +94,8 @@ label[for="nav-toggle"] {
     background-image: url('../img/burger.svg');
     background-repeat: no-repeat;
     background-size: contain;
+    padding: 0;
+    margin: 0;
 }
 
 .nav-toggle:checked ~ label[for="nav-toggle"] {
@@ -117,11 +107,11 @@ label[for="nav-toggle"] {
 }
 
 .nav-toggle:checked ~ .mobile-nav {
-    transform: scale(1.25);
+    height: 100%;
     background-color: rgba(0,0,0,.9);
 }
 
-.nav-toggle:checked ~ .mobile-nav + .mobile-nav-container {
+.nav-toggle:checked ~ .mobile-nav {
     visibility: visible;
 }
 
