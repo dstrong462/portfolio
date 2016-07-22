@@ -97,8 +97,8 @@ body { background-color: #fafafa; }
 label[for="nav-toggle"] {
     visibility: hidden;
     position: fixed;
-    top: 0;
-    left: 0;
+    top: -1px;
+    left: -1px;
     z-index: 100;
     width: 120px;
     height: 70px;
