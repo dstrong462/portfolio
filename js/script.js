@@ -86,10 +86,12 @@ function closeMenu() {
     burger.checked = false;
 }
 
+
+
 // Disables scrolling when mobile nav overlay is open
 function disableScroll() {
     if (burger.checked) {
-        body.className = 'disable-scroll';
+        // body.className = 'disable-scroll';
     }
     else {
         body.className = '';
