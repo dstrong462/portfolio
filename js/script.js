@@ -13,15 +13,23 @@ var navLinks = document.querySelectorAll('#nav a');
 // Navigation buttons that change the time of day
 var btnSunrise = document.getElementById('btn-sunrise');
 btnSunrise.addEventListener('click', changeToSunrise);
+var btnSunriseMobile = document.getElementById('mobile-btn-sunrise');
+btnSunriseMobile.addEventListener('click', changeToSunrise);
 
 var btnDay = document.getElementById('btn-day');
 btnDay.addEventListener('click', changeToDay);
+var btnDayMobile = document.getElementById('mobile-btn-day');
+btnDayMobile.addEventListener('click', changeToDay);
 
 var btnSunset = document.getElementById('btn-sunset');
 btnSunset.addEventListener('click', changeToSunset);
+var btnSunsetMobile = document.getElementById('mobile-btn-sunset');
+btnSunsetMobile.addEventListener('click', changeToSunset);
 
 var btnNight = document.getElementById('btn-night');
 btnNight.addEventListener('click', changeToNight);
+var btnNightMobile = document.getElementById('mobile-btn-night');
+btnNightMobile.addEventListener('click', changeToNight);
 
 // Opens the appropriate navigation menu on click
 function openNavMenu() {
