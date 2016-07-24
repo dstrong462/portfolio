@@ -202,12 +202,9 @@ label[for="nav-toggle"] {
 }
 
 .nav-toggle:checked ~ .mobile-nav {
-    height: 100%;
-    background-color: rgba(0,0,0,.9);
-}
-
-.nav-toggle:checked ~ .mobile-nav {
     visibility: visible;
+    height: 100vh;
+    background-color: rgba(0,0,0,.9);
 }
 
 .disable-scroll { overflow: hidden; }
