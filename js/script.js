@@ -1,5 +1,4 @@
 // Locate nav menus and their links and apply click handlers
-var navClose = document.getElementById('nav-close');
 var navMenu = document.getElementById('nav-menu');
     navMenu.addEventListener('click', openNavMenu);
 var navExtras = document.getElementById('nav-extras');
@@ -38,12 +37,9 @@ function openNavMenu() {
         navExtras.className = "closed";
         navMenu.style.borderRadius = "0 0 0 8px";
         navExtras.style.borderRadius = "0 0 8px 0";
-        // navClose.style.display = "none";
     }
     else {
         this.className = "open";
-        // navClose.style.display = "block";
-        // navClose.addEventListener('click', openNavMenu);
     }
 }
 
