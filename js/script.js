@@ -1,103 +1,187 @@
-// Checks local time and changes the header bg gradient
-(function timeOfDay() {
-    var intro = document.getElementById('intro');
-    var h = new Date().getHours();
-    var urlClass = document.querySelectorAll('.url');
-    var tagClass = document.querySelectorAll('.tag');
-    var projectClass = document.querySelectorAll('.project');
-    var learning = document.getElementById('learning');
-    // Sets default background image to daytime version
-    document.getElementById('intro-svg').src = "img/intro.svg";
-    // Changes the sky color depending on the time of day
-    if (h >= 5 && h <= 10) {
-        intro.className = "sunrise";
-        learning.style.backgroundColor = "#6BAFD2";
-        for (i = 0; i < urlClass.length; i++) {
-            urlClass[i].style.color = "#6BAFD2";
-        }
-        for (i = 0; i < tagClass.length; i++) {
-            tagClass[i].style.backgroundColor = "#DB8876";
-        }
-        for (i = 0; i < projectClass.length; i++) {
-            projectClass[i].style.borderColor = "#9A8DAF";
-        }
+// Locate nav menus and their links and apply click handlers
+var navClose = document.getElementById('nav-close');
+var navMenu = document.getElementById('nav-menu');
+    navMenu.addEventListener('click', openNavMenu);
+var navExtras = document.getElementById('nav-extras');
+    navExtras.addEventListener('click', openNavMenu);
+var navLinks = document.querySelectorAll('#nav a');
+
+    for (i = 0; i < navLinks.length; i++) {
+        navLinks[i].addEventListener('click', closeMenu);
     }
-    else if (h > 10 && h <= 15) {
-        intro.className = "day";
-        learning.style.backgroundColor = "#ADC183";
-        for (i = 0; i < urlClass.length; i++) {
-            urlClass[i].style.color = "#90CFF2";
-        }
-        for (i = 0; i < tagClass.length; i++) {
-            tagClass[i].style.backgroundColor = "#ADC183";
-        }
-        for (i = 0; i < projectClass.length; i++) {
-            projectClass[i].style.borderColor = "#F7D47C";
-        }
-    }
-    else if (h > 15 && h <= 21) {
-        intro.className = "sunset";
-        learning.style.backgroundColor = "#6F749E";
-        for (i = 0; i < urlClass.length; i++) {
-            urlClass[i].style.color = "#6F749E";
-        }
-        for (i = 0; i < tagClass.length; i++) {
-            tagClass[i].style.backgroundColor = "#D0A8B9";
-        }
-        for (i = 0; i < projectClass.length; i++) {
-            projectClass[i].style.borderColor = "#F8BBB1";
-        }
-    }
-    else if (h > 21 || h < 5) {
-        intro.className = "night";
-        document.getElementById('intro-svg').src = "img/intro-night.svg";
-        learning.style.backgroundColor = "#463D70";
-        for (i = 0; i < urlClass.length; i++) {
-            urlClass[i].style.color = "#FDE6B1";
-        }
-        for (i = 0; i < tagClass.length; i++) {
-            tagClass[i].style.backgroundColor = "#463D70";
-        }
-        for (i = 0; i < projectClass.length; i++) {
-            projectClass[i].style.borderColor = "#666";
-            projectClass[i].style.color = "#ececee";
-            projectClass[i].style.backgroundColor = "#353535";
-        }
+
+// Navigation buttons that change the time of day
+var btnSunrise = document.getElementById('btn-sunrise');
+btnSunrise.addEventListener('click', changeToSunrise);
+
+var btnDay = document.getElementById('btn-day');
+btnDay.addEventListener('click', changeToDay);
+
+var btnSunset = document.getElementById('btn-sunset');
+btnSunset.addEventListener('click', changeToSunset);
+
+var btnNight = document.getElementById('btn-night');
+btnNight.addEventListener('click', changeToNight);
+
+// Opens the appropriate navigation menu on click
+function openNavMenu() {
+    if (this.classList.contains('open')) {
+        navMenu.className = "closed";
+        navExtras.className = "closed";
+        navMenu.style.borderRadius = "0 0 0 8px";
+        navExtras.style.borderRadius = "0 0 8px 0";
+        // navClose.style.display = "none";
     }
     else {
-        intro.className = "day";
+        this.className = "open";
+        // navClose.style.display = "block";
+        // navClose.addEventListener('click', openNavMenu);
     }
-}());
-
-
-
-var body = document.body;
-var burger = document.getElementById('nav-toggle');
-    burger.addEventListener('click', disableScroll);
-var link = document.querySelectorAll('.mobile-nav-list li a');
-
-for (i = 0; i < link.length; i++) {
-    link[i].addEventListener('click', closeMenu);
 }
 
-// Closes mobile nav overlay when a link is clicked
+
+// Closes all navigation menus when a link is clicked
 function closeMenu() {
     body.className = '';
     burger.checked = false;
 }
 
 
-
 // Disables scrolling when mobile nav overlay is open
+var body = document.body;
+var burger = document.getElementById('nav-toggle');
+    burger.addEventListener('click', disableScroll);
+var link = document.querySelectorAll('.mobile-nav-list li a');
+
+    for (i = 0; i < link.length; i++) {
+        link[i].addEventListener('click', closeMenu);
+    }
+
 function disableScroll() {
     if (burger.checked) {
-        // body.className = 'disable-scroll';
+        body.className = 'disable-scroll';
     }
     else {
         body.className = '';
     }
 }
 
+// Round up all elements that need colors changed dynamically
+var h = new Date().getHours();
+var navColor = document.querySelectorAll('#nav div');
+var intro = document.getElementById('intro');
+var urlClass = document.querySelectorAll('.url');
+var tagClass = document.querySelectorAll('.tag');
+var projectClass = document.querySelectorAll('.project');
+var learning = document.getElementById('learning');
+
+// Changes document colors to SUNRISE colors
+function changeToSunrise() {
+    intro.className = "sunrise";
+    document.getElementById('intro-svg').src = "img/intro.svg";
+    learning.style.backgroundColor = "#6BAFD2";
+    for (i = 0; i < navColor.length; i++) {
+        navColor[i].style.fill = "#db8876";
+        navColor[i].style.color = "#6BAFD2";
+    }
+    for (i = 0; i < urlClass.length; i++) {
+        urlClass[i].style.color = "#6BAFD2";
+    }
+    for (i = 0; i < tagClass.length; i++) {
+        tagClass[i].style.backgroundColor = "#DB8876";
+    }
+    for (i = 0; i < projectClass.length; i++) {
+        projectClass[i].style.borderColor = "#9A8DAF";
+        projectClass[i].style.color = "#000";
+        projectClass[i].style.backgroundColor = "#fafafa";
+    }
+}
+
+// Changes document colors to DAYTIME colors
+function changeToDay() {
+    intro.className = "day";
+    document.getElementById('intro-svg').src = "img/intro.svg";
+    learning.style.backgroundColor = "#ADC183";
+    for (i = 0; i < navColor.length; i++) {
+        navColor[i].style.fill = "#76A1B5";
+        navColor[i].style.color = "#ADC183";
+    }
+    for (i = 0; i < urlClass.length; i++) {
+        urlClass[i].style.color = "#90CFF2";
+    }
+    for (i = 0; i < tagClass.length; i++) {
+        tagClass[i].style.backgroundColor = "#ADC183";
+    }
+    for (i = 0; i < projectClass.length; i++) {
+        projectClass[i].style.borderColor = "#F7D47C";
+        projectClass[i].style.color = "#000";
+        projectClass[i].style.backgroundColor = "#fafafa";
+    }
+}
+
+// Changes document colors to SUNSET colors
+function changeToSunset() {
+    intro.className = "sunset";
+    document.getElementById('intro-svg').src = "img/intro.svg";
+    learning.style.backgroundColor = "#6F749E";
+    for (i = 0; i < navColor.length; i++) {
+        navColor[i].style.fill = "#d0a8b9";
+        navColor[i].style.color = "#6F749E";
+    }
+    for (i = 0; i < urlClass.length; i++) {
+        urlClass[i].style.color = "#6F749E";
+    }
+    for (i = 0; i < tagClass.length; i++) {
+        tagClass[i].style.backgroundColor = "#D0A8B9";
+    }
+    for (i = 0; i < projectClass.length; i++) {
+        projectClass[i].style.borderColor = "#F8BBB1";
+        projectClass[i].style.color = "#000";
+        projectClass[i].style.backgroundColor = "#fafafa";
+    }
+}
+
+// Changes document colors to NIGHTTIME colors
+function changeToNight() {
+    intro.className = "night";
+    document.getElementById('intro-svg').src = "img/intro-night.svg";
+    learning.style.backgroundColor = "#463D70";
+    for (i = 0; i < navColor.length; i++) {
+        navColor[i].style.fill = "#463D70";
+        navColor[i].style.color = "#999";
+    }
+    for (i = 0; i < urlClass.length; i++) {
+        urlClass[i].style.color = "#FDE6B1";
+    }
+    for (i = 0; i < tagClass.length; i++) {
+        tagClass[i].style.backgroundColor = "#463D70";
+    }
+    for (i = 0; i < projectClass.length; i++) {
+        projectClass[i].style.borderColor = "#666";
+        projectClass[i].style.color = "#ececee";
+        projectClass[i].style.backgroundColor = "#353535";
+    }
+}
+
+
+// Changes sky and document colors depending on the time of day
+(function timeOfDay() {
+    if (h >= 5 && h <= 10) {
+        changeToSunrise();
+    }
+    else if (h > 10 && h <= 15) {
+        changeToDay();
+    }
+    else if (h > 15 && h <= 21) {
+        changeToSunset();
+    }
+    else if (h > 21 || h < 5) {
+        changeToNight();
+    }
+    else {
+        changeToSunset();
+    }
+}());
 
 
 // Parallax clouds animation for header
@@ -113,7 +197,6 @@ function parallax(){
 window.addEventListener('scroll', function() {
     requestAnimationFrame(parallax)
 }, false);
-
 
 
 // Very convoluted method of determining difference between 2 dates
