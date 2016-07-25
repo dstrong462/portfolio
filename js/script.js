@@ -3,8 +3,8 @@ var navMenu = document.getElementById('nav-menu');
     navMenu.addEventListener('click', openNavMenu);
 var navExtras = document.getElementById('nav-extras');
     navExtras.addEventListener('click', openNavMenu);
-var navLinks = document.querySelectorAll('#nav a');
 
+var navLinks = document.querySelectorAll('#nav a');
     for (i = 0; i < navLinks.length; i++) {
         navLinks[i].addEventListener('click', closeMenu);
     }
@@ -74,7 +74,7 @@ function disableScroll() {
 var h = new Date().getHours();
 var navColor = document.querySelectorAll('#nav div');
 var intro = document.getElementById('intro');
-var urlClass = document.querySelectorAll('.url');
+var urlClass = document.querySelectorAll('.project a');
 var tagClass = document.querySelectorAll('.tag');
 var projectClass = document.querySelectorAll('.project');
 var learning = document.getElementById('learning');
