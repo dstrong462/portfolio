@@ -271,7 +271,7 @@ label[for="nav-toggle"] {
 ===================================== */
 
 .spacer {
-    padding: 50px;
+    padding: 10px;
 }
 
 .title {
@@ -609,7 +609,7 @@ footer a:hover {
         visibility: visible;
     }
     #intro-img {
-        margin-bottom: 100px;
+        margin-bottom: 40px;
     }
     .project .col img {
         max-width: 70%;
