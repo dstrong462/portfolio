@@ -78,31 +78,32 @@ body { background-color: #fafafa; }
 #nav div {
     display: inline-block;
     vertical-align: top;
-    width: 33.333%;
     text-align: center;
     text-transform: uppercase;
     font-size: .9em;
     font-weight: bold;
     letter-spacing: 1px;
     background-color: #ececee;
+    box-shadow: 0px 3px 3px rgba(0,0,0,.2);
     padding: 0;
     margin: 0;
 }
 
 #nav-menu {
     cursor: pointer;
+    width: 30%;
     border-bottom-left-radius: 8px;
 }
 
 #nav-name {
     cursor: default;
-    font-size: 1em;
-    letter-spacing: 3px;
+    width: 40%;
     line-height: 40px;
 }
 
 #nav-extras {
     cursor: pointer;
+    width: 30%;
     border-bottom-right-radius: 8px;
 }
 
@@ -269,6 +270,10 @@ label[for="nav-toggle"] {
 /*  PROJECTS
 ===================================== */
 
+.spacer {
+    padding: 50px;
+}
+
 .title {
     width: 50%;
     color: #fafafa;
@@ -278,6 +283,10 @@ label[for="nav-toggle"] {
 
 .title-hr {
     margin-bottom: 150px !important;
+}
+
+.title-hr-top {
+    margin-bottom: 225px !important;
 }
 
 .large-container {
@@ -483,6 +492,50 @@ label[for="nav-toggle"] {
 
 .dotted-middle {
     display: none;
+}
+
+/*  FOOTER
+===================================== */
+
+footer {
+    width: 95%;
+    max-width: 900px;
+    font-size: .9em;
+    background-color: #ececee;
+    border-radius: 8px 8px 0 0;
+    padding: 0;
+    margin: 75px auto 0 auto;
+}
+
+footer div.row {
+    padding: 10px 0 25px 0;
+    margin: 0;
+}
+
+footer .row .col {
+    vertical-align: bottom;
+}
+
+footer img {
+    width: 75%;
+    margin: 0 auto;
+}
+
+footer h6 {
+    color: #6F749E;
+}
+
+footer p {
+    margin-bottom: 0;
+}
+
+footer a {
+    text-decoration: none;
+    color: #262626;
+}
+
+footer a:hover {
+    color: #6F749E;
 }
 
 /*  MEDIA QUERIES
