@@ -325,7 +325,6 @@ label[for="nav-toggle"] {
     text-decoration: none;
     color: #90CFF2;
     padding: 3px 6px;
-    /*transition: .25s;*/
 }
 
 .project a:hover {
@@ -349,6 +348,20 @@ label[for="nav-toggle"] {
 
 /*  SKILLS
 ===================================== */
+
+#about-me p {
+    margin-top: 0;
+}
+
+#about-me img {
+    min-width: 200px;
+    max-width: 250px;
+}
+
+.hi {
+    font-family: 'Lora', serif;
+    font-size: 2.25em;
+}
 
 .skills-left {
     float: left;
@@ -577,6 +590,12 @@ footer a:hover {
         width: 90%;
         font-size: 2em;
     }
+    #about-me img {
+        margin: 0 auto;
+    }
+    #about-me .four {
+        width: 60%;
+    }
     .skills-right,
     .skills-left {
         float: none;
@@ -614,5 +633,8 @@ footer a:hover {
     .project .col img {
         max-width: 70%;
         margin-top: -55%;
+    }
+    #about-me .four {
+        width: 100%;
     }
 }

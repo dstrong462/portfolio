@@ -5,6 +5,7 @@ var intro = document.getElementById('intro');
 var urlClass = document.querySelectorAll('.project a');
 var tagClass = document.querySelectorAll('.tag');
 var projectClass = document.querySelectorAll('.project');
+var aboutMe = document.getElementById('about-me');
 var learning = document.getElementById('learning');
 
 // Locate nav menus and their links and apply click handlers
@@ -64,6 +65,7 @@ btnNightMobile.addEventListener('click', changeToNight);
 function changeToSunrise() {
     intro.className = "sunrise";
     document.getElementById('intro-svg').src = "img/intro.svg";
+    aboutMe.style.color = "#000";
     learning.style.backgroundColor = "#6BAFD2";
     for (i = 0; i < navColor.length; i++) {
         navColor[i].style.fill = "#db8876";
@@ -83,6 +85,7 @@ function changeToSunrise() {
 function changeToDay() {
     intro.className = "day";
     document.getElementById('intro-svg').src = "img/intro.svg";
+    aboutMe.style.color = "#000";
     learning.style.backgroundColor = "#ADC183";
     for (i = 0; i < navColor.length; i++) {
         navColor[i].style.fill = "#76A1B5";
@@ -102,6 +105,7 @@ function changeToDay() {
 function changeToSunset() {
     intro.className = "sunset";
     document.getElementById('intro-svg').src = "img/intro.svg";
+    aboutMe.style.color = "#000";
     learning.style.backgroundColor = "#6F749E";
     for (i = 0; i < navColor.length; i++) {
         navColor[i].style.fill = "#d0a8b9";
@@ -121,6 +125,7 @@ function changeToSunset() {
 function changeToNight() {
     intro.className = "night";
     document.getElementById('intro-svg').src = "img/intro-night.svg";
+    aboutMe.style.color = "#FDE6B1";
     learning.style.backgroundColor = "#463D70";
     for (i = 0; i < navColor.length; i++) {
         navColor[i].style.fill = "#463D70";
