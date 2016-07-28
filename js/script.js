@@ -151,10 +151,10 @@ var clouds2 = document.getElementById('intro-clouds2');
 
 function parallax(){
     var scroll = window.pageYOffset;
-    clouds.style.top = -scroll * .4 + 'px';
-    clouds2.style.top = -scroll * .1 + 'px';
+    clouds.style.top = -scroll * 0.4 + 'px';
+    clouds2.style.top = -scroll * 0.1 + 'px';
 }
- 
+
 window.addEventListener('scroll', function() {
     requestAnimationFrame(parallax)
 }, false);
