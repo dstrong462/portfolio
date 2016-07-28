@@ -19,20 +19,22 @@ h1, h2, h3, h4, h5, h6, button {
 
 /* These control your TEXT colors */
 body { color: #000; }
-.dark { color: #262626; }
-.light { color: #EBEDDD; }
+.dark { color: #353535; }
+.light { color: #ececee; }
 .white { color: #fff; }
-.primary { color: #CFD78A; }
-.secondary { color: #A1CEE4; }
-.accent { color: #6f749e; }
+.primary { color: #6F749E; }
+.secondary { color: #90CFF2; }
+.accent { color: #CFD78A; }
 
 /* These control your BACKGROUND colors */
-body { background-color: #fafafa; }
-.bg-dark { background-color: #262626; }
-.bg-light { background-color: #EBEDDD; }
-.bg-primary { background-color: #90CFF2; }
-.bg-secondary { background-color: #CAEAE6; }
-.bg-accent { background-color: #6F749E; }
+body { background-color: #ececee; }
+.bg-dark { background-color: #353535; }
+.bg-light { background-color: #ececee; }
+.bg-desk { background-color: #EBEDDD; }
+.bg-primary { background-color: #6F749E; }
+.bg-secondary { background-color: #90CFF2; }
+.bg-accent { background-color: #CFD78A; }
+
 
 /*  DESKTOP AND TABLET NAV
 ===================================== */
@@ -361,6 +363,34 @@ label[for="nav-toggle"] {
 .hi {
     font-family: 'Lora', serif;
     font-size: 2.25em;
+}
+
+form {
+    margin-bottom: 50px;
+}
+
+input,
+textarea {
+    width: 100%;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+.btn {
+    font-size: .95em;
+    text-transform: none;
+    border: 1px solid white;
+    border-radius: 8px;
+    margin-top: 10px;
+    transition: .45s;
+}
+
+.btn:hover {
+    background-color: #97cd76;
 }
 
 .skills-left {
