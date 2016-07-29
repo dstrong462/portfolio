@@ -223,7 +223,7 @@ function disableScroll() {
     var pastDay = past.getDate();
 
     var today = new Date();
-    var thisYear = today.getFullYear();
+        thisYear = today.getFullYear();
     var thisMonth = today.getMonth();
     var thisDay = today.getDate();
 
@@ -280,4 +280,9 @@ function disableScroll() {
         html += diffDays + ' days';
     }
         total.innerHTML = html;
+}());
+
+// Inserts current year for the footer copyright
+(function copyright() {
+    document.getElementById('year').innerHTML = thisYear;
 }());
