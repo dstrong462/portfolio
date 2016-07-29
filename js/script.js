@@ -9,6 +9,8 @@ var aboutMe = document.getElementById('about-me');
 var learning = document.getElementById('learning');
 
 // Locate nav menus and their links and apply click handlers
+var overlay = document.getElementById('overlay');
+    overlay.addEventListener('click', closeAllMenus);
 var navMenu = document.getElementById('nav-menu');
     navMenu.addEventListener('click', openNavMenu);
 var navExtras = document.getElementById('nav-extras');
@@ -167,9 +169,11 @@ function openNavMenu() {
         navExtras.className = "closed";
         navMenu.style.borderRadius = "0 0 0 8px";
         navExtras.style.borderRadius = "0 0 8px 0";
+        overlay.style.height = "0";
     }
     else {
         this.className = "open";
+        overlay.style.height = "100%";
     }
 }
 
@@ -178,6 +182,15 @@ function openNavMenu() {
 function closeMenu() {
     body.className = '';
     burger.checked = false;
+}
+
+// Used for the overlay that closes all menus when clicked
+function closeAllMenus() {
+    navMenu.className = "closed";
+    navExtras.className = "closed";
+    navMenu.style.borderRadius = "0 0 0 8px";
+    navExtras.style.borderRadius = "0 0 8px 0";
+    overlay.style.height = "0";
 }
 
 
