@@ -42,6 +42,7 @@ btnNight.addEventListener('click', changeToNight);
 var btnNightMobile = document.getElementById('mobile-btn-night');
 btnNightMobile.addEventListener('click', changeToNight);
 
+var currentTimeOfDay = "sunset";
 
 // Changes sky and document colors depending on the time of day
 (function timeOfDay() {
@@ -65,7 +66,9 @@ btnNightMobile.addEventListener('click', changeToNight);
 
 // Changes document colors to SUNRISE colors
 function changeToSunrise() {
-    intro.className = "sunrise";
+    intro.classList.remove(currentTimeOfDay);
+    intro.classList.add("sunrise");
+    currentTimeOfDay = "sunrise";
     document.getElementById('intro-svg').src = "img/intro.svg";
     aboutMe.style.color = "#000";
     learning.style.backgroundColor = "#6BAFD2";
@@ -85,7 +88,9 @@ function changeToSunrise() {
 
 // Changes document colors to DAYTIME colors
 function changeToDay() {
-    intro.className = "day";
+    intro.classList.remove(currentTimeOfDay);
+    intro.classList.add("day");
+    currentTimeOfDay = "day";
     document.getElementById('intro-svg').src = "img/intro.svg";
     aboutMe.style.color = "#000";
     learning.style.backgroundColor = "#ADC183";
@@ -105,7 +110,9 @@ function changeToDay() {
 
 // Changes document colors to SUNSET colors
 function changeToSunset() {
-    intro.className = "sunset";
+    intro.classList.remove(currentTimeOfDay);
+    intro.classList.add("sunset");
+    currentTimeOfDay = "sunset";
     document.getElementById('intro-svg').src = "img/intro.svg";
     aboutMe.style.color = "#000";
     learning.style.backgroundColor = "#6F749E";
@@ -125,7 +132,9 @@ function changeToSunset() {
 
 // Changes document colors to NIGHTTIME colors
 function changeToNight() {
-    intro.className = "night";
+    intro.classList.remove(currentTimeOfDay);
+    intro.classList.add("night");
+    currentTimeOfDay = "night";
     document.getElementById('intro-svg').src = "img/intro-night.svg";
     aboutMe.style.color = "#FDE6B1";
     learning.style.backgroundColor = "#463D70";

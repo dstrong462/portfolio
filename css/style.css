@@ -8,7 +8,7 @@
 /*  FONT DECLARATIONS (Customize Me!)
 ===================================== */
 
-* { font-family: 'Open Sans', sans-serif; }
+body { font-family: 'Open Sans', sans-serif; }
 
 h1, h2, h3, h4, h5, h6, button {
     font-family: 'Lora', serif;
@@ -103,18 +103,29 @@ body { background-color: #ececee; }
 }
 
 #nav-menu {
+    float: left;
     cursor: pointer;
     width: 30%;
     border-bottom-left-radius: 8px;
 }
 
 #nav-name {
+    float: left;
     cursor: default;
     width: 40%;
     line-height: 40px;
 }
 
+#nav-name a {
+    padding: 0;
+}
+
+#nav-name a:hover {
+    background-color: initial;
+}
+
 #nav-extras {
+    float: right;
     cursor: pointer;
     width: 30%;
     border-bottom-right-radius: 8px;
@@ -399,6 +410,7 @@ label {
 }
 
 .btn {
+    cursor: pointer;
     font-size: .95em;
     text-transform: none;
     border: 1px solid white;
@@ -564,13 +576,8 @@ footer {
     font-size: .9em;
     background-color: #ececee;
     border-radius: 8px 8px 0 0;
-    padding: 0;
+    padding: 10px 0 75px 0;
     margin: 75px auto 0 auto;
-}
-
-footer div.row {
-    padding: 10px 0 25px 0;
-    margin: 0;
 }
 
 footer .row .col {
