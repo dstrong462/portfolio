@@ -74,7 +74,7 @@ function changeToSunrise() {
     intro.classList.add("sunrise");
     currentTimeOfDay = "sunrise";
     document.getElementById('intro-svg').src = "img/intro.svg";
-    aboutMe.style.color = "#000";
+    aboutMe.style.color = "#262626";
     learning.style.backgroundColor = "#6BAFD2";
     for (i = 0; i < navColor.length; i++) {
         navColor[i].style.fill = "#db8876";
@@ -85,7 +85,7 @@ function changeToSunrise() {
     }
     for (i = 0; i < projectClass.length; i++) {
         projectClass[i].style.borderColor = "#9A8DAF";
-        projectClass[i].style.color = "#000";
+        projectClass[i].style.color = "#262626";
         projectClass[i].style.backgroundColor = "#fafafa";
     }
 }
@@ -100,7 +100,7 @@ function changeToDay() {
     intro.classList.add("day");
     currentTimeOfDay = "day";
     document.getElementById('intro-svg').src = "img/intro.svg";
-    aboutMe.style.color = "#000";
+    aboutMe.style.color = "#262626";
     learning.style.backgroundColor = "#ADC183";
     for (i = 0; i < navColor.length; i++) {
         navColor[i].style.fill = "#76A1B5";
@@ -111,7 +111,7 @@ function changeToDay() {
     }
     for (i = 0; i < projectClass.length; i++) {
         projectClass[i].style.borderColor = "#F7D47C";
-        projectClass[i].style.color = "#000";
+        projectClass[i].style.color = "#262626";
         projectClass[i].style.backgroundColor = "#fafafa";
     }
 }
@@ -126,7 +126,7 @@ function changeToSunset() {
     intro.classList.add("sunset");
     currentTimeOfDay = "sunset";
     document.getElementById('intro-svg').src = "img/intro.svg";
-    aboutMe.style.color = "#000";
+    aboutMe.style.color = "#262626";
     learning.style.backgroundColor = "#6F749E";
     for (i = 0; i < navColor.length; i++) {
         navColor[i].style.fill = "#d0a8b9";
@@ -137,7 +137,7 @@ function changeToSunset() {
     }
     for (i = 0; i < projectClass.length; i++) {
         projectClass[i].style.borderColor = "#F8BBB1";
-        projectClass[i].style.color = "#000";
+        projectClass[i].style.color = "#262626";
         projectClass[i].style.backgroundColor = "#fafafa";
     }
 }

@@ -18,7 +18,7 @@ h1, h2, h3, h4, h5, h6, button {
 ===================================== */
 
 /* These control your TEXT colors */
-body { color: #000; }
+body { color: #262626; }
 .dark { color: #353535; }
 .light { color: #ececee; }
 .white { color: #fff; }
@@ -79,7 +79,7 @@ body { background-color: #ececee; }
 }
 
 .nav-active {
-    background-color: #f7f7f7 !important;
+    background-color: #f7f7f7;
 }
 
 #nav svg {
@@ -377,6 +377,10 @@ label[for="nav-toggle"] {
 /*  SKILLS
 ===================================== */
 
+#about {
+    padding-top: 50px;
+}
+
 #about-me p {
     font-size: 1.1em;
     margin-top: 0;
@@ -522,7 +526,7 @@ label {
 
 .timeline a {
     text-decoration: none;
-    color: #000;
+    color: #262626;
 }
 
 .timeline a:hover {
