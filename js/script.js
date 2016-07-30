@@ -66,6 +66,10 @@ var currentTimeOfDay = "sunset";
 
 // Changes document colors to SUNRISE colors
 function changeToSunrise() {
+    btnSunrise.classList.add("nav-active");
+    btnDay.classList.remove("nav-active");
+    btnSunset.classList.remove("nav-active");
+    btnNight.classList.remove("nav-active");
     intro.classList.remove(currentTimeOfDay);
     intro.classList.add("sunrise");
     currentTimeOfDay = "sunrise";
@@ -88,6 +92,10 @@ function changeToSunrise() {
 
 // Changes document colors to DAYTIME colors
 function changeToDay() {
+    btnSunrise.classList.remove("nav-active");
+    btnDay.classList.add("nav-active");
+    btnSunset.classList.remove("nav-active");
+    btnNight.classList.remove("nav-active");
     intro.classList.remove(currentTimeOfDay);
     intro.classList.add("day");
     currentTimeOfDay = "day";
@@ -110,6 +118,10 @@ function changeToDay() {
 
 // Changes document colors to SUNSET colors
 function changeToSunset() {
+    btnSunrise.classList.remove("nav-active");
+    btnDay.classList.remove("nav-active");
+    btnSunset.classList.add("nav-active");
+    btnNight.classList.remove("nav-active");
     intro.classList.remove(currentTimeOfDay);
     intro.classList.add("sunset");
     currentTimeOfDay = "sunset";
@@ -132,6 +144,10 @@ function changeToSunset() {
 
 // Changes document colors to NIGHTTIME colors
 function changeToNight() {
+    btnSunrise.classList.remove("nav-active");
+    btnDay.classList.remove("nav-active");
+    btnSunset.classList.remove("nav-active");
+    btnNight.classList.add("nav-active");
     intro.classList.remove(currentTimeOfDay);
     intro.classList.add("night");
     currentTimeOfDay = "night";

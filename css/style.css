@@ -78,6 +78,10 @@ body { background-color: #ececee; }
     color: inherit;
 }
 
+.nav-active {
+    background-color: #f7f7f7 !important;
+}
+
 #nav svg {
     max-height: 24px;
     margin: 8px auto;
