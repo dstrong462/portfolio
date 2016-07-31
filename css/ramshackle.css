@@ -243,8 +243,13 @@ h6 { font-size: 1.3em; }
 }
 
 .btn-fancy:hover {
-    animation: pulse 1s ease-out infinite;
+    -webkit-animation: pulse 1s ease-out infinite;
+            animation: pulse 1s ease-out infinite;
     box-shadow: 0 0 10px rgba(255,255,255, .5) inset;
+}
+
+@-webkit-keyframes pulse {
+    40% { color: rgba(255,255,255,.2); }
 }
 
 @keyframes pulse {

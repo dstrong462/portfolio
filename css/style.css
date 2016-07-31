@@ -52,7 +52,8 @@ body { background-color: #ececee; }
     position: fixed;
     top: 0;
     left: 50%;
-    transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+            transform: translateX(-50%);
     width: 95%;
     max-width: 900px;
     height: 40px;
@@ -161,6 +162,7 @@ body { background-color: #ececee; }
     padding: 0;
     margin: 0;
     z-index: 50;
+    -webkit-transition: .35s ease;
     transition: .35s ease;
 }
 
@@ -255,7 +257,8 @@ label[for="nav-toggle"] {
     display: inline-block;
     top: inherit;
     left: 50%;
-    transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+            transform: translateX(-50%);
     width: 100%;
     padding: 0;
     margin: 0 auto 25px auto;
@@ -280,18 +283,22 @@ label[for="nav-toggle"] {
 }
 
 .sunrise {
+    background: -webkit-linear-gradient(top, #6bafd2 0%, #a4c8dc 38%, #d6cbca 58%, #eabc96 79%, #db8876 100%);
     background: linear-gradient(to bottom, #6bafd2 0%, #a4c8dc 38%, #d6cbca 58%, #eabc96 79%, #db8876 100%);
 }
 
 .day {
+    background: -webkit-linear-gradient(top, #76A1B5, #C4E6F9);
     background: linear-gradient(to bottom, #76A1B5, #C4E6F9);
 }
 
 .sunset {
+    background: -webkit-linear-gradient(top, #6f749e 0%, #9a8daf 31%, #d0a8b9 58%, #f8bbb1 80%, #fde6b1 100%);
     background: linear-gradient(to bottom, #6f749e 0%, #9a8daf 31%, #d0a8b9 58%, #f8bbb1 80%, #fde6b1 100%);
 }
 
 .night {
+    background: -webkit-linear-gradient(top, #102034, #463d70);
     background: linear-gradient(to bottom, #102034, #463d70);
 }
 
@@ -335,6 +342,7 @@ label[for="nav-toggle"] {
     padding: 10px 0 0 0;
     margin-bottom: 60px;
     cursor: default;
+    -webkit-transition: 1s;
     transition: 1s;
 }
 
@@ -424,6 +432,7 @@ label {
     border: 1px solid white;
     border-radius: 8px;
     margin-top: 10px;
+    -webkit-transition: .45s;
     transition: .45s;
 }
 
