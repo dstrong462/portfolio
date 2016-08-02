@@ -246,9 +246,11 @@ label[for="nav-toggle"] {
     position: fixed;
     top: 0;
     left: 0;
+    right: 0;
+    bottom: 0;
     width: 100vw;
     max-width: 100%;
-    height: 100vh;
+    height: 100%;
     z-index: -3;
 }
 
@@ -259,10 +261,9 @@ label[for="nav-toggle"] {
     left: 50%;
     -webkit-transform: translateX(-50%);
             transform: translateX(-50%);
-    width: 100%;
     padding: 0;
     margin: 0 auto 25px auto;
-    z-index: -2;
+    z-index: 1;
 }
 
 #intro-img img {
@@ -273,13 +274,14 @@ label[for="nav-toggle"] {
     position: absolute;
     top: 0;
     left: 0;
+    z-index: 2;
 }
 
 #intro-clouds2 {
     position: absolute;
     top: 0;
     left: 0;
-    z-index: 1;
+    z-index: 3;
 }
 
 .sunrise {
@@ -326,7 +328,7 @@ label[for="nav-toggle"] {
 
 .large-container {
     position: relative;
-    width: 100%;
+    width: 90%;
     max-width: 1400px;
     text-align: left;
     padding: 0;
@@ -528,22 +530,28 @@ label {
 }
 
 .timeline h5 {
-    display: inline-block;
     font-family: 'Open Sans', sans-serif;
     margin-top: 25px;
 }
 
-.timeline a {
-    text-decoration: none;
-    color: #262626;
-}
-
-.timeline a:hover {
-    color: #999;
-}
-
 .timeline p {
     font-size: 1.33em;
+}
+
+.course-list {
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    font-size: .85em;
+    background-color: #bbb;
+    border-radius: 8px;
+    padding: 1px 15px;
+    margin-bottom: 20px;
+    transition: .25s;
+}
+
+.course-list:hover {
+    background-color: #6F749E;
 }
 
 .hr {
