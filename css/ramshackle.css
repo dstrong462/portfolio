@@ -1,10 +1,10 @@
 
 /*
-Ramshackle v0.9.3
+Ramshackle v0.9.4
 Copyright 2016, Daniel Strong
 www.getramshackle.com
 Free to use under the MIT license.
-7/8/2016
+8/2/2016
 */
 
 /*  TABLE OF CONTENTS
@@ -270,6 +270,7 @@ textarea,
 select,
 option {
     box-sizing: border-box;
+    width: 100%;
     height: 40px;
     box-shadow: none;
     font-size: 1em;

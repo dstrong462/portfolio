@@ -213,18 +213,23 @@
         <div class="col third">
             <p><span class="hi">Hi</span> , I'm Daniel, a front-end developer currently living in Raleigh, North Carolina. I have a passion for learning new technologies, and that has been reignited with a vengeance since I started learning web development earlier this year. I’m currently working in the printing industry as a lead digital printer, and my job relies very heavily on multitasking, troubleshooting, and problem solving in a logical and precise manner. I think those skills, along with my 10+ years of experience with Adobe CS products will make me an invaluable addition to any company willing to help me break into a career as a front-end developer!</p>
         </div>
-        <div class="col three">
+        <div id="form-container" class="col three">
             <h5 class="contact">Contact Me</h5>
             <hr class="hr">
-            <form action="https://getsimpleform.com/messages?form_api_token=99638a98e94e50fa48ba0a77b03a004a" method="post">
-                <input type='hidden' name='redirect_to' value='https://beeramir.github.io/portfolio/#about' />
+            <form id="form" action="/php/contact.php" method="post">
                 <label for="name">Name</label>
-                <input type="text" id="name" name="c_name" /><br />
+                <input type="text" id="name" name="name" />
+                <span class="required"></span>
+                <br />
                 <label for="mail">Email</label>
-                <input type="email" id="mail" name="c_email" /><br />
-                <label for="msg">Message</label>
-                <textarea id="msg" name="c_message"></textarea><br />
-                <input class="btn" type="submit" value="Send Message" />
+                <input type="email" id="email" name="email" />
+                <span class="required"></span>
+                <br />
+                <label for="message">Message</label>
+                <textarea id="message" name="message"></textarea>
+                <span class="required"></span>
+                <br />
+                <input id="form-submit" class="btn" type="submit" name="submit" value="Send Message" />
             </form>
         </div>
     </div>
@@ -410,6 +415,7 @@
     </div>
 </footer>
 
+<script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>
 <script src="js/script.js"></script>
 </body>
 </html>

@@ -412,6 +412,25 @@ label[for="nav-toggle"] {
     text-align: center;
 }
 
+.required {
+    opacity: 0;
+    display: inline-block;
+    background-color: #c9302c;
+    color: #fff;
+    font-size: .85em !important;
+    border-radius: 8px;
+    padding: 0 10px;
+    margin: 0;
+    margin-top: 3px;
+    transition: .5s;
+}
+
+.form-success {
+    transition: 1s;
+    background-color: #777;
+    pointer-events: none;
+}
+
 form {
     margin-bottom: 50px;
 }
