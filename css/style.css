@@ -262,7 +262,7 @@ label[for="nav-toggle"] {
     -webkit-transform: translateX(-50%);
             transform: translateX(-50%);
     padding: 0;
-    margin: 0 auto 25px auto;
+    margin: 0 auto;
     z-index: 1;
 }
 
@@ -304,91 +304,11 @@ label[for="nav-toggle"] {
     background: linear-gradient(to bottom, #102034, #463d70);
 }
 
-/*  PROJECTS
-===================================== */
-
-.spacer {
-    padding: 10px;
-}
-
-.title {
-    width: 50%;
-    color: #fafafa;
-    text-align: center;
-    margin: 150px auto 0 auto;
-}
-
-.title-hr {
-    margin-bottom: 150px !important;
-}
-
-.title-hr-top {
-    margin-bottom: 225px !important;
-}
-
-.large-container {
-    position: relative;
-    width: 90%;
-    max-width: 1400px;
-    text-align: left;
-    padding: 0;
-    margin: 0 auto;
-}
-
-.project {
-    background-color: #fafafa;
-    line-height: 1.5em;
-    border-radius: 8px;
-    border: 3px solid #F7D47C;
-    border-top: 20px solid #F7D47C;
-    padding: 10px 0 0 0;
-    margin-bottom: 60px;
-    cursor: default;
-    -webkit-transition: 1s;
-    transition: 1s;
-}
-
-.project .col {
-    margin-left: 0;
-    margin-right: 0;
-}
-
-.project .col img {
-    min-width: 125px;
-    margin: -75% auto 0 auto;
-}
-
-.project a {
-    display: inline-block;
-    text-decoration: none;
-    color: #90CFF2;
-    padding: 3px 6px;
-}
-
-.project a:hover {
-    opacity: .75;
-}
-
-.project .col:nth-child(n+3) a:hover {
-    text-decoration: underline;
-}
-
-.tag {
-    display: inline-block;
-    cursor: default;
-    color: #fff;
-    font-size: .85em;
-    border-radius: 4px;
-    background-color: #ADC183;
-    padding: 1px 6px;
-    margin: 2px 1px;
-}
-
 /*  SKILLS
 ===================================== */
 
 #about {
-    padding-top: 50px;
+    padding-top: 85px;
 }
 
 #about-me p {
@@ -523,17 +443,98 @@ label {
     margin: 0 10px;
 }
 
-#total {
-    color: #fff;
-    margin-top: -125px;
+/*  PROJECTS
+===================================== */
+
+#projects {
+    padding-top: 85px;
+}
+
+.title {
+    width: 50%;
+    color: #fafafa;
+    text-align: center;
+    margin: 150px auto 0 auto;
+}
+
+hr.title-hr {
     margin-bottom: 150px;
+}
+
+hr.project-hr {
+    margin-bottom: 225px;
+}
+
+.large-container {
+    position: relative;
+    width: 90%;
+    max-width: 1400px;
+    text-align: left;
+    padding: 0;
+    margin: 0 auto;
+}
+
+.project {
+    background-color: #fafafa;
+    line-height: 1.5em;
+    border-radius: 8px;
+    border: 3px solid #F7D47C;
+    border-top: 20px solid #F7D47C;
+    padding: 10px 0 0 0;
+    margin-bottom: 60px;
+    cursor: default;
+    -webkit-transition: 1s;
+    transition: 1s;
+}
+
+.project .col {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.project .col img {
+    min-width: 125px;
+    margin: -75% auto 0 auto;
+}
+
+.project a {
+    display: inline-block;
+    text-decoration: none;
+    color: #90CFF2;
+    padding: 3px 6px;
+}
+
+.project a:hover {
+    opacity: .75;
+}
+
+.project .col:nth-child(n+3) a:hover {
+    text-decoration: underline;
+}
+
+.tag {
+    display: inline-block;
+    cursor: default;
+    color: #fff;
+    font-size: .85em;
+    border-radius: 4px;
+    background-color: #ADC183;
+    padding: 1px 6px;
+    margin: 2px 1px;
 }
 
 /*  LEARNING TIMELINE
 ===================================== */
 
-#learning {
-    background-color: #353535;
+#mytimeline {
+    padding-top: 125px;
+    margin-top: 0;
+}
+
+#total {
+    color: #fff;
+    margin-top: -125px;
+    margin-bottom: 150px;
 }
 
 .timeline {
@@ -747,14 +748,24 @@ footer a:hover {
     label[for="nav-toggle"] {
         visibility: visible;
     }
-    #intro-img {
-        margin-bottom: 40px;
-    }
     .project .col img {
         max-width: 70%;
         margin-top: -55%;
     }
     #about-me .four {
         width: 100%;
+    }
+    #about,
+    #mytimeline {
+        padding-top: 50px;
+    }
+    #projects {
+        margin-top: 40px;
+    }
+    hr.title-hr {
+        margin-bottom: 40px;
+    }
+    #total {
+        margin-top: 0;
     }
 }

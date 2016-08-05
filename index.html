@@ -33,8 +33,8 @@
 <div class="mobile-nav">
     <ul class="mobile-nav-list">
         <li><a href="#top">top</a></li>
-        <li><a href="#projects">projects</a></li>
         <li><a href="#about">about me</a></li>
+        <li><a href="#projects">projects</a></li>
         <li><a href="#mytimeline">learning timeline</a></li>
         <img src="img/nav-gear.svg" alt="Options">
         <li><a id="mobile-btn-sunrise">Sunrise</a></li>
@@ -53,8 +53,8 @@
         <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25"><rect y="1" width="25" height="4" class="a"/><rect y="20" width="25" height="4" class="a"/><rect y="10.5" width="25" height="4" class="a"/></svg>
         <br />
         <a href="#top">top</a>
-        <a href="#projects">projects</a>
         <a href="#about">about me</a>
+        <a href="#projects">projects</a>
         <a href="#mytimeline">learning timeline</a>
         <br />
     </div>
@@ -80,15 +80,69 @@
     <img id="intro-svg" src="img/intro.svg" alt="Isometric Landscape">
     <img id="intro-clouds" src="img/intro-clouds.svg" alt="Isometric Clouds">
     <img id="intro-clouds2" src="img/intro-clouds2.svg" alt="Isometric Clouds">
-    <br />
-    <a id="projects"></a>
-    <div class="spacer"></div>
+</div>
+
+<!-- ABOUT ME AND SKILLS SECTION -->
+
+<h3 id="about" class="title">A little bit about me.</h3>
+<hr class="hr title-hr">
+
+<div id="about-me" class="large-container">
+    <div class="row center">
+        <div class="col two h-flush">
+            <img src="img/avatar.svg" alt="An artists rendition of me with no face">
+        </div>
+        <div class="col third">
+            <p><span class="hi">Hi</span> , I'm Daniel, a front-end developer currently living in Raleigh, North Carolina. I have a passion for learning new technologies, and that has been reignited with a vengeance since I started learning web development earlier this year. I’m currently working in the printing industry as a lead digital printer, and my job relies very heavily on multitasking, troubleshooting, and problem solving in a logical and precise manner. I think those skills, along with my 10+ years of experience with Adobe CS products will make me an invaluable addition to any company willing to help me break into a career as a front-end developer!</p>
+        </div>
+        <div id="form-container" class="col three">
+            <h5 class="contact">Contact Me</h5>
+            <hr class="hr">
+            <form id="form" action="/php/contact.php" method="post">
+                <label for="name">Name</label>
+                <input type="text" id="name" name="name" />
+                <span class="required"></span>
+                <br />
+                <label for="mail">Email</label>
+                <input type="email" id="email" name="email" />
+                <span class="required"></span>
+                <br />
+                <label for="message">Message</label>
+                <textarea id="message" name="message"></textarea>
+                <span class="required"></span>
+                <br />
+                <input id="form-submit" class="btn" type="submit" name="submit" value="Send Message" />
+            </form>
+        </div>
+    </div>
+</div>
+
+<div class="large-container bg-desk">
+    <div class="skills-left">
+        <img src="img/desk.svg" alt="Me at my desk">
+    </div>
+    <div class="skills-right bg-primary">
+        <p>SKILLS &amp; TOOLS</p>
+        <hr class="hr">
+        <ul class="left">
+            <li><img src="img/skill-html.svg">HTML5</li>
+            <li><img src="img/skill-css.svg">CSS3</li>
+            <li><img src="img/skill-javascript.svg">JavaScript</li>
+            <li><img src="img/skill-jquery.svg">jQuery</li>
+            <li><img src="img/skill-responsive.svg">Responsive Design</li>
+            <li><img src="img/skill-illustrator.svg">Adobe Illustrator</li>
+            <li><img src="img/skill-photoshop.svg">Adobe Photoshop</li>
+            <li><img src="img/skill-indesign.svg">Adobe InDesign</li>
+            <li><img src="img/skill-flash.svg">Adobe Flash</li>
+            <li><img src="img/skill-git.svg">Git / Github</li>
+        </ul>
+    </div>
 </div>
 
 <!-- PROJECTS SECTION -->
 
-<h3 class="title">Here you'll find my coding projects that primarily focus on HTML, CSS, and JavaScript.</h3>
-<hr class="hr title-hr-top">
+<h3 id="projects" class="title">Here you'll find my coding projects that primarily focus on HTML, CSS, and JavaScript.</h3>
+<hr class="hr project-hr">
 
 <div class="large-container">
     <div class="row">
@@ -200,69 +254,10 @@
     </div>
 </div>
 
-<!-- ABOUT ME AND SKILLS SECTION -->
-
-<h3 id="about" class="title">A little bit about me.</h3>
-<hr class="hr title-hr">
-
-<div id="about-me" class="large-container">
-    <div class="row center">
-        <div class="col two h-flush">
-            <img src="img/avatar.svg" alt="An artists rendition of me with no face">
-        </div>
-        <div class="col third">
-            <p><span class="hi">Hi</span> , I'm Daniel, a front-end developer currently living in Raleigh, North Carolina. I have a passion for learning new technologies, and that has been reignited with a vengeance since I started learning web development earlier this year. I’m currently working in the printing industry as a lead digital printer, and my job relies very heavily on multitasking, troubleshooting, and problem solving in a logical and precise manner. I think those skills, along with my 10+ years of experience with Adobe CS products will make me an invaluable addition to any company willing to help me break into a career as a front-end developer!</p>
-        </div>
-        <div id="form-container" class="col three">
-            <h5 class="contact">Contact Me</h5>
-            <hr class="hr">
-            <form id="form" action="/php/contact.php" method="post">
-                <label for="name">Name</label>
-                <input type="text" id="name" name="name" />
-                <span class="required"></span>
-                <br />
-                <label for="mail">Email</label>
-                <input type="email" id="email" name="email" />
-                <span class="required"></span>
-                <br />
-                <label for="message">Message</label>
-                <textarea id="message" name="message"></textarea>
-                <span class="required"></span>
-                <br />
-                <input id="form-submit" class="btn" type="submit" name="submit" value="Send Message" />
-            </form>
-        </div>
-    </div>
-</div>
-
-<div class="large-container bg-desk">
-    <div class="skills-left">
-        <img src="img/desk.svg" alt="Me at my desk">
-    </div>
-    <div class="skills-right bg-primary">
-        <p>SKILLS &amp; TOOLS</p>
-        <hr class="hr">
-        <ul class="left">
-            <li><img src="img/skill-html.svg">HTML5</li>
-            <li><img src="img/skill-css.svg">CSS3</li>
-            <li><img src="img/skill-javascript.svg">JavaScript</li>
-            <li><img src="img/skill-jquery.svg">jQuery</li>
-            <li><img src="img/skill-responsive.svg">Responsive Design</li>
-            <li><img src="img/skill-illustrator.svg">Adobe Illustrator</li>
-            <li><img src="img/skill-photoshop.svg">Adobe Photoshop</li>
-            <li><img src="img/skill-indesign.svg">Adobe InDesign</li>
-            <li><img src="img/skill-flash.svg">Adobe Flash</li>
-            <li><img src="img/skill-git.svg">Git / Github</li>
-        </ul>
-    </div>
-</div>
-
 <!-- LEARNING TIMELINE SECTION -->
 
-<a id="mytimeline"></a>
-
 <div class="main-container center white">
-    <h4 class="title">I have been learning web development for:</h4>
+    <h4 id="mytimeline" class="title">I have been learning web development for:</h4>
     <hr class="hr title-hr">
     <h2 id="total"></h2>
 </div>
