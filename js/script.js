@@ -307,31 +307,27 @@ function disableScroll() {
         total.innerHTML = html;
 }());
 
-// Inserts current year for the footer copyright
-(function copyright() {
-    document.getElementById('year').innerHTML = thisYear;
-}());
-
 
 // CONTACT FORM
 // Check if name has been entered or not
 var nameRequired = document.querySelector('#name + span.required');
 var name = document.getElementById('name').addEventListener('focus', checkName);
 var name = document.getElementById('name').addEventListener('blur', checkName);
+var nameValid = false;
 
 function checkName() {
     var name = document.getElementById('name');
     if (name.value.length > 0 && name.value.length < 30) {
-        formErrors = false;
+        nameValid = true;
         nameRequired.style.opacity = "0";
     }
     else if (name.value.length >= 30) {
-        formErrors = true;
+        nameValid = false;
         nameRequired.innerHTML = "Seriously, dude?";
         nameRequired.style.opacity = "1";
     }
     else {
-        formErrors = true;
+        nameValid = false;
         nameRequired.innerHTML = "Please enter a name";
         nameRequired.style.opacity = "1";
     }
@@ -341,37 +337,40 @@ function checkName() {
 var messageRequired = document.querySelector('#message + span.required');
 var message = document.getElementById('message').addEventListener('focus', checkMessage);
 var message = document.getElementById('message').addEventListener('blur', checkMessage);
-var formErrors = false;
+var messageValid = false;
 
 function checkMessage() {
     var message = document.getElementById('message');
     if (message.value.length > 0 && message.value.length < 1000) {
-        formErrors = false;
+        messageValid = true;
         messageRequired.style.opacity = "0";
     }
     else if (message.value.length >= 1000) {
-        formErrors = true;
+        messageValid = false;
         messageRequired.innerHTML = "Easy bud, give me the tldr;";
         messageRequired.style.opacity = "1";
     }
     else {
-        formErrors = true;
+        messageValid = false;
         messageRequired.innerHTML = "Please enter a message";
         messageRequired.style.opacity = "1";
     }
 }
 
+// Check if entries are valid, then submit form
 var formSubmit = document.getElementById('form-submit');
     formSubmit.addEventListener('click', function(e) {
     e.preventDefault();
-    if (formErrors === false) {
+    if (nameValid && messageValid) {
+        formSubmit.classList.add("form-success");
+        formSubmit.value = "Sending...";
         $.ajax({
             type: 'post',
             url: '/php/contact.php',
             data: $('#form').serialize(),
             success: function () {
-                formSubmit.classList.add("form-success");
                 formSubmit.value = "Message Sent";
+                $('#form')[0].reset();
             }
         });
     }
@@ -380,3 +379,9 @@ var formSubmit = document.getElementById('form-submit');
         checkMessage();
     }
 });
+
+
+// Inserts current year for the footer copyright
+(function copyright() {
+    document.getElementById('year').innerHTML = thisYear;
+}());
