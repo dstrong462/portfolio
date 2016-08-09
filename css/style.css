@@ -317,8 +317,23 @@ label[for="nav-toggle"] {
 }
 
 #about-me img {
-    min-width: 200px;
+    min-width: 175px;
     max-width: 250px;
+}
+
+.social-links {
+    display: inline-block;
+    width: 20%;
+    min-width: 40px;
+    max-width: 80px;
+    height: auto;
+    fill: #fff;
+    margin: 10px;
+}
+
+.social-links:hover,
+.social-links:active {
+    fill: #6F749E;
 }
 
 .hi {
