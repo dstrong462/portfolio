@@ -329,6 +329,7 @@ label[for="nav-toggle"] {
     height: auto;
     fill: #fff;
     margin: 10px;
+    transition: .25s;
 }
 
 .social-links:hover,
@@ -685,6 +686,16 @@ footer a:hover {
     }
 }
 
+@media (max-width: 1050px) {
+    #about-me .col {
+        width: 70%;
+        margin: 0 auto;
+    }
+    #about-me img {
+        margin: 0 auto;
+    }
+}
+
 @media (max-width: 768px) {
     #intro-img {
         top: 25px;
@@ -701,15 +712,19 @@ footer a:hover {
         max-width: 35%;
         margin-top: -25%;
     }
+    .project .two-thirds {
+        padding-top: 0;
+        margin-top: 0;
+    }
+    .project h4 {
+        margin-bottom: 0;
+    }
     .title {
         width: 90%;
         font-size: 2em;
     }
-    #about-me img {
-        margin: 0 auto;
-    }
-    #about-me .four {
-        width: 60%;
+    #about-me .col {
+        width: 85%;
     }
     .skills-right,
     .skills-left {
@@ -767,7 +782,7 @@ footer a:hover {
         max-width: 70%;
         margin-top: -55%;
     }
-    #about-me .four {
+    #about-me .col {
         width: 100%;
     }
     #about,
