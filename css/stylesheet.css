@@ -1378,6 +1378,14 @@ hr.project-hr {
     margin: 0 auto;
 }
 
+.large-container div.project {
+    float: none;
+    margin: 0 auto 50px auto;
+    content: '';
+    display: table;
+    clear: both;
+}
+
 .project {
     background-color: #fafafa;
     line-height: 1.5em;
@@ -1397,8 +1405,9 @@ hr.project-hr {
 }
 
 .project .col img {
+    max-width: 175px;
     min-width: 125px;
-    margin: -75% auto 0 auto;
+    margin: -50% auto 0 auto;
 }
 
 .project a {
@@ -1425,6 +1434,11 @@ hr.project-hr {
     background-color: #ADC183;
     padding: 1px 6px;
     margin: 2px 1px;
+}
+
+.entry-date {
+    font-style: italic;
+    margin-top: 0;
 }
 
 /*  LEARNING TIMELINE
