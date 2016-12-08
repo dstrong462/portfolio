@@ -1,7 +1,6 @@
 {
   "name": "portfolio",
   "version": "1.0.0",
-  "description": "",
   "main": "gulpfile.js",
   "dependencies": {
     "gulp": "^3.9.1"
@@ -27,5 +26,6 @@
   "bugs": {
     "url": "https://github.com/dstrong462/portfolio/issues"
   },
-  "homepage": "https://github.com/dstrong462/portfolio#readme"
+  "homepage": "https://github.com/dstrong462/portfolio#readme",
+  "description": ""
 }

@@ -1,5 +1,4 @@
 // Round up all elements that need colors changed dynamically
-var h = new Date().getHours();
 var navColor = document.querySelectorAll('#nav div' + ',#nav a' + ',.project a');
 var intro = document.getElementById('intro');
 var urlClass = document.querySelectorAll('.project a');
@@ -23,39 +22,40 @@ var navLinks = document.querySelectorAll('#nav a');
 
 // Navigation buttons that change the time of day
 var btnSunrise = document.getElementById('btn-sunrise');
-btnSunrise.addEventListener('click', changeToSunrise);
+    btnSunrise.addEventListener('click', changeToSunrise);
 var btnSunriseMobile = document.getElementById('mobile-btn-sunrise');
-btnSunriseMobile.addEventListener('click', changeToSunrise);
+    btnSunriseMobile.addEventListener('click', changeToSunrise);
 
 var btnDay = document.getElementById('btn-day');
-btnDay.addEventListener('click', changeToDay);
+    btnDay.addEventListener('click', changeToDay);
 var btnDayMobile = document.getElementById('mobile-btn-day');
-btnDayMobile.addEventListener('click', changeToDay);
+    btnDayMobile.addEventListener('click', changeToDay);
 
 var btnSunset = document.getElementById('btn-sunset');
-btnSunset.addEventListener('click', changeToSunset);
+    btnSunset.addEventListener('click', changeToSunset);
 var btnSunsetMobile = document.getElementById('mobile-btn-sunset');
-btnSunsetMobile.addEventListener('click', changeToSunset);
+    btnSunsetMobile.addEventListener('click', changeToSunset);
 
 var btnNight = document.getElementById('btn-night');
-btnNight.addEventListener('click', changeToNight);
+    btnNight.addEventListener('click', changeToNight);
 var btnNightMobile = document.getElementById('mobile-btn-night');
-btnNightMobile.addEventListener('click', changeToNight);
+    btnNightMobile.addEventListener('click', changeToNight);
 
 var currentTimeOfDay = "sunset";
 
 // Changes sky and document colors depending on the time of day
 (function timeOfDay() {
-    if (h >= 5 && h <= 10) {
+    var hour = new Date().getHours();
+    if (hour >= 5 && hour <= 10) {
         changeToSunrise();
     }
-    else if (h > 10 && h <= 15) {
+    else if (hour > 10 && hour <= 15) {
         changeToDay();
     }
-    else if (h > 15 && h <= 21) {
+    else if (hour > 15 && hour <= 21) {
         changeToSunset();
     }
-    else if (h > 21 || h < 5) {
+    else if (hour > 21 || hour < 5) {
         changeToNight();
     }
     else {
@@ -382,6 +382,4 @@ var formSubmit = document.getElementById('form-submit');
 
 
 // Inserts current year for the footer copyright
-(function copyright() {
-    document.getElementById('year').innerHTML = thisYear;
-}());
+document.getElementById('year').innerHTML = thisYear;
