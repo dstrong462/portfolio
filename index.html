@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Daniel Strong // Front-End Developer</title>
+
+    <meta name="description" content="I'm Daniel Strong, and this is my front-end developer portfolio. Inside you'll find some projects that focus on HTML, CSS, and JavaScript.">
+
+    <meta name="author" content="Daniel Strong">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,600" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lora:700" rel="stylesheet">
+
+    <link rel="stylesheet" href="css/stylesheet.min.css">
+
+    <link rel="icon" type="image/png" href="img/favicon.png">
+</head>
+
+<body>
+
+<a id="top"></a>
+
+<!-- MOBILE NAV -->
+
+<input type="checkbox" id="nav-toggle" class="nav-toggle">
+<label for="nav-toggle"></label>
+
+<div class="mobile-nav">
+    <ul class="mobile-nav-list">
+        <li><a href="#top">top</a></li>
+        <li><a href="#about">about me</a></li>
+        <li><a href="#projects">projects</a></li>
+        <li><a href="#mytimeline">learning timeline</a></li>
+        <img src="img/nav-gear.svg" alt="Options">
+        <li><a id="mobile-btn-sunrise">Sunrise</a></li>
+        <li><a id="mobile-btn-day">Day</a></li>
+        <li><a id="mobile-btn-sunset">Sunset</a></li>
+        <li><a id="mobile-btn-night">Night</a></li>
+    </ul>
+</div>
+
+<!-- DESKTOP AND TABLET NAV -->
+
+<div id="overlay"></div>
+
+<div id="nav" class="clearfix">
+    <div id="nav-menu" class="closed">
+        <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25"><rect y="1" width="25" height="4" class="a"/><rect y="20" width="25" height="4" class="a"/><rect y="10.5" width="25" height="4" class="a"/></svg>
+        <br />
+        <a href="#top">top</a>
+        <a href="#about">about me</a>
+        <a href="#projects">projects</a>
+        <a href="#mytimeline">learning timeline</a>
+        <br />
+    </div>
+    <div id="nav-name">
+        <a href="#top">Daniel &nbsp;Strong</a>
+    </div>
+    <div id="nav-extras" class="closed">
+        <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25"><path d="M23.6 6.7c-0.1 0-0.3-0.1-0.4-0.1l-2.6 0.8 0.1 0.2c0 0-0.4 0-0.6-0.3 -0.3-0.4-0.5-0.8-0.8-1.1 -0.2-0.2-0.3-0.5-0.1-0.8l1.2-2.2 0 0c0.1-0.1 0.1-0.2 0-0.3 0-0.1-0.1-0.2-0.2-0.2l-3.5-1.9 0-0.1c-0.1-0.1-0.2-0.1-0.2-0.1L16.5 0.6c0 0-0.3 0.1-0.3 0.2l-1.2 2.2c-0.1 0.3-0.4 0.4-0.7 0.4 -0.5-0.1-0.8-0.2-1.3-0.2 -0.3 0-0.5-0.2-0.6-0.5l-0.7-2.4c0-0.1-0.2-0.2-0.3-0.3 -0.1 0-0.3-0.1-0.4-0.1L7 1.2C6.9 1.2 6.7 1.4 6.7 1.5 6.6 1.5 6.5 1.7 6.6 1.9L7.3 4.2c0.1 0.3 0.1 0.5-0.1 0.7C6.7 5.2 6.4 5.5 6 5.8c-0.2 0.2-0.5 0.2-0.7 0.1L3.2 4.8 3.2 4.8 3.1 4.7C3 4.7 2.9 4.7 2.8 4.7 2.7 4.8 2.6 4.8 2.6 4.9L0.7 8.4 0.7 8.4 0.7 8.4C0.7 8.5 0.6 8.6 0.7 8.7 0.7 8.8 0.7 8.8 0.8 8.8l2.2 1 0 0c0.4 0.6 0.4 0.5 0.4 0.8 -0.1 0.5-0.1 0.9-0.2 1.4 0 0.3-0.2 0.5-0.5 0.6l-2.4 0.7c-0.1 0-0.2 0.2-0.2 0.3l-0.1 0.1c0 0.1-0.1 0.3-0.1 0.4l1.1 3.8c0 0.1 0.2 0.3 0.3 0.3 0.1 0.1 0.3 0.1 0.4 0.1l2.4-0.7c0.3-0.1 0.5-0.1 0.7 0.1 0.3 0.4 0.6 0.7 0.9 1.1 0.2 0.2 0.2 0.5 0.1 0.7l-1.1 2.1 0 0 0 0 0 0c0 0.1-0.1 0.2 0 0.3 0 0.1 0.1 0.2 0.2 0.2l3.5 1.9 0 0 0 0c0.1 0.1 0.2 0.1 0.3 0 0.1 0 0.2-0.1 0.2-0.2l0 0 1.2-2.2c0.1-0.2 0.4-0.4 0.7-0.3 0.5 0.1 0.8 0.2 1.3 0.2 0.3 0 0.4 0.2 0.5 0.5l0.7 2.4c0 0.1 0.2 0.2 0.3 0.3 0.1 0 0.3 0.1 0.4 0.1l3.8-1.1c0.1 0 0.3-0.2 0.3-0.3 0.1-0.1 0.1-0.3 0.1-0.4l-0.8-2.6 -0.2 0.1c0 0 0-0.4 0.3-0.6 0.4-0.3 0.8-0.5 1.2-0.9 0.2-0.2 0.5-0.2 0.8-0.1l2.2 1.2 0 0c0.1 0.1 0.2 0.1 0.3 0 0.1 0 0.2-0.1 0.2-0.2l1.9-3.5c0.1-0.1 0.1-0.2 0-0.3 0-0.1-0.1-0.2-0.2-0.2l-2.2-1.2c-0.3-0.1-0.4-0.4-0.3-0.7 0.1-0.5 0.1-0.8 0.2-1.3 0-0.3 0.2-0.4 0.5-0.5l2.3-0.7 0-0.1c0.1 0 0.2-0.1 0.2-0.2l0.1-0.1c0-0.1 0.1-0.2 0.1-0.3l-1.1-3.8 0 0 0 0C23.8 6.9 23.6 6.7 23.6 6.7zM13.7 16.6c-2.3 0.7-4.6-0.6-5.3-2.9 -0.7-2.3 0.6-4.6 2.9-5.3 2.3-0.7 4.6 0.6 5.3 2.9C17.3 13.5 16 15.9 13.7 16.6z"/></svg>
+        <br />
+        <a id="btn-sunrise">Sunrise</a>
+        <a id="btn-day">Day</a>
+        <a id="btn-sunset">Sunset</a>
+        <a id="btn-night">Night</a>
+        <br />
+    </div>
+</div>
+
+<!-- INTRO HEADER -->
+
+<div id="intro" class="sunset"></div>
+
+<div id="intro-img">
+    <img id="intro-svg" src="img/intro.svg" alt="Isometric Landscape">
+    <img id="intro-clouds" src="img/intro-clouds.svg" alt="Isometric Clouds">
+    <img id="intro-clouds2" src="img/intro-clouds2.svg" alt="Isometric Clouds">
+</div>
+
+<!-- ABOUT ME AND SKILLS SECTION -->
+
+<h3 id="about" class="title">A little bit about me.</h3>
+<hr class="hr title-hr">
+
+<div id="about-me" class="large-container">
+    <div class="row center">
+        <div class="col two h-flush center">
+            <img src="img/avatar.svg" alt="An artists rendition of me with no face">
+            <br />
+            <a href="https://codepen.io/dstrong462/" target="_blank"><svg class="social-links" xmlns="http://www.w3.org/2000/svg" width="115" height="115" viewBox="0 0 115.5 115.5"><polygon points="28.2 52.6 28.2 62.9 35.8 57.7 " /><polygon points="54.7 45.1 54.7 30.8 30.6 46.9 41.4 54 " /><polygon points="84.8 46.9 60.8 30.8 60.8 45.1 74.1 54 " /><polygon points="30.6 68.6 54.7 84.6 54.7 70.3 41.4 61.4 " /><polygon points="60.8 70.3 60.8 84.6 84.8 68.6 74.1 61.4 " /><polygon points="57.7 50.5 46.9 57.7 57.7 65 68.6 57.7 " /><path d="M57.7 0C25.8 0 0 25.8 0 57.7c0 31.9 25.8 57.7 57.7 57.7 31.9 0 57.7-25.8 57.7-57.7C115.5 25.8 89.6 0 57.7 0M93.4 68.6c0 0.1 0 0.3 0 0.4 0 0 0 0.1 0 0.1 0 0.1 0 0.2-0.1 0.3 0 0.1 0 0.1 0 0.1 0 0.1 0 0.2-0.1 0.2 0 0.1 0 0.1-0.1 0.1 0 0.1-0.1 0.1-0.1 0.2 0 0-0.1 0.1-0.1 0.1 0 0.1-0.1 0.1-0.1 0.2 0 0-0.1 0.1-0.1 0.1 0 0.1-0.1 0.1-0.2 0.2 0 0-0.1 0.1-0.1 0.1 -0.1 0.1-0.1 0.1-0.2 0.1 0 0-0.1 0.1-0.1 0.1 0 0 0 0-0.1 0L59.4 92.9c-0.5 0.3-1.1 0.5-1.7 0.5 -0.6 0-1.2-0.2-1.7-0.5L23.4 71.2c0 0 0 0 0 0 0 0-0.1-0.1-0.1-0.1 -0.1 0-0.1-0.1-0.2-0.1 0 0-0.1-0.1-0.1-0.1 -0.1-0.1-0.1-0.1-0.2-0.2 0 0-0.1-0.1-0.1-0.1 0-0.1-0.1-0.1-0.1-0.2 0 0-0.1-0.1-0.1-0.1 0-0.1-0.1-0.1-0.1-0.2 0 0 0-0.1-0.1-0.1 0-0.1-0.1-0.1-0.1-0.2 0 0 0-0.1 0-0.1 0-0.1 0-0.2-0.1-0.3 0 0 0-0.1 0-0.1 0-0.1 0-0.3 0-0.4V46.9c0-0.1 0-0.3 0-0.4 0 0 0-0.1 0-0.1 0-0.1 0-0.2 0.1-0.3 0-0.1 0-0.1 0-0.1 0-0.1 0-0.1 0.1-0.2 0 0 0-0.1 0.1-0.1 0-0.1 0.1-0.1 0.1-0.2 0 0 0.1-0.1 0.1-0.1 0-0.1 0.1-0.1 0.1-0.2 0 0 0.1-0.1 0.1-0.1 0.1-0.1 0.1-0.1 0.2-0.2 0 0 0.1-0.1 0.1-0.1 0.1 0 0.1-0.1 0.2-0.1 0 0 0.1-0.1 0.1-0.1 0 0 0 0 0.1 0L56 22.6c1-0.7 2.4-0.7 3.4 0l32.6 21.8c0 0 0 0 0.1 0 0 0 0.1 0.1 0.1 0.1 0.1 0 0.1 0.1 0.2 0.1 0 0 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.2 0.2 0 0 0.1 0.1 0.1 0.1 0 0.1 0.1 0.1 0.1 0.2 0 0 0.1 0.1 0.1 0.1 0 0.1 0.1 0.1 0.1 0.2 0 0 0 0.1 0.1 0.1 0 0.1 0.1 0.1 0.1 0.2 0 0 0 0.1 0 0.1 0 0.1 0 0.2 0.1 0.3 0 0 0 0.1 0 0.1 0 0.1 0 0.3 0 0.4V68.6z" /><polygon points="87.3 62.9 87.3 52.6 79.6 57.7 " /></svg></a>
+
+            <a href="https://github.com/dstrong462" target="_blank"><svg class="social-links" xmlns="http://www.w3.org/2000/svg" width="121" height="118" viewBox="0 0 120.8 117.8"><path d="M60.4 0C27 0 0 27 0 60.4c0 26.7 17.3 49.3 41.3 57.3 3 0.6 4.1-1.3 4.1-2.9 0-1.4-0.1-6.2-0.1-11.2 -16.8 3.7-20.3-7.1-20.3-7.1 -2.7-7-6.7-8.8-6.7-8.8 -5.5-3.7 0.4-3.7 0.4-3.7 6.1 0.4 9.3 6.2 9.3 6.2 5.4 9.2 14.1 6.6 17.6 5 0.5-3.9 2.1-6.6 3.8-8.1 -13.4-1.5-27.5-6.7-27.5-29.8 0-6.6 2.4-12 6.2-16.2 -0.6-1.5-2.7-7.7 0.6-16 0 0 5.1-1.6 16.6 6.2 4.8-1.3 10-2 15.1-2 5.1 0 10.3 0.7 15.1 2 11.5-7.8 16.6-6.2 16.6-6.2 3.3 8.3 1.2 14.5 0.6 16 3.9 4.2 6.2 9.6 6.2 16.2 0 23.2-14.1 28.3-27.6 29.8 2.2 1.9 4.1 5.5 4.1 11.2 0 8.1-0.1 14.6-0.1 16.6 0 1.6 1.1 3.5 4.1 2.9 24-8 41.3-30.6 41.3-57.3C120.8 27 93.7 0 60.4 0z" /><path d="M22.9 86.7c-0.1 0.3-0.6 0.4-1 0.2 -0.4-0.2-0.7-0.6-0.5-0.9 0.1-0.3 0.6-0.4 1-0.2C22.8 86 23 86.4 22.9 86.7L22.9 86.7zM22.1 86.2" /><path d="M25.3 89.4c-0.3 0.3-0.9 0.1-1.2-0.3 -0.4-0.4-0.5-1-0.2-1.3 0.3-0.3 0.8-0.1 1.2 0.3C25.5 88.6 25.6 89.2 25.3 89.4L25.3 89.4zM24.7 88.8" /><path d="M27.7 92.9c-0.4 0.3-1 0-1.3-0.5 -0.4-0.5-0.4-1.2 0-1.4 0.4-0.3 1 0 1.4 0.5C28.1 92 28.1 92.6 27.7 92.9L27.7 92.9zM27.7 92.9" /><path d="M31 96.3c-0.3 0.4-1 0.3-1.6-0.2 -0.5-0.5-0.7-1.2-0.3-1.5 0.3-0.4 1-0.3 1.6 0.2C31.2 95.2 31.3 95.9 31 96.3L31 96.3zM31 96.3" /><path d="M35.5 98.2c-0.1 0.5-0.8 0.7-1.5 0.5 -0.7-0.2-1.1-0.8-1-1.2 0.1-0.5 0.8-0.7 1.5-0.5C35.2 97.2 35.6 97.7 35.5 98.2L35.5 98.2zM35.5 98.2" /><path d="M40.4 98.6c0 0.5-0.6 0.9-1.3 0.9 -0.7 0-1.3-0.4-1.3-0.9 0-0.5 0.6-0.9 1.3-0.9C39.8 97.7 40.4 98.1 40.4 98.6L40.4 98.6zM40.4 98.6" /><path d="M45 97.8c0.1 0.5-0.4 1-1.1 1.1 -0.7 0.1-1.3-0.2-1.4-0.7 -0.1-0.5 0.4-1 1.1-1.1C44.3 97 44.9 97.3 45 97.8L45 97.8zM45 97.8" /></svg></a>
+        </div>
+        <div class="col third">
+            <p><span class="hi">Hi</span> , I'm Daniel, a front-end developer currently living in Raleigh, North Carolina. I have a passion for learning new technologies, and that has been reignited with a vengeance since I started learning web development earlier this year. I’m currently working in the printing industry as a lead digital printer, and my job relies very heavily on multitasking, troubleshooting, and problem solving in a logical and precise manner. I think those skills, along with my 10+ years of experience with Adobe CS products will make me an invaluable addition to any company willing to help me break into a career as a front-end developer!</p>
+        </div>
+        <div id="form-container" class="col three">
+            <h5 class="contact">Contact Me</h5>
+            <hr class="hr">
+            <form id="form" action="/php/contact.php" method="post">
+                <label for="name">Name</label>
+                <input type="text" id="name" name="name" />
+                <span class="required"></span>
+                <br />
+                <label for="mail">Email</label>
+                <input type="email" id="email" name="email" />
+                <span class="required"></span>
+                <br />
+                <label for="message">Message</label>
+                <textarea id="message" name="message"></textarea>
+                <span class="required"></span>
+                <br />
+                <input id="form-submit" class="btn" type="submit" name="submit" value="Send Message" />
+            </form>
+        </div>
+    </div>
+</div>
+
+<div class="large-container bg-desk">
+    <div class="skills-left">
+        <img src="img/desk.svg" alt="Me at my desk">
+    </div>
+    <div class="skills-right bg-primary">
+        <p>SKILLS &amp; TOOLS</p>
+        <hr class="hr">
+        <ul class="left">
+            <li><img src="img/skill-html.svg">HTML5</li>
+            <li><img src="img/skill-css.svg">CSS3</li>
+            <li><img src="img/skill-css.svg">Flexbox</li>
+            <li><img src="img/skill-javascript.svg">JavaScript</li>
+            <li><img src="img/skill-jquery.svg">jQuery</li>
+            <li><img src="img/skill-responsive.svg">Responsive Design</li>
+            <li><img src="img/skill-illustrator.svg">Adobe Illustrator</li>
+            <li><img src="img/skill-photoshop.svg">Adobe Photoshop</li>
+            <li><img src="img/skill-indesign.svg">Adobe InDesign</li>
+            <li><img src="img/skill-flash.svg">Adobe Flash</li>
+            <li><img src="img/skill-git.svg">Git / Github</li>
+        </ul>
+    </div>
+</div>
+
+<!-- PROJECTS SECTION -->
+
+<h3 id="projects" class="title">Here you'll find my coding projects that primarily focus on HTML, CSS, and JavaScript.</h3>
+<hr class="hr project-hr">
+
+<div class="large-container">
+    <div class="row">
+        <div class="col half project">
+                <div class="col third center">
+                    <img src="img/building-colormatch.svg" alt="Ramshackle">
+                    <a class="url v-25" href="https://dstrong462.github.io/color-match/" target="_blank">View Website</a>
+                    <br />
+                    <span class="tag">HTML</span>
+                    <span class="tag">CSS</span>
+                    <span class="tag">Flexbox</span>
+                    <span class="tag">JavaScript</span>
+                </div>
+                <div class="col two-thirds">
+                    <a class="url" href="https://dstrong462.github.io/color-match/" target="_blank">
+                    <h4>Color Match</h4></a>
+                    <p>This is a simple color matching game that I built to learn Flexbox and take a deeper dive into vanilla JavaScript.</p>
+                    <p><strong>Challenges:</strong><br />
+                    This is the first game that I've made with JavaScript, but I had a blast making it. I learned a ton of cool new things that can be done with JavaScript, how to store and access data with localStorage, and best of all is that now I have a fun little game to play if I get bored.</p>
+                </div>
+            </div>
+        <div class="col half project">
+            <div class="col third center">
+                <img src="img/building-tolkien.svg" alt="Tolkien Ipsum Generator">
+                <a class="url v-25" href="http://ipsum.danielstrong.io" target="_blank">View Website</a>
+                <br />
+                <span class="tag">HTML</span>
+                <span class="tag">CSS</span>
+                <span class="tag">JavaScript</span>
+                <span class="tag">Responsive</span>
+            </div>
+            <div class="col two-thirds">
+                <a class="url" href="http://ipsum.danielstrong.io" target="_blank">
+                <h4>Tolkien Ipsum</h4></a>
+                <p>This is a Middle-earth themed dummy text generator I developed on a Saturday as a fun little project. It groups words from an array into sentences, and then into paragraphs. The number of paragraphs, as well as their length can easily be modified by the user.</p>
+                <p><strong>Challenges:</strong><br />
+                This was a simple project, but I had a lot of fun working through it. Learning how best to structure the functions so that the parameters could be changed by the user was the hardest part.</p>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col half project">
+            <div class="col third center">
+                <img src="img/building-ramshackle.svg" alt="Ramshackle">
+                <a class="url v-25" href="http://www.getramshackle.com" target="_blank">View Website</a>
+                <br />
+                <span class="tag">HTML</span>
+                <span class="tag">CSS</span>
+                <span class="tag">Responsive</span>
+            </div>
+            <div class="col two-thirds">
+                <a class="url" href="http://www.getramshackle.com" target="_blank">
+                <h4>Ramshackle</h4></a>
+                <p>This is a responsive boilerplate I created to improve my coding skills, and to learn more about responsive web design. I created this after about 4 months of learning web development, so there were lots of fun new things to learn and play around with.</p>
+                <p><strong>Challenges:</strong><br />
+                This was the most involved project I had done to date. There were lots of parts and pieces that I had to figure out to make it all work. I worked through this by writing an outline of key points, and then got more granular with what my needs were by using a todo list to keep focused.</p>
+            </div>
+        </div>
+        <div class="col half project">
+            <div class="col third center">
+                <img src="img/building-twitch.svg" alt="Twitch API">
+                <a class="url v-25" href="http://codepen.io/dstrong462/pen/ezJmEa" target="_blank">View on CodePen</a>
+                <br />
+                <span class="tag">HTML</span>
+                <span class="tag">CSS</span>
+                <span class="tag">JavaScript</span>
+                <span class="tag">API</span>
+            </div>
+            <div class="col two-thirds">
+                <a class="url" href="http://codepen.io/dstrong462/pen/ezJmEa" target="_blank">
+                <h4>Twitch Viewer</h4></a>
+                <p>This app utilizes the API for the popular game streaming platform Twitch. It loops through an array of streamers displaying their current online/offline status, what game they are playing, as well as their current live viewer count.</p>
+                <p><strong>Challenges:</strong><br />
+                This was my first foray into asynchronous data, so my program was trying to display data before it was actually received. I solved this by learning more about deferred callbacks.</p>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col half project">
+            <div class="col third center">
+                <img src="img/building-questlog.svg" alt="Quest Log">
+                <a class="url v-25" href="http://codepen.io/dstrong462/pen/wWBPxm" target="_blank">View on CodePen</a>
+                <br />
+                <span class="tag">HTML</span>
+                <span class="tag">CSS</span>
+                <span class="tag">JavaScript</span>
+            </div>
+            <div class="col two-thirds">
+                <a class="url" href="http://codepen.io/dstrong462/pen/wWBPxm" target="_blank">
+                <h4>Quest Log</h4></a>
+                <p>Rather than a traditional todo list I opted to create something more interesting. Quests that are added are assigned a random XP value, and can then be turned in for cumulative experience points.</p>
+                <p><strong>Challenges:</strong><br />
+                Learning to concatenate variables with HTML and then insert it into the DOM for the first time was hard, but I learned a lot from this project about DOM manipulation and how it works.</p>
+            </div>
+        </div>
+        <div class="col half project">
+            <div class="col third center">
+                <img src="img/building-wikipedia.svg" alt="Wikipedia API">
+                <a class="url v-25" href="http://codepen.io/dstrong462/pen/NrqLgE" target="_blank">View on CodePen</a>
+                <br />
+                <span class="tag">HTML</span>
+                <span class="tag">CSS</span>
+                <span class="tag">JavaScript</span>
+                <span class="tag">API</span>
+            </div>
+            <div class="col two-thirds">
+                <a class="url" href="http://codepen.io/dstrong462/pen/NrqLgE" target="_blank">
+                <h4>Wikipedia Search</h4></a>
+                <p>This project uses the Wikipedia API to display a custom Wikipedia search page.</p>
+                <p><strong>Challenges:</strong><br />
+                This was the first time I worked with an API, so learning to loop through and display the returned JSON data was a new concept to me, but I solved this by learning more about the data structure of what I was receiving, and how to display only the relevant name/value pairs of objects.</p>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col half project">
+            <div class="col full">
+                <a class="url" href="https://www.freecodecamp.com/dstrong462" target="_blank">
+                <h4>JavaScript Algorithms</h4></a><br />
+                <span class="tag">JavaScript</span><br />
+                <p>FreeCodeCamp has a fantastic set of algorithm challenges. Here are my solutions to some of their basic and intermediate level algorithms:</p>
+                <div class="col half flush">
+                    <a href="http://bit.ly/29YeMAM" target="_blank">Reverse a String</a><br />
+                    <a href="http://bit.ly/29YeF8t" target="_blank">Factorialize a Number</a><br />
+                    <a href="http://bit.ly/2a7kN15" target="_blank">Check for Palindromes</a><br />
+                    <a href="http://bit.ly/2alJIi7" target="_blank">Find the Longest Word in a String</a><br />
+                    <a href="http://bit.ly/2aEBkIx" target="_blank">Return Largest Numbers in Arrays</a><br />
+                    <a href="http://bit.ly/2aEBv6j" target="_blank">Confirm the Ending</a><br />
+                    <a href="http://bit.ly/2a6oikW" target="_blank">Repeat a string repeat a string</a><br />
+                    <a href="http://bit.ly/2an3HPn" target="_blank">Truncate a string</a><br />
+                    <a href="http://bit.ly/2abDaDf" target="_blank">Title Case a Sentence</a><br />
+                    <a href="http://bit.ly/2a4qVK8" target="_blank">Slasher Flick</a><br />
+                </div>
+                <div class="col half flush">
+                    <a href="http://bit.ly/2a4pOKA" target="_blank">Falsy Bouncer</a><br />
+                    <a href="http://bit.ly/2alJRSW" target="_blank">Chunky Monkey</a><br />
+                    <a href="http://bit.ly/2an3AmJ" target="_blank">Mutations</a><br />
+                    <a href="http://bit.ly/2a6oikV" target="_blank">Seek and Destroy</a><br />
+                    <a href="http://bit.ly/2aazaCa" target="_blank">Where do I belong</a><br />
+                    <a href="http://bit.ly/2ajqk4i" target="_blank">Caesars Cipher</a><br />
+                    <a href="http://bit.ly/2a3bmyv" target="_blank">Sum All Numbers in a Range</a><br />
+                    <a href="http://bit.ly/2aazssx" target="_blank">Diff Two Arrays</a><br />
+                    <a href="http://bit.ly/2aqsCkq" target="_blank">Roman Numeral Converter</a><br />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- LEARNING TIMELINE SECTION -->
+
+<div class="main-container center white">
+    <h4 id="mytimeline" class="title">I have been learning web development for:</h4>
+    <hr class="hr title-hr">
+    <h2 id="total"></h2>
+</div>
+
+<div id="learning" class="large-container">
+    <div class="grid-container">
+        <h3 class="title">My Learning Timeline</h3>
+        <hr class="hr title-hr">
+        <div class="row">
+            <div class="col six timeline">
+                <a href="https://www.codecademy.com/" target="_blank"><img class="four" src="img/logo-codecademy.svg" alt="Codecademy Logo"></a>
+                <br />
+                <h5>HTML &amp; CSS Basics</h5>
+                <a class="course-list" href="https://www.codecademy.com/learn/web" target="_blank">View Course List</a>
+                <img class="checked" src="img/checked.svg">
+                <hr class="hr">
+                <div class="row center v-flush">
+                    <div class="col quarter">
+                        <p><span class="number">6</span><br />Lessons</p>
+                    </div>
+                    <div class="col quarter">
+                        <p><span class="number">12</span><br />Steps</p>
+                    </div>
+                </div>
+                <br />
+                <h5>JavaScript Basics</h5>
+                <a class="course-list" href="https://www.codecademy.com/learn/javascript" target="_blank">View Course List</a>
+                <img class="checked" src="img/checked.svg">
+                <hr class="hr">
+                <div class="row center v-flush">
+                    <div class="col quarter">
+                        <p><span class="number">8</span><br />Lessons</p>
+                    </div>
+                    <div class="col quarter">
+                        <p><span class="number">16</span><br />Steps</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col four dotted-right">
+                <img src="img/dotted-line-right.svg">
+            </div>
+        </div>
+        <img class="dotted-middle" src="img/dotted-line.svg">
+        <div class="row">
+            <div class="col four dotted-left">
+                <img src="img/dotted-line-left.svg">
+            </div>
+            <div class="col six timeline pull-right">
+                <a href="https://teamtreehouse.com/" target="_blank"><img class="four" src="img/logo-treehouse.svg" alt="Team Treehouse Logo"></a>
+                <br />
+                <h5>Front-End Web Development Track</h5>
+                <a class="course-list" href="https://teamtreehouse.com/tracks/front-end-web-development" target="_blank">View Course List</a>
+                <img class="checked" src="img/checked.svg">
+                <hr class="hr">
+                <div class="row center v-flush">
+                    <div class="col quarter">
+                        <p><span class="number">20</span><br />Courses</p>
+                    </div>
+                    <div class="col quarter">
+                        <p><span class="number">83</span><br />Lessons</p>
+                    </div>
+                    <div class="col quarter">
+                        <p><span class="number">748</span><br />Steps</p>
+                    </div>
+                </div>
+                <br />
+                <h5>Web Design Track</h5>
+                <a class="course-list" href="https://teamtreehouse.com/tracks/web-design" target="_blank">View Course List</a>
+                <img class="checked" src="img/checked.svg">
+                <hr class="hr">
+                <div class="row center v-flush">
+                    <div class="col quarter">
+                        <p><span class="number">17</span><br />Courses</p>
+                    </div>
+                    <div class="col quarter">
+                        <p><span class="number">69</span><br />Lessons</p>
+                    </div>
+                    <div class="col quarter">
+                        <p><span class="number">571</span><br />Steps</p>
+                    </div>
+                </div>
+                <br />
+            </div>
+        </div>
+        <img class="dotted-middle" src="img/dotted-line.svg">
+        <div class="row">
+            <div class="col six timeline">
+                <h5>Supplemental Material</h5>
+                <hr class="hr">
+                <a href="https://www.udemy.com" target="_blank"><img class="two" src="img/logo-udemy.svg" alt="Udemy Logo"></a>
+                <ul class="left">
+                    <li><a class="course-list" href="https://www.udemy.com/understand-javascript/" target="_blank">JavaScript: Understanding the Weird Parts</a></li>
+                </ul>
+                <h5>Reading:</h5>
+                <ul class="left">
+                    <li><a class="course-list" href="http://www.javascriptbook.com/about/" target="_blank">JavaScript &amp; JQuery: Interactive Front-End Web Development</a></li>
+                </ul>
+            </div>
+            <div class="col four dotted-right">
+                <img src="img/dotted-line-right.svg">
+            </div>
+        </div>
+        <img class="dotted-middle" src="img/dotted-line.svg">
+        <div class="row">
+            <div class="col four dotted-left">
+            </div>
+            <div class="col six timeline pull-right">
+                <a href="https://www.freecodecamp.com/" target="_blank"><img class="half" src="img/logo-freecodecamp.svg" alt="FreeCodeCamp Logo"></a>
+                <br />
+                <h5>Front-End Development Certification</h5>
+                <a class="course-list" href="https://www.freecodecamp.com/map" target="_blank">View Course List</a>
+                <img class="checked" src="img/checked-grey.svg">
+                <hr class="hr">
+                <div class="row center v-flush">
+                    <div class="col quarter">
+                        <p><span class="number">14</span><br />Courses</p>
+                    </div>
+                    <div class="col quarter">
+                        <p><span class="number">297</span><br />Lessons</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- FOOTER SECTION -->
+
+<footer>
+    <div class="row center">
+        <div class="col quarter">
+            <h6>My Resources:</h6>
+            <a href="https://www.codecademy.com" target="_blank">Codecademy</a><br />
+            <a href="https://teamtreehouse.com" target="_blank">Treehouse</a><br />
+            <a href="https://www.udemy.com" target="_blank">Udemy</a><br />
+            <a href="https://www.freecodecamp.com" target="_blank">Free Code Camp</a><br />
+            <a href="http://stackoverflow.com/" target="_blank">Stack Overflow</a>
+        </div>
+        <div class="col quarter">
+            <a href="https://www.reddit.com/r/webdev/" target="_blank">r/webdev</a><br />
+            <a href="https://www.reddit.com/r/web_design" target="_blank">r/web_design</a><br />
+            <a href="http://www.w3schools.com/" target="_blank">W3Schools</a><br />
+            <a href="https://developer.mozilla.org/en-US/" target="_blank">Mozilla Dev Network</a><br />
+            <a href="https://www.vectorstock.com/" target="_blank">VectorStock</a>
+        </div>
+        <div class="col third center">
+            <img src="img/maze.svg">
+            <p>Developed by<br />Daniel Strong &copy;<span id="year"></span></p>
+        </div>
+    </div>
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>
+<script src="js/app.min.js"></script>
+</body>
+</html>
