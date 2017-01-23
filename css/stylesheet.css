@@ -1404,7 +1404,7 @@ hr.project-hr {
     margin-right: 0;
 }
 
-.project .col img {
+.building {
     max-width: 175px;
     min-width: 125px;
     margin: -50% auto 0 auto;
@@ -1439,6 +1439,10 @@ hr.project-hr {
 .entry-date {
     font-style: italic;
     margin-top: 0;
+}
+
+.googleplay {
+    max-width: 200px;
 }
 
 /*  LEARNING TIMELINE
@@ -1610,7 +1614,7 @@ footer a:hover {
         padding: 0;
         margin-bottom: 150px;
     }
-    .project .col img {
+    .building {
         max-width: 35%;
         margin-top: -25%;
     }
@@ -1680,7 +1684,7 @@ footer a:hover {
     label[for="nav-toggle"] {
         visibility: visible;
     }
-    .project .col img {
+    .building {
         max-width: 70%;
         margin-top: -55%;
     }

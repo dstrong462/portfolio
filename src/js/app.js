@@ -313,4 +313,4 @@ var formSubmit = document.getElementById('form-submit');
 
 
 // Inserts current year for the footer copyright
-document.getElementById('year').innerHTML = thisYear;
+document.getElementById('year').innerHTML = new Date().getFullYear();
