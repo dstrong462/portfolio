@@ -259,10 +259,13 @@ label[for="nav-toggle"] {
     display: inline-block;
     top: inherit;
     left: 50%;
+    height: 107vh;
     -webkit-transform: translateX(-50%);
             transform: translateX(-50%);
     padding: 0;
     margin: 0 auto;
+    opacity: 0;
+    transition: 1s;
     z-index: 1;
 }
 

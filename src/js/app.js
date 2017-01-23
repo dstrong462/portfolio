@@ -314,3 +314,12 @@ var formSubmit = document.getElementById('form-submit');
 
 // Inserts current year for the footer copyright
 document.getElementById('year').innerHTML = new Date().getFullYear();
+
+var logoInterval = setInterval(function() {
+    if(document.getElementById('intro-svg').complete) {
+        clearInterval(logoInterval);
+        var intro = document.getElementById('intro-img');
+            intro.style.height = 'auto';
+            intro.style.opacity = 1;
+    }
+}, 100);
